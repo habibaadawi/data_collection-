@@ -1,0 +1,117 @@
+{
+  "chapter": {
+    "number": 10,
+    "title": "Genealogies and Chronologies of Rulers of Xia, Shang, and Zhou"
+  },
+  "dynasties": [
+    {
+      "name": "Xia",
+      "rulers": [
+        {"name": "Yu"},
+        {"name": "Qi"},
+        {"name": "Tai Kang"},
+        {"name": "Zhong Kang"},
+        {"name": "Xiang"},
+        {"name": "Shao Kang"},
+        {"name": "Zhu"},
+        {"name": "Huai"},
+        {"name": "Mang"},
+        {"name": "Xie"},
+        {"name": "Bu Jiang"},
+        {"name": "Jiong"},
+        {"name": "Jin"},
+        {"name": "Kong Jia"},
+        {"name": "Gao"},
+        {"name": "Fa"},
+        {"name": "Jie"}
+      ]
+    },
+    {
+      "name": "Shang",
+      "rulers": [
+        {"name": "Tang"},
+        {"name": "Wai Bing"},
+        {"name": "Zhong Ren"},
+        {"name": "Wo Ding"},
+        {"name": "Tai Jia"},
+        {"name": "Tai Geng"},
+        {"name": "Xiao Jia"},
+        {"name": "Yong Ji"},
+        {"name": "Tai Wu"},
+        {"name": "Zhong Ding"},
+        {"name": "Wai Ren"},
+        {"name": "Hedan Jia"},
+        {"name": "Zu Yi"},
+        {"name": "Zu Xin"},
+        {"name": "Wo Jia"},
+        {"name": "Zu Ding"},
+        {"name": "Nan Geng"},
+        {"name": "Yang Jia"},
+        {"name": "Pan Geng"},
+        {"name": "Xiao Xin"},
+        {"name": "Xiao Yi"},
+        {"name": "Wu Ding", "reign": "c. 1225–1189"},
+        {"name": "Zu Geng", "reign": "c. 1188–1178"},
+        {"name": "Zu Jia", "reign": "c. 1177–1158"},
+        {"name": "Lin Xin", "reign": "c. 1157–1149"},
+        {"name": "Kang Ding", "reign": "c. 1148–1132"},
+        {"name": "Wu Yi", "reign": "c. 1131–1117"},
+        {"name": "Wen Ding", "reign": "c. 1116–1106"},
+        {"name": "Di Yi", "reign": "1105–1087"},
+        {"name": "Di Xin", "reign": "1086–1045"}
+      ]
+    },
+    {
+      "name": "Zhou",
+      "periods": [
+        {
+          "name": "Western Zhou",
+          "rulers": [
+            {"name": "Wen", "reign": "1099/1056–1050"},
+            {"name": "Wu", "reign": "1049/1045–1043"},
+            {"name": "Cheng", "reign": "1042/1035–1006"},
+            {"name": "Kang", "reign": "1005–978"},
+            {"name": "Zhao", "reign": "977/975–957"},
+            {"name": "Mu", "reign": "956–918"},
+            {"name": "Gong", "reign": "917–900"},
+            {"name": "Yih", "reign": "899–873"},
+            {"name": "Xiao", "reign": "c. 872–866"},
+            {"name": "Yi", "reign": "865–858"},
+            {"name": "Li", "reign": "857/853–842/828"},
+            {"name": "Gonghe", "reign": "841–828"},
+            {"name": "Xuan", "reign": "827–782"},
+            {"name": "You", "reign": "781–771"}
+          ]
+        },
+        {
+          "name": "Eastern Zhou",
+          "rulers": [
+            {"name": "Ping", "reign": "770–720"},
+            {"name": "Huan", "reign": "719–697"},
+            {"name": "Zhuang", "reign": "696–682"},
+            {"name": "Xi", "reign": "681–677"},
+            {"name": "Hui", "reign": "676–652"},
+            {"name": "Xiang", "reign": "651–619"},
+            {"name": "Qing", "reign": "618–613"},
+            {"name": "Kuang", "reign": "612–607"},
+            {"name": "Ding", "reign": "606–586"},
+            {"name": "Jian", "reign": "585–572"},
+            {"name": "Ling", "reign": "571–545"},
+            {"name": "Jing", "reign": "544–520"},
+            {"name": "Jing", "reign": "519–476"},
+            {"name": "Yuan", "reign": "475–469"},
+            {"name": "Zhending", "reign": "468–441"},
+            {"name": "Kao", "reign": "440–426"},
+            {"name": "Weilie", "reign": "425–402"},
+            {"name": "An", "reign": "401–376"},
+            {"name": "Lie", "reign": "375–369"},
+            {"name": "Xian", "reign": "368–321"},
+            {"name": "Shenjing", "reign": "320–315"},
+            {"name": "Nan", "reign": "314–256"},
+            {"name": "Lord of East Zhou", "reign": "255–249"}
+          ]
+        }
+      ]
+    }
+  ]
+}

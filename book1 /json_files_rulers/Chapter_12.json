@@ -1,0 +1,96 @@
+{
+  "chapter": {
+    "number": 12,
+    "name": "Chronologies of Rulers of Major States of the Warring States Period",
+    "note": "(L.= Lord [Hou]; D.= Duke [Gong]; K.= King [Wang])"
+  },
+  "states": [
+    {
+      "name": "Qin",
+      "rulers": [
+        {"name": "Duke Xiao", "reign": "361–338"},
+        {"name": "King Huiwen", "reign": "337/324–311"},
+        {"name": "King Wu", "reign": "310–307"},
+        {"name": "King Zhuangxiang", "reign": "249–247"},
+        {"name": "King Zheng", "reign": "246/221–210"}
+      ]
+    },
+    {
+      "name": "Jin",
+      "rulers": [
+        {"name": "Duke Dao", "reign": "490–477"},
+        {"name": "Duke Chu", "reign": "474–458/452"},
+        {"name": "Duke Zao", "reign": "445–396"}
+      ]
+    },
+    {
+      "name": "Zhao",
+      "rulers": [
+        {"name": "Lord Xiangzi", "reign": "475–425"},
+        {"name": "Lord Wu", "reign": "423–409"},
+        {"name": "Lord Lie", "reign": "408–387"},
+        {"name": "King Huiwen", "reign": "298–266"},
+        {"name": "King Wu", "reign": "291–273"},
+        {"name": "King Zhao", "reign": "306–251"}
+      ]
+    },
+    {
+      "name": "Chu",
+      "rulers": [
+        {"name": "King Hui", "reign": "488–432"},
+        {"name": "King Jian", "reign": "431–408"},
+        {"name": "King Sheng", "reign": "451–434"},
+        {"name": "King Dao", "reign": "408–400"},
+        {"name": "King Huai", "reign": "329–299"},
+        {"name": "King Qingxiang", "reign": "298–263"},
+        {"name": "King Kaolie", "reign": "262–238"}
+      ]
+    },
+    {
+      "name": "Jiang Qi",
+      "rulers": [
+        {"name": "Lord Wen", "reign": "474–458/452"},
+        {"name": "Lord Wu", "reign": "423–409"},
+        {"name": "Lord Jing", "reign": "407–402"},
+        {"name": "Lord Lie", "reign": "401–381"},
+        {"name": "Lord Cheng", "reign": "414–400"},
+        {"name": "Lord Ai", "reign": "369–340"},
+        {"name": "Lord Zhao", "reign": "374–357"},
+        {"name": "Lord Wei", "reign": "384–362"}
+      ]
+    },
+    {
+      "name": "Yan",
+      "rulers": [
+        {"name": "Duke Ping", "reign": "511–475"},
+        {"name": "Duke Cheng", "reign": "455–405"},
+        {"name": "Duke Jian", "reign": "334–319"},
+        {"name": "King Hui", "reign": "278–272"},
+        {"name": "King Xi", "reign": "235–228"}
+      ]
+    },
+    {
+      "name": "Wei",
+      "rulers": [
+        {"name": "Duke Ding", "reign": "475–425"},
+        {"name": "Duke Xuan", "reign": "424–409"},
+        {"name": "Duke Huan", "reign": "386–377"},
+        {"name": "King Hui", "reign": "376–374"},
+        {"name": "King Xiang", "reign": "311–296"},
+        {"name": "King Jingmin", "reign": "242–228"},
+        {"name": "King Huanhui", "reign": "272–239"}
+      ]
+    },
+    {
+      "name": "Han",
+      "rulers": [
+        {"name": "Duke Xiao", "reign": "488–432"},
+        {"name": "Duke Min", "reign": "404–379"},
+        {"name": "Duke Huan", "reign": "386–377"},
+        {"name": "King Xuanhui", "reign": "332–312"},
+        {"name": "King Xiang", "reign": "311–296"},
+        {"name": "King Anxi", "reign": "325–299"}
+      ]
+    }
+  ]
+}

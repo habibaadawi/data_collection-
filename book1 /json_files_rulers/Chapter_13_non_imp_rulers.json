@@ -1,0 +1,99 @@
+{
+    "chapter": "Chapter 13",
+    "title": "Historically Important Non-Rulers in Ancient China",
+    "content": {
+      "2000–1500 BCE": [
+        {"name": "Gao Yao", "references": []},
+        {"name": "Yi Yin", "references": [2, 36]}
+      ],
+      "1500–1100 BCE": [
+        {"name": "Consort Hao", "references": [3, 17, 37]},
+        {"name": "Fù Yue", "references": [36]}
+      ],
+      "1100–1000 BCE": [
+        {"name": "Feilian", "references": [5]},
+        {"name": "Luzi Sheng", "references": [5, 24, 38]},
+        {"name": "Duke of Zhou", "references": [4, 15, 19, 24, 34, 38]},
+        {"name": "Grand Duke Wang", "references": [4, 26]},
+        {"name": "Grand Protector", "references": [19, 24, 25, 38]},
+        {"name": "Feng Jizi", "references": [34, 38]}
+      ],
+      "1000–900 BCE": [
+        {"name": "Nangong Kuo", "references": [32]},
+        {"name": "Yu", "references": [18, 35]},
+        {"name": "Duke of Zhai", "references": [39]},
+        {"name": "Lu, Elder of Jing", "references": [4, 19, 40]},
+        {"name": "Qiu Wei", "references": [4, 19, 40]},
+        {"name": "Rui Liangfu", "references": [4]}
+      ],
+      "900–800 BCE": [
+        {"name": "Duo You", "references": [4, 17]},
+        {"name": "Yin Jifu", "references": [41]}
+      ],
+      "800–700 BCE": [
+        {"name": "Bao Si", "references": [4, 42]}
+      ],
+      "700–600 BCE": [
+        {"name": "Guan Zhong", "references": [18, 26, 31]},
+        {"name": "Li Ji", "references": [27, 43]},
+        {"name": "Zhao Dun", "references": [18, 29, 30]}
+      ],
+      "600–550 BCE": [
+        {"name": "Zi Chan", "references": [14, 18, 19, 24, 46, 47]},
+        {"name": "Shu Xiang", "references": [18, 19, 46]},
+        {"name": "Ding Jiang", "references": [44]},
+        {"name": "Maestro Kuang", "references": [45]},
+        {"name": "Mu Jiang", "references": [43]},
+        {"name": "Shusun Qiaoru", "references": [43]}
+      ],
+      "550–500 BCE": [
+        {"name": "Laozi", "references": [51]},
+        {"name": "Confucius", "references": [14, 16, 20, 24, 36, 48, 49, 50, 51]},
+        {"name": "Wu Zixu", "references": [31, 33, 47]},
+        {"name": "Sun Wu", "references": [17, 18, 28, 47, 52]},
+        {"name": "Yan Hui", "references": [49]},
+        {"name": "Zi Lu", "references": [49]}
+      ],
+      "500–450 BCE": [
+        {"name": "Fan Shi", "references": [33]},
+        {"name": "Xi Shi", "references": [33]},
+        {"name": "Zhibo", "references": [27, 29]},
+        {"name": "Zi Gong", "references": [49]},
+        {"name": "Zi Xia", "references": [28, 49]},
+        {"name": "Zengzi", "references": [49]},
+        {"name": "Wu Qi", "references": [28, 53]}
+      ],
+      "450–400 BCE": [
+        {"name": "Li Kui", "references": [18, 19, 28, 30]}
+      ],
+      "400–350 BCE": [
+        {"name": "Shang Yang", "references": [18, 19, 28, 53, 58]},
+        {"name": "Shen Buhai", "references": [18, 30, 58]}
+      ],
+      "350–300 BCE": [
+        {"name": "Mencius", "references": [15, 20, 26, 28, 36, 50, 51]},
+        {"name": "Zhang Yi", "references": [31]},
+        {"name": "Zhuangzi", "references": [51]},
+        {"name": "Bian Que", "references": [55]},
+        {"name": "Sun Bin", "references": [52]},
+        {"name": "Zi Zhi", "references": [25, 26, 29, 36]},
+        {"name": "Shao Tuo Yuan", "references": [54, 56]}
+      ],
+      "300–250 BCE": [
+        {"name": "Xunzi", "references": [16, 20, 50, 58]},
+        {"name": "Bai Qi", "references": [5, 29, 56]},
+        {"name": "Song Yu", "references": [56]}
+      ],
+      "250–200 BCE": [
+        {"name": "Lü Buwei", "references": [5, 29]},
+        {"name": "Han Feizi", "references": [5, 30, 57, 58, 59]},
+        {"name": "Li Si", "references": [5, 18, 30, 50, 57, 58, 59]},
+        {"name": "Xi (Happy)", "references": [25]},
+        {"name": "Jing Ke", "references": [59]},
+        {"name": "Chen She", "references": [59]},
+        {"name": "Zhao Gao", "references": [58, 59]}
+      ]
+    },
+    "source": "Extracted from the book 'Ancient Chinese Civilization', Chapter 13: Historically Important Non-Rulers in Ancient China"
+  }
+  

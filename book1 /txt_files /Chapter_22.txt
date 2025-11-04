@@ -1,0 +1,189 @@
+CHAPTER
+ESSAY ON WRITING
+
+The preface to Discussing Pictographs and Analyzing Compound Graphs,
+Chinas earliest dictionary, describes the invention of writing in the following
+manner:
+
+In antiquity when Baoxi, Tamer of Beasts, ruled all under heaven, he
+looked up and observed the images in the heavens, looked down and
+observed the patterns on the earth, examined the markings of birds
+and animals and the properties of the earth, and near at hand taking
+from his own body and at a distance taking from the many things
+thereupon rst made the eight trigrams of the Changes in order to
+suspend patterns and images. Coming to Shennong, the God of
+Agriculture, he knotted cords by way of governing and systematized
+the aairs. As the many occupations proliferated, ornament and
+artice sprouted. Cangjie, the scribal ocer of the Yellow Emperor,
+saw the tracks and footprints of birds and beasts and knowing that
+their dierent patterns could be dierentiated, for the rst time
+invented writing.
+
+This suggests that Chinese writing was originally pictographic, based on the
+tracks and footprints of birds and beasts, or rather on the shapes of the birds
+and beasts themselves. The earliest writing in China, the oracle-bone
+inscriptions of the Shang dynasty, contains hundreds of examples of
+pictographs. Figure . shows just a few obvious examples drawn from the
+animal kingdom.
+Whereas pictographs can only depict tangible objects, we speak about much
+more than this: actions, ideas, directions, names, and so forth, that are not so
+directly represented. Thus, the Discussing Pictographs and Analyzing Compound
+Graphs dictionary distinguished ve other types of characters in addition to
+pictographs: pointing at things characters, combining ideas characters,
+
+Essays
+
+Figure . Pictographs of animals seen in Shang oracle-bone inscriptions.
+
+shape-sound characters, loan characters, and explaining each other
+characters. The rst two of these are essentially also pictographic in nature,
+though their depictions depend on the combination of two or more elements;
+all of these might best be categorized as characters that express meaning.
+The category combining ideas characters is often called ideographs.
+While this term is sometimes used—quite incorrectly—to describe all
+Chinese characters, the oracle-bone inscriptions show that it too was a
+powerful tool in the toolkit of the inventers of the Chinese script, with
+additional hundreds of such characters known. The following are just a few
+examples. The iconicity of the characters may not always be immediately
+apparent to readers unfamiliar with early Chinese writing; however, in all
+cases the components are quite conventional and would be well recognized
+by all readers of the script.
+to follow (the modern character cong (i.e., ), the character
+combining two men, one following the other
+back; north (the modern character bei
+(and by extension bei
+), the character combining two men back to back
+to reach (the modern character ji ), the character combining a
+man and a hand reaching him from behind
+to capture (the modern character fu ), the character
+combining a child with a hand grabbing it from above
+to give birth (the modern character yu , the fuller form of yu
+), the character combining a mother and an upside-down
+child together with added dots indicating amniotic uid
+sickness (the modern character ji ), the character combining a
+bed and a man, often with added dots apparently indicating
+sweat from a fever
+to open (the modern character pi ), the character combining a
+door with two hands pushing out
+to ascend (the modern character zhi ), the character
+combining two feet going up a mound
+
+
+Writing
+
+to descend (the modern character jiang ), the character
+combining two inverted feet going down a mound
+to plant (the modern character yi ), the character combining a
+man with two hands extended grasping a tree over earth
+evening (the modern character mu or mu ), the character
+combining a sun with four trees or grass
+morning (the modern character zhao ), the character
+combining a sun, moon, and grass, indicating the time when
+both the sun and moon are visible in the distance
+to see (the modern character jian ), the character combining
+an eye with a person
+to gaze (the modern character wang ), the character
+combining an eye directed upward from a person
+to attend to (eating); right away (the modern character ji ),
+the character combining a food bowl with a kneeling gure
+before it
+to nish (the modern character ji ), the character combining a
+food bowl with a kneeling gure whose mouth is turned away
+from the food bowl
+to feast (the modern character xiang ), the character
+combining a food bowl with two kneeling gures facing the
+food bowl
+to crow (the modern character ming 匤), the character
+combining a mouth and a bird
+to bark (the modern character fei ), the character combining a
+mouth and a dog
+to smell; to stink (the modern character chou), the character
+combining a nose and a dog
+The number of such combining ideas characters could be multiplied many
+times over. At the earliest stage of the language, the oracle-bone inscriptions
+of the Shang dynasty, their iconic meaning is usually unmistakable, as in the
+case of the horse or deer, though this iconicity tends to get lost at later
+stages of writing. Other cases, such as ming 匤 to crow and fei to bark,
+which combine a mouth () component with the pictograph of a bird
+(匕) or dog (), rely on the combination of ideas more than pictography.
+
+Essays
+
+The third type of characters that express meaning is called pointing at
+things characters. It was once thought that there were very few examples of
+this category, typical examples being the graphs and dierentiated by
+a single stroke above or below a line indicating the horizon to mean above
+or below, now written as and ; or and for the crown of a tree
+and roots of a tree respectively with a line indicating the part of the tree
+(tree being written in modern Chinese characters as ). Now it is known
+that many other characters were formed more or less in the same way, as the
+following examples taken from the human body show:
+forearm (the precursor to the modern character hong ), a circle
+on the arm beneath the hand (i.e., you ) marking this part of the
+arm
+elbow (the precursor to the modern character zhou ), a
+noticeable bending at the end of the forearm (i.e., you ), with an
+additional mark indicating the point of focus
+to kneel (the precursor to the modern character gui ), a mark
+beneath the knee of a kneeling gure (jie or 埢)
+armpit the precursor to the modern character ye ), the dots
+indicated under the arms of a gure standing frontally (i.e., da )
+The several examples here in which the pointing at things character is
+indicated as the precursor of a modern character means that a character was
+rst written in one form and subsequently came to be written in a dierent
+form (often referred to in Chinese as ancient-and-modern characters)
+provide good examples of another important category of characters: loan
+characters. These are characters where the sound of a word that can be
+drawn with a pictograph is borrowed to write a homophonous word that
+would be dicult to depict. This is the rebus principle, known not only from
+modern television game shows (as in Reader, ), but also in all
+other ancient writing systems. These loan characters were already routinely
+employed in the Shang oracle-bone inscriptions, as for instance in using the
+pictograph of the nose (i.e., zi ) to indicate the homophonous
+preposition from, or the pictograph of a basket (now pronounced ji
+and written ) to write the pronoun he, she, it which was homophonous
+at that time (it is now pronounced qi and written ). Th e number of these
+loans is somewhat masked in the later language because in many cases, as in
+the case of ji basket and qi
+he, she it, or in the case of for armpits,
+which is now written as ye (adding a component to it indicating that it
+
+
+Writing
+
+has to do with meat or esh), while the original character is used only for
+the word also (yi ), the borrowed meaning has entirely supplanted the
+original meaning attached to the pictograph, and a new character has been
+invented to write the original meaning.
+These loan characters or rebus writing allowed an extraordinary
+breakthrough in Chinese writing. Imagine the diculty in inventing a
+pictographic or conceptual character for it, which surely must count as one
+of the most basic words in any language. However, once it was realized that
+sound could be utilized in writing, this opened the door for the next great
+development: characters that would combine meaning and sound to write
+words that might otherwise be dicult, or even impossible, to distinguish.
+For instance, it is a simple matter to depict a sh as , or a tree as . However,
+whereas it might also be possible to dierentiate pictographically between a
+palm tree and a pine tree, how easy would it be to do so between a beech and
+a walnut tree? Similarly, we can certainly visualize the dierence between a
+shark and a swordsh, for instance, but a trout and a bass look quite a bit
+alike. Simply borrowing the sound for trout (in Chinese zun) from the
+pictograph meaning wine vessel; esteemed (originally a pictograph of
+two hands holding up a wine vessel, now written zun ) would have been
+one option, however it might not have always been easy to disambiguate the
+word for trout from that for wine vessel, or even for a type of pheasant,
+also pronounced zun. To dierentiate these dierent words, the inventers of
+the Chinese script quickly modied the rebus principle, combining the
+component carrying the sound with another component that contributed
+the basic semantic category. Thus, for trout, a sh 冊 component was
+added to the component representing the sound zun, giving the composite
+character 劂. Similarly, a bird 匕 component was combined with the same
+phonographic component to write the word for pheasant: 吧. This is what
+traditional Chinese paleographers term shape-sound characters. It would
+prove to be the decisive development in the development of the Chinese
+script. Once it began to be exploited fully, it became possible to write any
+word in the Chinese language. By the Zhou dynasty, just a few centuries after
+the Shang dynasty, most new words were created according to this principle,
+and more than % of the characters in modern dictionaries are shape-
+sound characters. Indeed, the category is so pervasive that it would be
+almost superuous to provide examples of it.
