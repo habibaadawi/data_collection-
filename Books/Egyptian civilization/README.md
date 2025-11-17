@@ -18,3 +18,16 @@
 ===========================================================================================================
 "Abydos" by E. Amélineau is a historical account likely written in the late 19th century. The book explores the ancient city of Abydos, delving into its significance during the Egyptian dynasties and its evolution into Christian times. It offers a glimpse into the area's rich history, legendary associations, and the ongoing interactions between its mythical past and the modern-day reality of its inhabitants. In "Abydos," Amélineau recounts the storied legacy of the city, centering around the myth of Osiris and the impact of his tale on the civilization and culture of ancient Egypt. The narrative presents Osiris as a benevolent figure contrasting with his brother Set, who embodies chaos and destruction. As the story unfolds, readers learn about the conflicts between these two forces, the subsequent rise of the cult of Osiris, and the historical transformations of Abydos from a sacred site of pilgrimage to a place fraught with conflict and robbery. Amélineau also provides vivid descriptions of the city's monuments, its poor modern-day inhabitants, and the ongoing reverberations of its ancient glory amidst present-day challenges. The intertwining of myth and history reveals Abydos as a unique and richly layered space that encapsulates the complexity of human belief and societal evolution.
 ===========================================================================================================
+✅ كيف تستخدمي هذه الكتب في مشروع PastPort
+
+لـ Q&A: خدي فصول أو مقاطع من هذه الكتب واصنّعي أسئلة وأجوبة عنها (مثلاً: “ما هو أبيدوس؟” → الإجابة من كتاب Abydos).
+
+لـ Dialogues: استخدمي وصف الحياة اليومية من “Pharaohs and Their People” لخلق حوارات مع كهنة، ملوك، أو مواطنين قدامى.
+
+لسيناريوهات VR:
+
+مشاهد من المقابر والمعابد باستخدام نصوص “A Century of Excavation …”
+
+حوارات عن الفلك مع فلكي مصري من “The Dawn of Astronomy”
+
+أسطورة أوزوريس من “Abydos” أو “Mythen en Legenden van Egypte”
