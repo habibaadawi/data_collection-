@@ -10,4 +10,16 @@
 ===========================================================================================================
 "拾遺記" by Jia Wang, Qi Xiao, and Zhi Ping Qi is a historical account written in the early 4th century. The work comprises a collection of records that chronicle ancient Chinese myths, legends, and the deeds of early emperors and deities. It focuses on the origins of these figures and the foundations of civilization, intertwining mythology with the historical narrative. The opening of "拾遺記" introduces various legendary figures such as the Spring Emperor Pangu, the Flame Emperor Shennong, and the Yellow Emperor Xuanyuan, framing their narratives within a context of cosmic beginnings and intricate myths. Each character is described with rich detail, highlighting their significance and contributions to cultural practices, governance, and the establishment of societal norms. The text sets the tone for a comprehensive exploration of China's foundational myths, suggesting a tapestry of intertwined legends and historical occurrences that shape the cultural landscape.
 ===========================================================================================================
+✅ كيف تستفيدي من هذه الكتب في مشروع PastPort
 
+Q&A: خذي فقرات من الكتب (مثلاً من Shiji أو Zhu Shu Ji Nian) واعملي أسئلة وأجوبة مثل “من هو الإمبراطور الأصفر؟” أو “ما هي بداية سلالة شيا؟”
+
+حوارات / ديالوج: اصنّعي حوار بين المستخدم وشخصيات أسطورية مثل الأزرق الإمبراطور الصيني، أو محاور بين كاهن وصانع تنانين أسطوري.
+
+مشاهد VR:
+
+مشهد من خلق العالم الأسطوري الصيني (من Shi Yi Ji)
+
+محكمة قديمة أو إمبراطورية مبكرة (من Zhu Shu Ji Nian)
+
+أسطورة التنين من Myths of China and Japan
