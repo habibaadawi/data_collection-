@@ -1,16 +1,16 @@
 # 📊 Data Analysis
 
 ## 📋 Top Q&A Topics
-Egypt_civilization             ████████████████████████████████████████ 1,814
-Syntatical data                ██████████████████████████████ 1,403
-QA_English                     ██████ 290
-QA_Arabic                      ████ 195
-islamic_history                ███ 159
-greece                         ███ 150
-japan                          █ 88
-china                          █ 67
-Renaissance_French_Revolu...   █ 61
-americanes_before_columbus      40
+- Egypt_civilization             ████████████████████████████████████████ 1,814
+- Syntatical data                ██████████████████████████████ 1,403
+- QA_English                     ██████ 290
+- QA_Arabic                      ████ 195
+- islamic_history                ███ 159
+- greece                         ███ 150
+- japan                          █ 88
+- china                          █ 67
+- Renaissance_French_Revolu...   █ 61
+- americanes_before_columbus      40
 
 
 ---
