@@ -1,34 +1,47 @@
 # 📊 Data Analysis
 
-## 📋 Count of Q&As by civilization
-- Egypt_civilization             ████████████████████████████████████████ 1,814
-- Syntatical data                ██████████████████████████████ 1,403
-- QA_English                     ██████ 290
-- QA_Arabic                      ████ 195
-- islamic_history                ███ 159
-- greece                         ███ 150
-- japan                          █ 88
-- china                          █ 67
-- Renaissance_French_Revolu...   █ 61
-- americanes_before_columbus     | 40
+# 🎯 Grand Totals
 
+- 📝 **Q&A Pairs:** 4,336  
+- 💬 **Dialogue Files:** 6  
+- 💬 **Dialogue Exchanges:** 150  
+- 📚 **Processed Book Sentences:** 195,804  
+- 📖 **Output Book Sentences:** 233,245  
+- 📊 **Total Words Across All Datasets:** 2,876,145  
+- 📈 **Estimated Total Training Tokens:** 3,738,988  
+---
+
+## 📋 Count of Q&As by civilization
+<pre>
+ Egypt_civilization             ████████████████████████████████████████ 1,814
+ Syntatical data                ██████████████████████████████ 1,403
+ QA_English                     ██████ 290
+ QA_Arabic                      ████ 195
+ islamic_history                ███ 159
+ greece                         ███ 150
+ japan                          █ 88
+ china                          █ 67
+ Renaissance_French_Revolu...   █ 61
+ americanes_before_columbus     | 40
+</pre>
 ---
 
 ## 📊 Count of Sentences in text data by Civilization
-
-- Roma Civilization              █████████████████████████████████████████████████████████████████████████████ 126,630
-- Egypt Civilization             ████████████████████████████████████████ 60,259
-- Islamic                        ████████████████████████████████████████ 53,189
-- Modern                         ████████████████████████ 33,137
-- Japan Civilization             ███████████████████ 26,320
-- Kingdom Of Kush Nubia          ██████████████████ 25,131
-- Renaissance                    ██████████████ 19,216
-- Kingdoms                       █████████ 12,937
-- The_Americans_Before_Columbus  ████████ 11,759
-- Maya Civilization              ███████ 9,934
-- Pre-Colonial Africa            ██████ 9,191
-- Chinese Civilization           ██████ 9,128
-- Greece Civilization            ████████ 8,915
+<pre>
+ Roma Civilization              ████████████████████████████████████████████████████████████████████ 126,630
+ Egypt Civilization             ████████████████████████████████████ 60,259
+ Islamic                        ████████████████████████████████ 53,189
+ Modern                         ████████████████████ 33,137
+ Japan Civilization             ███████████████████ 26,320
+ Kingdom Of Kush Nubia          ██████████████████ 25,131
+ Renaissance                    ████████████ 19,216
+ Kingdoms                       █████████ 12,937
+ The_Americans_Before_Columbus  ████████ 11,759
+ Maya Civilization              ███████ 9,934
+ Pre-Colonial Africa            ██████ 9,191
+ Chinese Civilization           ██████ 9,128
+ Greece Civilization            ██████ 8,915
+</pre>
 
 
 
@@ -261,14 +274,5 @@
 
 ---
 
-# 🎯 Grand Totals
-
-- 📝 **Q&A Pairs:** 4,336  
-- 💬 **Dialogue Files:** 6  
-- 💬 **Dialogue Exchanges:** 150  
-- 📚 **Processed Book Sentences:** 195,804  
-- 📖 **Output Book Sentences:** 233,245  
-- 📊 **Total Words Across All Datasets:** 2,876,145  
-- 📈 **Estimated Total Training Tokens:** 3,738,988  
 
 
