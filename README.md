@@ -12,6 +12,24 @@
 - Renaissance_French_Revolu...   █ 61
 - americanes_before_columbus      40
 
+---
+
+## 📊 Sentences by Civilization
+
+- Roma Civilization  █████████████████████████████████████████████████████████████████████████████ 126,630
+- Egypt Civilization    ████████████████████████████████████████ 60,259
+- Greece Civilization    ████████ 8,915
+- Islamic ████████████████████████████████████████ 53,189
+- Modern ████████████████████████ 33,137
+- Japan Civilization ███████████████████ 26,320
+- Kingdom Of Kush Nubia ██████████████████ 25,131
+- Renaissance ██████████████ 19,216
+- Kingdoms █████████ 12,937
+- The ████████ 11,759
+- Maya Civilization ███████ 9,934
+- Pre-Colonial Africa ██████ 9,191
+- Chinese Civilization ██████ 9,128
+
 
 ---
 
@@ -65,26 +83,6 @@
   
 ---
 
-
- ## 📊 Sentences by Civilization
-
-Roma Civilization  █████████████████████████████████████████████████████████████████████████████ 126,630
-Egypt Civilization    ████████████████████████████████████████ 60,259
-Greece Civilization    ████████ 8,915
-Islamic ████████████████████████████████████████ 53,189
-Modern ████████████████████████ 33,137
-Japan Civilization ███████████████████ 26,320
-Kingdom Of Kush Nubia ██████████████████ 25,131
-Renaissance ██████████████ 19,216
-Kingdoms █████████ 12,937
-The ████████ 11,759
-Maya Civilization ███████ 9,934
-Pre-Colonial Africa ██████ 9,191
-Chinese Civilization ██████ 9,128
-
-
-
----
 
 ## 🌍 By Civilization
 
