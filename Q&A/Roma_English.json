@@ -1,0 +1,4932 @@
+[
+  {
+    "id": "vol01_ch001_p1_q001",
+    "question": "What was the extent of the Roman Empire in the age of the Antonines?",
+    "answer": "The empire comprehended the fairest part of the earth and the most civilized portion of mankind, with frontiers guarded by ancient renown and disciplined valor.",
+    "category": "Geographical",
+    "question_type": "What-Description",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q002",
+    "question": "How long was the happy period of administration under Nerva, Trajan, Hadrian, and the two Antonines?",
+    "answer": "More than eighty years.",
+    "category": "Historical",
+    "question_type": "How-Long",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 6,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q003",
+    "question": "What was Augustus's approach to expanding the Roman Empire?",
+    "answer": "Augustus relinquished the ambitious design of subduing the whole earth and introduced a spirit of moderation into public councils, preferring to secure concessions through prudent vigor rather than remote wars.",
+    "category": "Political",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 35,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q004",
+    "question": "What natural boundaries did Augustus recommend as the empire's limits?",
+    "answer": "The Atlantic Ocean on the west; the Rhine and Danube on the north; the Euphrates on the east; and the sandy deserts of Arabia and Africa towards the south.",
+    "category": "Geographical",
+    "question_type": "What-Boundaries",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q005",
+    "question": "Why did the Roman invasion of Ethiopia and Arabia Felix fail?",
+    "answer": "The heat of the climate repelled the invaders and protected the unwarlike natives of those sequestered regions.",
+    "category": "Military",
+    "question_type": "Why-Reason",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 18,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q006",
+    "question": "What was the only major accession to the Roman Empire during the first century CE?",
+    "answer": "The province of Britain.",
+    "category": "Historical",
+    "question_type": "What-Accession",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 6,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q007",
+    "question": "How long did the Roman conquest of Britain take?",
+    "answer": "About forty years.",
+    "category": "Military",
+    "question_type": "How-Long",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 4,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q008",
+    "question": "What were the characteristics of the British tribes according to the text?",
+    "answer": "They possessed valor without conduct, and the love of freedom without the spirit of union. They fought with savage fierceness but inconsistently.",
+    "category": "Cultural",
+    "question_type": "What-Characteristics",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q009",
+    "question": "What was Agricola's plan for Ireland and why was it never implemented?",
+    "answer": "Agricola planned to conquer Ireland with one legion and a few auxiliaries, believing it would make Britons wear their chains less reluctantly, but his superior merit occasioned his removal from Britain before he could execute this plan.",
+    "category": "Military",
+    "question_type": "What-Plan",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 44,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q010",
+    "question": "What defensive structure did Agricola establish in Britain and how was it later improved?",
+    "answer": "Agricola drew a line of military stations across about forty miles, which was later fortified under Antoninus Pius with a turf rampart erected on stone foundations, known as the Wall of Antoninus.",
+    "category": "Military",
+    "question_type": "What-Structure",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q011",
+    "question": "Why were the native Caledonians able to preserve their independence?",
+    "answer": "They were indebted to both their poverty and their valor, and the Romans turned with contempt from their gloomy hills, stormy climate, and cold heaths.",
+    "category": "Cultural",
+    "question_type": "Why-Preservation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q012",
+    "question": "How did Trajan differ from his immediate predecessors in military policy?",
+    "answer": "Trajan interrupted the peaceful system of his predecessors with scenes of war and conquest, being a military emperor with the education of a soldier and talents of a general.",
+    "category": "Military",
+    "question_type": "How-Different",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q013",
+    "question": "What made the Dacians particularly formidable opponents?",
+    "answer": "They were the most warlike of men with strength and fierceness of barbarians, plus a contempt for life derived from their warm persuasion of the immortality and transmigration of the soul.",
+    "category": "Cultural",
+    "question_type": "What-Qualities",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q014",
+    "question": "How long did the Dacian War last and what was its outcome?",
+    "answer": "The war lasted five years with very short suspension of hostilities and ended with absolute submission of the barbarians and creation of the new province of Dacia.",
+    "category": "Military",
+    "question_type": "What-Outcome",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q015",
+    "question": "What was significant about Trajan's navigation of the Persian Gulf?",
+    "answer": "He was the first, as well as the last, Roman general who ever navigated that remote sea.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q016",
+    "question": "What philosophical concern does the author express about military glory?",
+    "answer": "The author notes that as long as mankind bestows more liberal applause on destroyers than benefactors, the thirst for military glory will remain the vice of the most exalted characters.",
+    "category": "Philosophical",
+    "question_type": "What-Concern",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q017",
+    "question": "What was the ultimate limitation of Trajan's eastern conquests?",
+    "answer": "His death soon clouded the splendid prospect, and it was feared the distant nations would throw off the unaccustomed yoke once they were no longer restrained by his powerful hand.",
+    "category": "Historical",
+    "question_type": "What-Limitation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 35,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q018",
+    "question": "How did the first Caesars after Augustus view military fame of their subjects?",
+    "answer": "They considered military fame of a subject as an insolent invasion of Imperial prerogative and expected generals to guard frontiers without aspiring to conquests.",
+    "category": "Political",
+    "question_type": "How-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q019",
+    "question": "What factors motivated the Roman conquest of Britain?",
+    "answer": "The proximity to Gaul, doubtful intelligence of a pearl fishery that attracted their avarice, and Britain being viewed as a distinct and insulated world.",
+    "category": "Military",
+    "question_type": "What-Motivation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q020",
+    "question": "What was the nature of Roman provincial administration during the Antonine age?",
+    "answer": "The gentle but powerful influence of laws and manners gradually cemented the union of provinces, with peaceful inhabitants enjoying advantages of wealth and luxury while preserving the image of a free constitution.",
+    "category": "Political",
+    "question_type": "What-Nature",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q021",
+    "question": "What was the role of the Roman Senate during the Age of the Antonines?",
+    "answer": "The Roman senate appeared to possess the sovereign authority and devolved on the emperors all the executive powers of government.",
+    "category": "Political",
+    "question_type": "What-Role",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q022",
+    "question": "How did Augustus secure the return of Roman standards and prisoners from the Parthians?",
+    "answer": "He obtained their restitution by an honorable treaty instead of exposing his person and legions to the arrows of the Parthians.",
+    "category": "Military",
+    "question_type": "How-Method",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q023",
+    "question": "What was the Roman experience with the German barbarians?",
+    "answer": "The forests and morasses of Germany were filled with hardy barbarians who despised life when separated from freedom. They initially yielded to Roman power but soon regained independence through a signal act of despair.",
+    "category": "Military",
+    "question_type": "What-Experience",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 38,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q024",
+    "question": "Why did Augustus consider remote wars less beneficial for Rome?",
+    "answer": "He discovered that in the prosecution of remote wars, the undertaking became more difficult daily, the event more doubtful, and the possession more precarious and less beneficial.",
+    "category": "Military",
+    "question_type": "Why-Assessment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q025",
+    "question": "What was the nature of Roman military campaigns under the Republic compared to the Empire?",
+    "answer": "The principal conquests were achieved under the republic, while emperors were mostly satisfied with preserving dominions acquired by senate policy, consular emulations, and public martial enthusiasm.",
+    "category": "Historical",
+    "question_type": "What-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q026",
+    "question": "How did the first Caesars after Augustus maintain their imperial prerogative?",
+    "answer": "They seldom showed themselves to armies or provinces and considered military fame of subjects as insolent invasion of imperial prerogative, expecting generals to guard frontiers without conquests.",
+    "category": "Political",
+    "question_type": "How-Maintenance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q027",
+    "question": "What was Agricola's significance in the conquest of Britain?",
+    "answer": "Agricola defeated the collected force of Caledonians at the Grampian Hills, displayed Roman arms around the entire island with his fleets, and established the defensive line that became the Wall of Antoninus.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 38,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q028",
+    "question": "What was the Roman view of northern European countries?",
+    "answer": "They scarcely deserved the expense and labor of conquest according to Roman assessment.",
+    "category": "Geographical",
+    "question_type": "What-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 16,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q029",
+    "question": "How did Trajan's eastern expedition compare to Alexander's?",
+    "answer": "Trajan lamented that his advanced age scarcely left him hopes of equalling Alexander's renown, though his success was rapid and specious.",
+    "category": "Historical",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q030",
+    "question": "What was the fate of Trajan's eastern conquests after his death?",
+    "answer": "It was justly dreaded that the distant nations would throw off the unaccustomed yoke when no longer restrained by his powerful hand.",
+    "category": "Historical",
+    "question_type": "What-Fate",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q031",
+    "question": "What was the duration of Rome's rapid succession of triumphs?",
+    "answer": "The seven first centuries were filled with a rapid succession of triumphs.",
+    "category": "Historical",
+    "question_type": "What-Duration",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 13,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q032",
+    "question": "How did the British resistance leaders fail against Rome?",
+    "answer": "Neither the fortitude of Caractacus, nor the despair of Boadicea, nor the fanaticism of the Druids could avert the slavery of their country or resist the steady progress of Imperial generals.",
+    "category": "Military",
+    "question_type": "How-Failure",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q033",
+    "question": "What was the geographical extent of the new province of Dacia?",
+    "answer": "Dacia was about thirteen hundred miles in circumference with natural boundaries of Niester, Teyss/Tibiscus, Lower Danube, and Euxine Sea.",
+    "category": "Geographical",
+    "question_type": "What-Extent",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q034",
+    "question": "What was the Roman attitude toward the Caledonian landscape?",
+    "answer": "They turned with contempt from gloomy hills assailed by winter tempests, lakes concealed in blue mist, and cold lonely heaths where naked barbarians chased deer.",
+    "category": "Cultural",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q035",
+    "question": "How did Domitian's reign contrast with Agricola's campaigns?",
+    "answer": "While Domitian felt terrors confined to his palace, his legions under Agricola defeated Caledonians and displayed Roman arms around Britain.",
+    "category": "Historical",
+    "question_type": "How-Contrast",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q036",
+    "question": "What was Trajan's motivation for eastern conquest?",
+    "answer": "He was ambitious of fame and inspired by the dangerous emulation of Alexander, transmitted through poets and historians.",
+    "category": "Philosophical",
+    "question_type": "What-Motivation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q037",
+    "question": "How did the Parthian condition facilitate Trajan's success?",
+    "answer": "The degenerate Parthians, broken by intestine discord, fled before his arms.",
+    "category": "Military",
+    "question_type": "How-Condition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 15,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q038",
+    "question": "What was the scope of Trajan's eastern navigation?",
+    "answer": "He descended the River Tigris in triumph from Armenian mountains to Persian Gulf and ravaged Arabian coasts with his fleets.",
+    "category": "Military",
+    "question_type": "What-Scope",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q039",
+    "question": "What was Augustus's legacy regarding imperial expansion?",
+    "answer": "He bequeathed the advice of confining empire within natural limits as permanent bulwarks and boundaries.",
+    "category": "Political",
+    "question_type": "What-Legacy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 17,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q040",
+    "question": "How did the Roman Empire maintain its frontiers before Trajan?",
+    "answer": "Through ancient renown, disciplined valor, and the gentle but powerful influence of laws and manners cementing provincial union.",
+    "category": "Military",
+    "question_type": "How-Maintenance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q041",
+    "question": "What was the author's overall assessment of the Roman Empire's extent?",
+    "answer": "It comprehended the fairest earth parts and most civilized mankind portions, representing the prosperous condition before its subsequent decline and fall.",
+    "category": "Historical",
+    "question_type": "What-Assessment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q042",
+    "question": "How did the immediate successors of Augustus adopt his moderate system?",
+    "answer": "They adopted it through their fears and vices rather than wisdom.",
+    "category": "Political",
+    "question_type": "How-Adoption",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 13,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q043",
+    "question": "What was unique about Britain as a Roman conquest?",
+    "answer": "It formed a single exception to Augustus's precept during the first Christian century, being viewed as distinct and insulated from continental measures.",
+    "category": "Historical",
+    "question_type": "What-Unique",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 26,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q044",
+    "question": "What was the nature of British tribal warfare?",
+    "answer": "They took arms with savage fierceness but laid them down or turned against each other with wild inconsistency, fighting singly to be successively subdued.",
+    "category": "Military",
+    "question_type": "What-Nature",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q045",
+    "question": "How did Agricola's military stations evolve?",
+    "answer": "They became the foundation for the turf rampart erected under Antoninus Pius, establishing the permanent Roman frontier in Britain.",
+    "category": "Military",
+    "question_type": "How-Evolution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q046",
+    "question": "What was Decebalus's significance in the Dacian War?",
+    "answer": "He approved himself a rival not unworthy of Trajan and didn't despair until exhausting every resource of valor and policy.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q047",
+    "question": "What was the Roman military road evidence in Dacia?",
+    "answer": "Vestiges of a military road could still be traced from Danube banks to Bender's neighborhood, the modern Turkish-Russian frontier.",
+    "category": "Geographical",
+    "question_type": "What-Evidence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q048",
+    "question": "How did Trajan's eastern conquests affect the Roman Senate?",
+    "answer": "Every day the astonished senate received intelligence of new names and nations acknowledging his sway.",
+    "category": "Political",
+    "question_type": "How-Effect",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q049",
+    "question": "What was the philosophical basis of Dacian contempt for death?",
+    "answer": "It derived from their warm persuasion of the immortality and transmigration of the soul.",
+    "category": "Philosophical",
+    "question_type": "What-Basis",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 15,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q050",
+    "question": "What was the ultimate limitation of Roman imperial expansion?",
+    "answer": "Natural boundaries and practical considerations of cost versus benefit limited expansion, as seen in Augustus's moderation and the abandonment of extreme climates.",
+    "category": "Geographical",
+    "question_type": "What-Limitation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q051",
+    "question": "What was the significance of the Roman fleets under Agricola?",
+    "answer": "They ventured to explore unknown and dangerous navigation, displaying Roman arms round every part of Britain.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q052",
+    "question": "How did the Roman administration maintain provincial unity?",
+    "answer": "Through the gentle but powerful influence of laws and manners that gradually cemented the union of provinces.",
+    "category": "Political",
+    "question_type": "How-Maintenance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 18,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q053",
+    "question": "What was the Roman attitude toward wealth and luxury in provinces?",
+    "answer": "Peaceful inhabitants enjoyed and abused the advantages of wealth and luxury.",
+    "category": "Cultural",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 12,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q054",
+    "question": "How did Augustus's personal situation influence his foreign policy?",
+    "answer": "Being inclined to peace by his temper and situation, he found it easy to discover Rome had more to fear than hope from chance of arms.",
+    "category": "Political",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q055",
+    "question": "What was the strategic importance of Ireland according to Agricola?",
+    "answer": "He believed its reduction would make Britons wear their chains less reluctantly by removing the prospect and example of freedom from before their eyes.",
+    "category": "Military",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q056",
+    "question": "How did the early emperors after Augustus spend their time?",
+    "answer": "Engaged in pursuit of pleasure or exercise of tyranny, they seldom showed themselves to armies or provinces.",
+    "category": "Political",
+    "question_type": "How-Conduct",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q057",
+    "question": "What was the Roman view of conquests under the first Caesars?",
+    "answer": "Conquests were considered potentially fatal to both the general undertaking them and the vanquished barbarians.",
+    "category": "Military",
+    "question_type": "What-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 18,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q058",
+    "question": "How did the German barbarians demonstrate their independence?",
+    "answer": "Through a signal act of despair, they regained independence and reminded Augustus of fortune's vicissitude.",
+    "category": "Military",
+    "question_type": "How-Demonstration",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q059",
+    "question": "What was the geographical division of Britain noted by Agricola?",
+    "answer": "He observed the island is almost divided into two unequal parts by opposite gulfs, now called the Friths of Scotland.",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q060",
+    "question": "How did Trajan's eastern campaign affect various kingdoms?",
+    "answer": "Kings of Bosphorus, Colchos, Iberia, Albania, Osrhoene, and even Parthia accepted diadems from his hands, while independent tribes implored protection.",
+    "category": "Political",
+    "question_type": "How-Effect",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q061",
+    "question": "What was the Roman military approach to Britain under Domitian?",
+    "answer": "While Domitian felt terrors in his palace, his legions under Agricola maintained national glory despite the throne's disgrace.",
+    "category": "Military",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q062",
+    "question": "How did Augustus's experience influence his policy decisions?",
+    "answer": "His experience added weight to salutary reflections and convinced him prudent vigor could secure necessary concessions from barbarians.",
+    "category": "Political",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q063",
+    "question": "What was the nature of Roman provincial government during this period?",
+    "answer": "The image of free constitution was preserved with decent reverence while executive powers were devolved to emperors.",
+    "category": "Political",
+    "question_type": "What-Nature",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q064",
+    "question": "How did the Caledonians maintain their way of life?",
+    "answer": "They preserved wild independence in northern Britain through chasing deer over cold lonely heaths in traditional barbarian manner.",
+    "category": "Cultural",
+    "question_type": "How-Maintenance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q065",
+    "question": "What was Trajan's personal limitation in equaling Alexander?",
+    "answer": "His advanced age scarcely left him any hopes of equalling the renown of Alexander, son of Philip.",
+    "category": "Historical",
+    "question_type": "What-Limitation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q066",
+    "question": "How did the Roman Empire view its own security needs?",
+    "answer": "They believed securing concessions through prudent vigor was easier than remote wars for safety or dignity requirements.",
+    "category": "Military",
+    "question_type": "How-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q067",
+    "question": "What was the economic potential of Ireland according to Roman assessment?",
+    "answer": "The western isle might be improved into a valuable possession beyond its strategic importance.",
+    "category": "Geographical",
+    "question_type": "What-Potential",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 16,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q068",
+    "question": "How did the Roman military approach differ between Republic and Empire?",
+    "answer": "Under Republic, conquests were achieved through policy, emulation and enthusiasm; under Empire, preservation became primary with exceptions.",
+    "category": "Military",
+    "question_type": "How-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q069",
+    "question": "What was the cultural impact of Roman laws and manners?",
+    "answer": "They gradually cemented provincial union through gentle but powerful influence beyond military force.",
+    "category": "Cultural",
+    "question_type": "What-Impact",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q070",
+    "question": "How did Augustus's testament influence imperial policy?",
+    "answer": "It bequeathed valuable advice about confining empire within natural limits as permanent boundaries to his successors.",
+    "category": "Political",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q071",
+    "question": "What was the Roman assessment of eastern conquests under Trajan?",
+    "answer": "Though rapid and specious, success was transient and depended on his personal authority rather than permanent consolidation.",
+    "category": "Historical",
+    "question_type": "What-Assessment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q072",
+    "question": "How did Roman generals balance ambition and imperial policy?",
+    "answer": "They learned to guard entrusted frontiers without aspiring to conquests that could prove fatal to themselves and barbarians alike.",
+    "category": "Military",
+    "question_type": "How-Balance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q073",
+    "question": "What was the philosophical perspective on military glory in the text?",
+    "answer": "It criticizes mankind's tendency to applaud destroyers more than benefactors, making military glory thirst a vice of exalted characters.",
+    "category": "Philosophical",
+    "question_type": "What-Perspective",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q074",
+    "question": "How did the Roman Empire handle barbarian incursions?",
+    "answer": "Incursions were frequently repelled and chastised, but complete subjugation was not always pursued, especially in poorer regions.",
+    "category": "Military",
+    "question_type": "How-Handling",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q075",
+    "question": "What was the strategic thinking behind Roman frontier policy?",
+    "answer": "They preferred securing necessary concessions through prudent counsel rather than risky remote wars with doubtful outcomes.",
+    "category": "Military",
+    "question_type": "What-Strategy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q076",
+    "question": "How did the character of Roman emperors affect military policy?",
+    "answer": "From virtuous and able rulers to the weakest or most vicious, imperial character directly influenced military conduct and expansion.",
+    "category": "Political",
+    "question_type": "How-Effect",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q077",
+    "question": "What was the geographical significance of the Wall of Antoninus?",
+    "answer": "It was fixed as the limit of Roman province at small distance beyond modern Edinburgh and Glasgow, marking the empire's northern boundary.",
+    "category": "Geographical",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q078",
+    "question": "How did Roman military success relate to imperial administration?",
+    "answer": "National glory could be maintained by imperial generals even when the throne was disgraced by weak or vicious emperors.",
+    "category": "Political",
+    "question_type": "How-Relation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q079",
+    "question": "What was the Roman approach to climate challenges in expansion?",
+    "answer": "They acknowledged natural limitations, as heat repelled invaders in Ethiopia and Arabia, while northern climates were deemed not worth conquest expense.",
+    "category": "Geographical",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p1_q080",
+    "question": "How did the Roman Empire balance conquest and consolidation?",
+    "answer": "They focused on preserving acquired dominions through laws, manners, and military presence rather than continuous expansion, with few exceptions.",
+    "category": "Political",
+    "question_type": "How-Balance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q001",
+    "question": "What was the ancient tradition regarding the god Terminus and what did it signify?",
+    "answer": "When the Capitol was founded, Terminus alone refused to yield his place to Jupiter, which was interpreted as a presage that Roman boundaries would never recede.",
+    "category": "Cultural",
+    "question_type": "What-Tradition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q002",
+    "question": "What was Hadrian's first significant measure regarding Trajan's eastern conquests?",
+    "answer": "He resigned all eastern conquests of Trajan, restored Parthian sovereignty, withdrew Roman garrisons from Armenia, Mesopotamia, and Assyria, and reestablished the Euphrates as the frontier.",
+    "category": "Political",
+    "question_type": "What-Measure",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q003",
+    "question": "How did Hadrian's character differ from Trajan's?",
+    "answer": "Trajan had a martial and ambitious spirit, while Hadrian showed moderation. Hadrian was restless and active, contrasting with Antoninus Pius's gentle repose.",
+    "category": "Historical",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q004",
+    "question": "What was notable about Hadrian's travels during his reign?",
+    "answer": "His life was almost a perpetual journey; he marched bare-headed over snows of Caledonia and sultry plains of Upper Egypt, visiting every province of the empire.",
+    "category": "Historical",
+    "question_type": "What-Activity",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q005",
+    "question": "How did Antoninus Pius's lifestyle contrast with Hadrian's?",
+    "answer": "Antoninus Pius spent his tranquil life in Italy, with his longest journeys extending only from Rome to his Lanuvian villa during his 23-year reign.",
+    "category": "Historical",
+    "question_type": "How-Contrast",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q006",
+    "question": "What was the common policy of Hadrian and the Antonines regarding empire expansion?",
+    "answer": "They maintained Augustus's system of preserving empire dignity without enlarging its limits, inviting barbarian friendship and demonstrating Roman power was motivated by love of order and justice.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q007",
+    "question": "How long did the peaceful period under Hadrian and Antoninus Pius last?",
+    "answer": "Forty-three years of universal peace, with only slight hostilities to exercise frontier legions.",
+    "category": "Historical",
+    "question_type": "How-Long",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 17,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Beginner"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q008",
+    "question": "What was the Roman approach to maintaining peace according to the text?",
+    "answer": "They preserved peace by constant preparation for war and announced to neighboring nations they were as little disposed to endure as to offer injury.",
+    "category": "Military",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q009",
+    "question": "How did military recruitment change from republican to imperial times?",
+    "answer": "In republican times, arms were reserved for citizens with property and country to love; in imperial times, war became an art and trade, with soldiers drawn from meanest classes.",
+    "category": "Military",
+    "question_type": "How-Change",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q010",
+    "question": "What qualities were preferred in Roman military recruits?",
+    "answer": "Northern climates over southern, country men over city dwellers, and hard occupations like smiths and carpenters over sedentary luxury trades.",
+    "category": "Military",
+    "question_type": "What-Preference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q011",
+    "question": "What motives replaced patriotism in the imperial army?",
+    "answer": "Honor and religion replaced patriotism, with soldiers taking oaths never to desert standards and to sacrifice lives for emperor and empire.",
+    "category": "Military",
+    "question_type": "What-Motives",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q012",
+    "question": "How were Roman military exercises conducted?",
+    "answer": "Recruits and veterans trained constantly morning and evening in all aspects of warfare, using double-weight arms, with training continuing even in tempestuous weather.",
+    "category": "Military",
+    "question_type": "How-Conducted",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q013",
+    "question": "What was the composition of an imperial legion?",
+    "answer": "6,100 heavy-armed infantry divided into 10 cohorts and 55 companies, plus cavalry of 726 horse, making about 6,831 Romans total.",
+    "category": "Military",
+    "question_type": "What-Composition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q014",
+    "question": "What were the principal weapons of a legionary soldier?",
+    "answer": "Open helmet with crest, breastplate, greaves, oblong buckler, light spear, formidable pilum javelin, and short Spanish double-edged sword.",
+    "category": "Military",
+    "question_type": "What-Weapons",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q015",
+    "question": "How did Roman legion tactics differ from Greek phalanx?",
+    "answer": "Legions used open order with 3-foot spacing allowing flexibility, while phalanx depended on 16 ranks of pikes wedged in close array, making it less active.",
+    "category": "Military",
+    "question_type": "How-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q001",
+    "question": "What was the appearance and organization of a Roman legion camp?",
+    "answer": "It resembled a fortified city with exact quadrangle shape, broad straight streets, praetorium in center, and 12-foot high rampart with palisades and ditch.",
+    "category": "Military",
+    "question_type": "What-Description",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q002",
+    "question": "How quickly could Roman legions break camp and march?",
+    "answer": "Almost instantly when trumpet signaled, falling into ranks without confusion, and advancing 20 miles in 6 hours under heavy load.",
+    "category": "Military",
+    "question_type": "How-Efficient",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q003",
+    "question": "What was the total standing military force under Hadrian?",
+    "answer": "30 legions with auxiliaries totaling about 375,000 men, forming a permanent force distributed along frontiers.",
+    "category": "Military",
+    "question_type": "What-Number",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q004",
+    "question": "How were legions distributed along the Roman frontiers?",
+    "answer": "3 in Britain, 16 on Rhine/Danube (2 Lower Germany, 3 Upper Germany, 1 Rhætia, 1 Noricum, 4 Pannonia, 3 Mæsia, 2 Dacia), 8 on Euphrates (6 Syria, 2 Cappadocia).",
+    "category": "Military",
+    "question_type": "What-Distribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q005",
+    "question": "What was the Roman navy's composition and purpose?",
+    "answer": "Two main fleets at Ravenna and Misenum, with ships at Frejus, Euxine, Gaul-Britain route, and Rhine/Danube, sufficient for government needs but not exploration.",
+    "category": "Military",
+    "question_type": "What-Composition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 34,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q006",
+    "question": "How was Spain divided under Augustus?",
+    "answer": "Into three provinces: Lusitania (Portugal), Bætica (Grenada/Andalusia), and Tarraconensis (remainder of Spain).",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q007",
+    "question": "What was the extent of ancient Gaul compared to modern France?",
+    "answer": "Ancient Gaul was larger, containing modern France plus Savoy, Switzerland, Rhine electorates, Liege, Luxemburgh, Hainault, Flanders, and Brabant.",
+    "category": "Geographical",
+    "question_type": "What-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q008",
+    "question": "How was Gaul divided under Roman administration?",
+    "answer": "Into six provinces: Narbonnese, Aquitaine, Celtic/Lyonnese, Belgic, Upper Germany, and Lower Germany.",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q009",
+    "question": "What was the Roman province of Illyricum?",
+    "answer": "The Danube provinces including Rhætia, Noricum, Pannonia, Dalmatia, Dacia, Mæsia, Thrace, Macedonia, and Greece - considered most warlike part of empire.",
+    "category": "Geographical",
+    "question_type": "What-Definition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q010",
+    "question": "What was the significance of Syria in the Roman Empire?",
+    "answer": "It formed the eastern frontier, bounded by Cappadocia mountains north and Egypt/Red Sea south, sometimes including Phoenicia and Palestine.",
+    "category": "Geographical",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q011",
+    "question": "How was Africa divided under Roman administration?",
+    "answer": "Eastern part as Africa proper (Carthage region), Numidia, Mauritania Caesariensis, and Tingitana (modern Morocco).",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q012",
+    "question": "What were the dimensions of the Roman Empire at its height?",
+    "answer": "Over 2,000 miles wide (Antonine Wall to Atlas Mountains), over 3,000 miles long (Atlantic to Euphrates), containing above 1.6 million square miles of fertile land.",
+    "category": "Geographical",
+    "question_type": "What-Dimensions",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q016",
+    "question": "What was the significance of the golden eagle in Roman legions?",
+    "answer": "The golden eagle that glittered in front of the legion was the object of soldiers' fondest devotion, and abandoning this sacred ensign in danger was considered both impious and ignominious.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q017",
+    "question": "How did Roman military discipline enforce obedience?",
+    "answer": "Centurions could chastise with blows, generals could punish with death, and soldiers were taught to dread officers more than enemies through inflexible discipline.",
+    "category": "Military",
+    "question_type": "How-Enforcement",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q018",
+    "question": "What was included in Roman military exercises?",
+    "answer": "Soldiers were trained to march, run, leap, swim, carry heavy burdens, handle all weapons for offense and defense, form evolutions, and move to flutes in Pyrrhic dance.",
+    "category": "Military",
+    "question_type": "What-Content",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q019",
+    "question": "How did emperors personally contribute to military training?",
+    "answer": "Hadrian and Trajan frequently condescended to instruct inexperienced soldiers, reward the diligent, and sometimes dispute prizes of strength or dexterity with them.",
+    "category": "Military",
+    "question_type": "How-Contribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q020",
+    "question": "What was the difference between Polybius's legions and Imperial legions?",
+    "answer": "Legions described by Polybius during Punic wars differed materially from those of Caesar's victories or Hadrian's monarchy, showing nine centuries of military evolution.",
+    "category": "Military",
+    "question_type": "What-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q021",
+    "question": "What was the structure of the first cohort in a legion?",
+    "answer": "The first cohort had 1,105 soldiers most approved for valor and fidelity, claiming post of honor and custody of the eagle, while other nine cohorts had 555 each.",
+    "category": "Military",
+    "question_type": "What-Structure",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q022",
+    "question": "How was the Roman pilum used in battle?",
+    "answer": "The pilum was a ponderous javelin launched before closing with enemy, effective within 10-12 paces, then soldiers drew swords for close combat.",
+    "category": "Military",
+    "question_type": "How-Usage",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q023",
+    "question": "What was the Roman cavalry's composition and organization?",
+    "answer": "Cavalry divided into 10 squadrons: first with 132 men accompanying first cohort, others with 66 each, totaling 726 horse per legion.",
+    "category": "Military",
+    "question_type": "What-Composition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q024",
+    "question": "How had Roman cavalry changed from republican to imperial times?",
+    "answer": "Republican cavalry comprised noble youths preparing for political offices, while imperial cavalry came from same provinces and classes as legion recruits.",
+    "category": "Military",
+    "question_type": "How-Change",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q025",
+    "question": "What were the main weapons of Roman cavalry?",
+    "answer": "Helmet, oblong shield, light boots, coat of mail, javelin, long broad sword, plus lances and iron maces borrowed from barbarians.",
+    "category": "Military",
+    "question_type": "What-Weapons",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q026",
+    "question": "What was the role and composition of Roman auxiliaries?",
+    "answer": "Auxiliaries included provincial levies, dependent princes' troops, and even hostile barbarians compelled to serve, often equal in number to legions.",
+    "category": "Military",
+    "question_type": "What-Role",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q027",
+    "question": "What artillery did Roman legions possess?",
+    "answer": "Ten large military engines and fifty-five smaller ones that discharged stones and darts with irresistible violence, either obliquely or horizontally.",
+    "category": "Military",
+    "question_type": "What-Artillery",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q013",
+    "question": "How did Roman camps demonstrate military organization?",
+    "answer": "Camps showed perfect regularity with exact quadrangles, broad straight streets, specific stations for each unit, and systematic defense works built by legionaries themselves.",
+    "category": "Military",
+    "question_type": "How-Organization",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q014",
+    "question": "What was the Roman battle formation when encountering enemies?",
+    "answer": "They threw aside baggage, converted march column to battle order with slingers/archers front, auxiliaries first line, legions seconding, cavalry flanks, engines rear.",
+    "category": "Military",
+    "question_type": "What-Formation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q015",
+    "question": "What was the Praetorian Guard and its significance?",
+    "answer": "Over 20,000 chosen soldiers titled City Cohorts and Praetorian Guards watched monarch and capital safety, but often caused revolutions with more splendid appearance and less rigid discipline.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 37,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q016",
+    "question": "What was Rome's naval strategy compared to other ancient seafaring nations?",
+    "answer": "Unlike Tyre, Carthage, and Marseilles who explored widely, Rome used navy only for Mediterranean dominion and commerce protection, considering ocean an object of terror.",
+    "category": "Military",
+    "question_type": "What-Strategy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q017",
+    "question": "What were the main Roman naval bases?",
+    "answer": "Permanent fleets at Ravenna on Adriatic and Misenum in Bay of Naples, plus significant forces at Frejus in Provence and Euxine Sea with 40 ships.",
+    "category": "Military",
+    "question_type": "What-Bases",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q018",
+    "question": "How did Roman Britain compare to modern Britain geographically?",
+    "answer": "Roman province included all England, Wales, and Scottish Lowlands to Friths of Dumbarton and Edinburgh, divided among about thirty barbarian tribes originally.",
+    "category": "Geographical",
+    "question_type": "What-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q019",
+    "question": "What was the geographical extent of Roman Italy?",
+    "answer": "Included Lombardy (formerly Gaulish), Ligurian coast (Genoa), Venetian territories, Etruria/Umbria (Tuscany), Latium, Campania, and Greek colonies, plus Istria.",
+    "category": "Geographical",
+    "question_type": "What-Extent",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q020",
+    "question": "What was significant about the Danube River in Roman geography?",
+    "answer": "The Danube flowed 1,300 miles southeast, collected sixty navigable rivers, emptied through six mouths into Euxine, and protected European provinces as Illyrian frontier.",
+    "category": "Geographical",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q021",
+    "question": "How was the Balkan region organized under Roman administration?",
+    "answer": "As Illyricum or Illyrian frontier including Rhætia, Noricum, Pannonia, Dalmatia, Dacia, Mæsia, Thrace, Macedonia, and Greece - considered most warlike provinces.",
+    "category": "Geographical",
+    "question_type": "What-Organization",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q022",
+    "question": "What was Asia Minor's division under Roman rule?",
+    "answer": "Asia proper (west of Taurus/Halys), Bithynia/Pontus (north coast), Cilicia (south), Cappadocia (inland), with northern Euxine shores under Roman sovereignty.",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q023",
+    "question": "What was Egypt's unique geographical position?",
+    "answer": "Though in Africa peninsula, Egypt was accessible only from Asia and obeyed Asian revolutions throughout history, with Nile marking fertility extent through inundations.",
+    "category": "Geographical",
+    "question_type": "What-Position",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q024",
+    "question": "How was North Africa divided under Roman rule?",
+    "answer": "Cyrene region, Africa proper (Carthage area), Numidia, Mauritania Caesariensis, and Tingitana (Morocco), with western parts intersected by Atlas Mountains.",
+    "category": "Geographical",
+    "question_type": "What-Division",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q025",
+    "question": "What Mediterranean islands were under Roman control?",
+    "answer": "Balearic Islands (Majorca/Minorca), Corsica, Sardinia, Sicily, Crete/Candia, Cyprus, most Greek/Asian islands, with Malta emerging as notable exception under military Order.",
+    "category": "Geographical",
+    "question_type": "What-Islands",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q028",
+    "question": "What was the Roman military philosophy regarding skill versus natural valor?",
+    "answer": "Romans believed valor without skill and practice was imperfect, so they borrowed their word for army from the word meaning exercise, emphasizing constant training.",
+    "category": "Military",
+    "question_type": "What-Philosophy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q029",
+    "question": "How did Roman soldiers' equipment demonstrate practical design?",
+    "answer": "Their arms were uniform and admirably adapted to service needs, with open helmet for visibility, protective armor, and weapons suited for both throwing and close combat.",
+    "category": "Military",
+    "question_type": "How-Design",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q030",
+    "question": "What was the tactical advantage of the Roman legion's open order formation?",
+    "answer": "The eight-deep formation with three-foot intervals allowed free movement of arms, introduction of reinforcements, and execution of various dispositions suggested by circumstances or leaders.",
+    "category": "Military",
+    "question_type": "What-Advantage",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q031",
+    "question": "How did Roman military training simulate real combat conditions?",
+    "answer": "They used arms of double the weight required in real action and trained so thoroughly that only bloodshed distinguished a battlefield from exercise field.",
+    "category": "Military",
+    "question_type": "How-Simulation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q032",
+    "question": "What was the significance of the Roman soldier's oath?",
+    "answer": "The solemn oath bound soldiers never to desert standards, submit will to leaders' commands, and sacrifice life for emperor and empire safety, creating religious and honorable commitment.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q033",
+    "question": "How did Roman military discipline create superior soldiers?",
+    "answer": "Through laudable arts of discipline, imperial troops achieved firmness and docility unattainable by barbarians' impetuous passions, combining valor with perfect obedience.",
+    "category": "Military",
+    "question_type": "How-Effect",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q034",
+    "question": "What was the economic aspect of Roman military service?",
+    "answer": "Regular pay, occasional donatives, and stated recompense after service alleviated military life hardships, while severe punishment awaited cowardice or disobedience.",
+    "category": "Military",
+    "question_type": "What-Economic",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q035",
+    "question": "How did the Roman military combine different types of forces effectively?",
+    "answer": "Each legion with its auxiliaries contained every species of lighter troops and missile weapons, capable of encountering every nation with respective arms advantages.",
+    "category": "Military",
+    "question_type": "How-Integration",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q026",
+    "question": "How did Roman military camps demonstrate engineering skill?",
+    "answer": "Legionaries built twelve-foot high ramparts with intricate palisades and twelve-foot deep ditches, showing spade and pickaxe use was as familiar as sword or pilum.",
+    "category": "Military",
+    "question_type": "How-Engineering",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q027",
+    "question": "What was the strategic placement of Roman legions along frontiers?",
+    "answer": "Legions were encamped on great rivers' banks and barbarian frontiers rather than in fortified cities, with mostly fixed permanent stations showing systematic defense planning.",
+    "category": "Military",
+    "question_type": "What-Strategy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q028",
+    "question": "How did Roman naval technology evolve from earlier models?",
+    "answer": "Augustus used light frigates at Actium over unwieldy castles, establishing Liburnians as main vessels, recognizing that galleys beyond three oar ranks were suited for pomp rather than service.",
+    "category": "Military",
+    "question_type": "How-Evolution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q029",
+    "question": "What was the cultural significance of Roman Spain's division?",
+    "answer": "Spain's three provinces reflected geographical and cultural diversity, with Lusitania as warlike country, Bætica as fertile south, and Tarraconensis as extensive northern region.",
+    "category": "Cultural",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q030",
+    "question": "How did Roman geographical knowledge compare to modern understanding?",
+    "answer": "While ancients sometimes confused Roman monarchy with entire earth, modern historians recognize empire spanned finest Temperate Zone parts between 24th-56th northern latitude degrees.",
+    "category": "Historical",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q031",
+    "question": "What was the historical importance of Roman provincial organization?",
+    "answer": "Provincial organization created administrative framework whose broken fragments later formed many powerful kingdoms, showing lasting imperial impact on European political geography.",
+    "category": "Historical",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q032",
+    "question": "How did Roman administration adapt to different regional characteristics?",
+    "answer": "They considered climate, river courses, and national distinctions when dividing territories, as seen in Gaul's six-province system adapted to geographical and cultural realities.",
+    "category": "Political",
+    "question_type": "How-Adaptation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q033",
+    "question": "What was the military significance of the Rhine-Danube frontier?",
+    "answer": "This frontier hosted sixteen legions - the principal strength of Roman forces - protecting against Germanic tribes while utilizing natural river boundaries for defense.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q034",
+    "question": "How did Roman geographical terminology influence modern place names?",
+    "answer": "Many modern names derive from Roman provinces, like Andalusia from Bætica, Provence from Provincia, and Roumelia from Roman memory preserved by Turks.",
+    "category": "Historical",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q035",
+    "question": "What was the philosophical perspective on Roman imperial expansion?",
+    "answer": "The text suggests modern historians need sober, accurate language about Roman greatness, avoiding ancient vanity that confused Roman monarchy with entire globe.",
+    "category": "Philosophical",
+    "question_type": "What-Perspective",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q036",
+    "question": "How did Roman military presence vary across different provinces?",
+    "answer": "Military force varied from eight legions on threatened Euphrates frontier to single legions in peaceful Egypt, Africa and Spain, showing strategic allocation based on threat level.",
+    "category": "Military",
+    "question_type": "How-Variation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q037",
+    "question": "What was the cultural legacy of Roman provincial boundaries?",
+    "answer": "Roman provincial boundaries often became cultural and linguistic dividing lines that persisted for centuries, influencing development of modern European nations and regions.",
+    "category": "Cultural",
+    "question_type": "What-Legacy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q038",
+    "question": "How did Roman geographical knowledge demonstrate scientific understanding?",
+    "answer": "Their recognition of climate zones, measurement of empire dimensions, and systematic provincial organization showed advanced geographical knowledge for antiquity.",
+    "category": "Historical",
+    "question_type": "How-Understanding",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q039",
+    "question": "What was the economic basis of Roman military power?",
+    "answer": "The empire's extensive fertile lands (over 1.6 million square miles) provided economic foundation supporting 450,000 military personnel through taxation and resources.",
+    "category": "Economic",
+    "question_type": "What-Basis",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q040",
+    "question": "How did Roman military organization reflect imperial administration?",
+    "answer": "The systematic legion distribution mirrored provincial organization, showing military and civil administration integration throughout the empire's extensive territories.",
+    "category": "Political",
+    "question_type": "How-Reflection",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q041",
+    "question": "What was the strategic importance of Mediterranean control?",
+    "answer": "Complete Mediterranean control enabled Roman commerce protection, rapid military movement, and imperial unity, making it the empire's central strategic waterway.",
+    "category": "Military",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q042",
+    "question": "How did Roman frontier policy demonstrate strategic thinking?",
+    "answer": "Stationing legions along natural frontiers like rivers and mountains showed understanding of defensive advantages while maintaining offensive capability against barbarians.",
+    "category": "Military",
+    "question_type": "How-Strategy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q043",
+    "question": "What was the cultural impact of Roman unification of diverse regions?",
+    "answer": "Bringing regions from Spain to Syria under single administration created cultural exchange framework that influenced art, architecture, law, and language across Europe and Mediterranean.",
+    "category": "Cultural",
+    "question_type": "What-Impact",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q044",
+    "question": "How did Roman military efficiency contribute to imperial stability?",
+    "answer": "Rapid camp movement, disciplined formations, and comprehensive training created military efficiency that ensured imperial stability during Hadrian and Antonines' peaceful reigns.",
+    "category": "Military",
+    "question_type": "How-Contribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q045",
+    "question": "What was the geographical diversity of the Roman Empire?",
+    "answer": "The empire encompassed diverse geography from Scottish highlands to Egyptian deserts, from Spanish coasts to Syrian mountains, and from African sands to Danube forests.",
+    "category": "Geographical",
+    "question_type": "What-Diversity",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q046",
+    "question": "What psychological factors motivated Roman soldiers beyond material rewards?",
+    "answer": "Beyond pay and donatives, soldiers were motivated by honor, religious devotion to standards, and the prejudice that military profession was more dignified, where rank depended on personal valor.",
+    "category": "Military",
+    "question_type": "What-Motivation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 34,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q047",
+    "question": "How did Roman military training address different combat scenarios?",
+    "answer": "Training covered both distant engagement and close onset, with soldiers learning to handle every species of arms for offense and defense in varied evolutions and formations.",
+    "category": "Military",
+    "question_type": "How-Training",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q048",
+    "question": "What was the tactical purpose of the Pyrrhic dance in Roman training?",
+    "answer": "The Pyrrhic or martial dance trained soldiers to move in coordinated formations to the sound of flutes, developing grace in motions and unit cohesion for battlefield maneuvers.",
+    "category": "Military",
+    "question_type": "What-Purpose",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q049",
+    "question": "How did Roman military organization ensure comprehensive combat capability?",
+    "answer": "By combining legions with allocated auxiliaries, each force contained all necessary troop types and weapons to engage any nation with appropriate tactical advantages.",
+    "category": "Military",
+    "question_type": "How-Organization",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p2_q050",
+    "question": "What was the significance of the Roman military's emphasis on northern recruits?",
+    "answer": "Preference for northern climates reflected belief that hardy northern races and outdoor occupations produced more vigorous soldiers than southern climates and sedentary luxury trades.",
+    "category": "Military",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q046",
+    "question": "How did Roman military logistics support rapid deployment?",
+    "answer": "Soldiers carried kitchen furniture, fortification instruments, and multi-day provisions while marching 20 miles in 6 hours, enabling rapid response without supply train delays.",
+    "category": "Military",
+    "question_type": "How-Logistics",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q047",
+    "question": "What was the strategic reasoning behind stationing only one legion in peaceful provinces?",
+    "answer": "Single legions in Egypt, Africa, and Spain demonstrated efficient resource allocation, maintaining domestic tranquility without unnecessary military expenditure in secure regions.",
+    "category": "Military",
+    "question_type": "What-Reasoning",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q048",
+    "question": "How did Roman naval strategy differ from their land military approach?",
+    "answer": "While ambitious on land, Romans were conservative at sea, using navy only for Mediterranean control and commerce protection rather than exploration or transoceanic expansion.",
+    "category": "Military",
+    "question_type": "How-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q049",
+    "question": "What geographical features defined Roman provincial boundaries in Europe?",
+    "answer": "Natural features like Pyrenees, Alps, Rhine, Danube, and Atlantic Ocean defined provincial boundaries, showing Roman preference for defensible natural frontiers.",
+    "category": "Geographical",
+    "question_type": "What-Features",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q050",
+    "question": "How did Roman administration preserve regional identities while maintaining imperial unity?",
+    "answer": "By organizing provinces according to natural boundaries and historical national distinctions, Romans respected regional characteristics while imposing uniform imperial administration.",
+    "category": "Political",
+    "question_type": "How-Balance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q051",
+    "question": "What was the economic importance of Mediterranean control to the Roman Empire?",
+    "answer": "Complete Mediterranean dominion protected vital sea trade routes, enabled efficient troop movements, and secured economic prosperity through controlled maritime commerce.",
+    "category": "Economic",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q052",
+    "question": "How did Roman military technology evolve to counter different enemy types?",
+    "answer": "Legions developed versatile equipment and tactics effective against both eastern cavalry with complete armor and western barbarians with different fighting styles.",
+    "category": "Military",
+    "question_type": "How-Evolution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q053",
+    "question": "What was the cultural significance of Rome's incorporation of Greek territories?",
+    "answer": "Incorporating Greece's immortal republics into single province showed Roman cultural confidence while preserving Greek artistic and intellectual influence within empire.",
+    "category": "Cultural",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q054",
+    "question": "How did Roman frontier management demonstrate strategic foresight?",
+    "answer": "Permanent legion camps along natural frontiers provided early warning, rapid response capability, and demonstrated Roman power to neighboring nations continuously.",
+    "category": "Military",
+    "question_type": "How-Strategy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q055",
+    "question": "What was the philosophical basis for Roman military moderation under Hadrian and Antonines?",
+    "answer": "Their moderation stemmed from philosophical understanding that true power lay in justice and order maintenance rather than endless conquest, following Augustus's wisdom.",
+    "category": "Philosophical",
+    "question_type": "What-Basis",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q056",
+    "question": "How did Roman military discipline create psychological advantage?",
+    "answer": "The constant training and severe punishment system created soldiers who feared officers more than enemies, producing unmatched discipline and battlefield reliability.",
+    "category": "Military",
+    "question_type": "How-Psychology",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q057",
+    "question": "What was the demographic impact of Roman military recruitment policies?",
+    "answer": "Preference for northern recruits and country dwellers created military demographic distinct from general population, with deliberate selection for physical vigor and martial spirit.",
+    "category": "Historical",
+    "question_type": "What-Impact",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q058",
+    "question": "How did Roman engineering skills enhance military effectiveness?",
+    "answer": "Legionaries' proficiency with spade and pickaxe equaled sword skills, enabling rapid construction of fortified camps and siege works that multiplied military effectiveness.",
+    "category": "Military",
+    "question_type": "How-Engineering",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q059",
+    "question": "What was the strategic importance of the Euphrates frontier?",
+    "answer": "The Euphrates represented eastern imperial limit, guarded by eight legions against Parthian threat, making it second most heavily defended frontier after Rhine-Danube.",
+    "category": "Military",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q060",
+    "question": "How did Roman military organization reflect social hierarchy?",
+    "answer": "While common soldiers came from lower classes, officers maintained liberal birth and education, preserving social distinction within military structure.",
+    "category": "Social",
+    "question_type": "How-Reflection",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q061",
+    "question": "What was the cultural significance of Rome's tolerance for diverse auxiliary troops?",
+    "answer": "Incorporating various barbarian troops as auxiliaries demonstrated Roman pragmatic adaptability while maintaining legionary core as embodiment of Roman military virtue.",
+    "category": "Cultural",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q062",
+    "question": "How did Roman military success contribute to political stability?",
+    "answer": "Efficient military organization and visible frontier strength deterred external threats and internal revolts, creating political stability that characterized Antonine golden age.",
+    "category": "Political",
+    "question_type": "How-Contribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q063",
+    "question": "What was the geographical logic behind Roman provincial capital locations?",
+    "answer": "Capitals like Tarragona, Lyons, and Narbonne were strategically placed at communication hubs, reflecting Roman understanding of geographical advantages for administration.",
+    "category": "Geographical",
+    "question_type": "What-Logic",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q064",
+    "question": "How did Roman military innovation maintain tactical superiority?",
+    "answer": "Continuous tactical evolution over nine centuries, from Polybius's era to Imperial legions, ensured Roman military methods remained superior to all contemporary forces.",
+    "category": "Military",
+    "question_type": "How-Innovation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q065",
+    "question": "What was the economic foundation of Roman military expenditure?",
+    "answer": "The empire's vast fertile territories and efficient taxation system supported enormous military establishment of 450,000 men without overwhelming economic burden.",
+    "category": "Economic",
+    "question_type": "What-Foundation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q066",
+    "question": "How did Roman military organization facilitate imperial administration?",
+    "answer": "The permanent legion camps along frontiers served as administrative centers, military bases, and symbols of Roman power, integrating military and civil control in border regions.",
+    "category": "Political",
+    "question_type": "How-Facilitation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q067",
+    "question": "What was the cultural impact of Roman military standardization?",
+    "answer": "Uniform equipment, training methods, and tactical systems across the empire created shared military culture that reinforced Roman identity among diverse provincial populations.",
+    "category": "Cultural",
+    "question_type": "What-Impact",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q068",
+    "question": "How did Roman geographical understanding influence military deployment?",
+    "answer": "Strategic placement of legions reflected sophisticated geographical knowledge, using natural barriers and communication routes to maximize defensive efficiency and rapid response capability.",
+    "category": "Military",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q069",
+    "question": "What was the philosophical significance of Hadrian's frontier policy?",
+    "answer": "Hadrian's establishment of fixed frontiers represented philosophical acceptance of natural limits and rejection of endless expansion, prioritizing consolidation over conquest.",
+    "category": "Philosophical",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch001_p3_q070",
+    "question": "How did Roman military success during Antonine era demonstrate imperial maturity?",
+    "answer": "The ability to maintain universal peace through demonstrated military strength without constant warfare showed imperial maturity and sophisticated understanding of power projection.",
+    "category": "Historical",
+    "question_type": "How-Demonstration",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 1,
+      "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q001",
+    "question": "What distinguished Rome's greatness beyond the speed and extent of its conquests?",
+    "answer": "Rome's greatness was distinguished by its enduring power built through wise governance over centuries, the unification of provinces under common laws and arts, and the establishment of wise, simple, and beneficial government principles.",
+    "category": "Historical",
+    "question_type": "What-Distinction",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 35,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q002",
+    "question": "How did the emperors and senate approach religious policy?",
+    "answer": "They promoted religious tolerance supported by both enlightened thinkers and popular customs, considering all forms of worship equally valid for truth and utility.",
+    "category": "Cultural",
+    "question_type": "How-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q003",
+    "question": "What was the Roman perspective toward different religions?",
+    "answer": "The people considered all religions equally true, philosophers considered them equally false, and magistrates considered them equally useful, producing tolerance and religious harmony.",
+    "category": "Cultural",
+    "question_type": "What-Perspective",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q004",
+    "question": "How did polytheists approach other religions?",
+    "answer": "Devout polytheists remained loyal to their national rites but accepted other earth religions with implicit faith, continually expanding their list of protective deities.",
+    "category": "Cultural",
+    "question_type": "How-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q005",
+    "question": "What role did Greek mythology play in developing polytheism?",
+    "answer": "Homer's elegant mythology gave a beautiful and regular form to ancient polytheism, unifying religious concepts among different peoples.",
+    "category": "Cultural",
+    "question_type": "What-Role",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q006",
+    "question": "How did Greek philosophers approach ethics and divine nature?",
+    "answer": "Greek philosophers derived their ethics from human nature rather than divine nature, while contemplating the divine as an important subject that revealed human understanding's strengths and weaknesses.",
+    "category": "Philosophical",
+    "question_type": "How-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q007",
+    "question": "What was the philosophers' attitude toward common religion in the Antonine age?",
+    "answer": "Philosophers rejected and despised common religion but practiced their ancestors' rituals devoutly, concealing atheistic sentiments under priestly robes.",
+    "category": "Philosophical",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q008",
+    "question": "Why didn't persecution emerge in Roman councils?",
+    "answer": "Magistrates weren't fanatical because they were philosophers themselves, and they weren't driven by greed or ambition since temporal and ecclesiastical powers were united.",
+    "category": "Political",
+    "question_type": "Why-Reason",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q009",
+    "question": "How did Romans treat local religions in the provinces?",
+    "answer": "Romans encouraged public festivals, used divination arts as political tools, and respected local beliefs as useful social bonds maintaining order.",
+    "category": "Political",
+    "question_type": "How-Treatment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q010",
+    "question": "What was Rome's policy toward foreign religions?",
+    "answer": "Rome sometimes prohibited foreign rites like Egyptian religion, but tolerance ultimately prevailed, making Rome the common temple for all humanity's gods.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q001",
+    "question": "How did Rome's citizenship policy differ from Athens and Sparta?",
+    "answer": "Rome sacrificed vanity for ambition by adopting virtue and merit wherever found, while Athens and Sparta maintained pure blood policies that hastened their decline.",
+    "category": "Political",
+    "question_type": "How-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q002",
+    "question": "What was the demographic development of Roman citizenship?",
+    "answer": "Roman citizens increased from 83,000 in Servius Tullius's first census to 463,000 men able to bear arms before the Social War.",
+    "category": "Historical",
+    "question_type": "What-Development",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q003",
+    "question": "How did Italian cities contribute to Roman cultural prosperity?",
+    "answer": "Italian cities produced great figures like Virgil from Mantua, Horace from Apulia, Cato from Tusculum, and Marius and Cicero from Arpinum, enriching Roman heritage.",
+    "category": "Cultural",
+    "question_type": "How-Contribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q004",
+    "question": "What was Rome's policy toward dangerous alliances in provinces?",
+    "answer": "The senate's primary concern was dissolving dangerous alliances in Etruria, Greece, and Gaul that taught resistance through unity against Roman division tactics.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q005",
+    "question": "How did Romans form a nation in the provinces?",
+    "answer": "Romans formed a provincial nation through establishing colonies and granting Roman citizenship to the most loyal and deserving provincial inhabitants.",
+    "category": "Political",
+    "question_type": "How-Formation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q006",
+    "question": "What was the importance of Roman colonies in spreading culture?",
+    "answer": "Colonies perfectly represented Rome itself, spreading reverence for the Roman name and desire for its honors through friendship and alliance bonds.",
+    "category": "Cultural",
+    "question_type": "What-Importance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q007",
+    "question": "How did Latin language spread affect imperial unification?",
+    "answer": "Latin spread was crucial for unifying national customs, replacing ancient dialects in the West and becoming the language of science and administration.",
+    "category": "Cultural",
+    "question_type": "How-Effect",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q008",
+    "question": "What was the difference between East and West in accepting Latin?",
+    "answer": "The East was less receptive to Latin than the West, as Greeks maintained their language due to cultural pride and vanity.",
+    "category": "Cultural",
+    "question_type": "What-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q009",
+    "question": "How were slaves treated in the Antonine age?",
+    "answer": "Laws protected slaves, underground prisons were abolished, and slaves suffering intolerable treatment could obtain freedom or a less cruel master.",
+    "category": "Social",
+    "question_type": "How-Treatment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q010",
+    "question": "What was the estimated population of the Roman Empire?",
+    "answer": "Total population was approximately 120 million, with 20 million Roman citizens, similar numbers of provincial inhabitants, and slaves equal to free inhabitants.",
+    "category": "Historical",
+    "question_type": "What-Estimate",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q011",
+    "question": "What characterized the religious tolerance in the Roman Empire?",
+    "answer": "Religious tolerance produced mutual indulgence and even religious concord, with people's superstition free from theological rancor and not confined by speculative systems.",
+    "category": "Cultural",
+    "question_type": "What-Characteristic",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q012",
+    "question": "How did Romans view local deities of conquered territories?",
+    "answer": "Romans respected local deities and their influence, never deriding foreigners who presented offerings to their native gods like the Nile's beneficent genius.",
+    "category": "Cultural",
+    "question_type": "How-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q013",
+    "question": "What was the ancient attitude toward religious differences?",
+    "answer": "Ancient nations were less attentive to religious differences than to resemblances, easily believing they adored the same deities under various names and ceremonies.",
+    "category": "Cultural",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q014",
+    "question": "How did the four main philosophical schools approach religion?",
+    "answer": "Stoics and Platonists reconciled reason and piety, while Academics doubted and Epicureans denied divine providence, all rejecting common religion.",
+    "category": "Philosophical",
+    "question_type": "How-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q015",
+    "question": "Why couldn't philosophers accept common religious tales?",
+    "answer": "Philosophers found it impossible to accept poets' idle tales and incoherent traditions as divine truths or worship imperfect beings they despised as men.",
+    "category": "Philosophical",
+    "question_type": "Why-Reason",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q016",
+    "question": "How did Cicero and Lucian attack traditional religion?",
+    "answer": "Cicero used reason and eloquence while Lucian employed satire, both reflecting the gods' secret contempt among enlightened society members.",
+    "category": "Philosophical",
+    "question_type": "How-Attack",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q017",
+    "question": "What was the philosophers' practical approach to religion?",
+    "answer": "Philosophers asserted reason's dignity but followed law and custom, practicing ancestral ceremonies while concealing atheistic sentiments under priestly robes.",
+    "category": "Philosophical",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q018",
+    "question": "Why were Roman magistrates not religious persecutors?",
+    "answer": "Magistrates were philosophers themselves with united temporal and ecclesiastical powers, understanding religion's advantages for civil government.",
+    "category": "Political",
+    "question_type": "Why-Reason",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q019",
+    "question": "How did Romans use religion for social control?",
+    "answer": "They managed divination as policy instruments and respected the belief in divine punishment for perjury as society's firmest bond.",
+    "category": "Political",
+    "question_type": "How-Usage",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q020",
+    "question": "What was Rome's policy toward ancestral religions?",
+    "answer": "Conquered nations uniformly experienced indulgence and protection in exercising ancestral religions, though statues and temple ornaments were often despoiled.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q021",
+    "question": "How were Druids treated under Roman rule?",
+    "answer": "Emperors Tiberius and Claudius suppressed Druids' dangerous power under pretext of abolishing human sacrifices, but priests and altars survived peacefully.",
+    "category": "Political",
+    "question_type": "How-Treatment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q022",
+    "question": "What was Rome's approach to foreign religious influx?",
+    "answer": "While sometimes checking foreign rites, Rome gradually became humanity's common temple, granting city freedom to all gods and embracing foreign deities.",
+    "category": "Cultural",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q011",
+    "question": "What distinguished Italy from provinces in the empire?",
+    "answer": "Italy was esteemed as public unity's center and constitution's firm basis, with tax exemptions and direct law execution under supreme power's eye.",
+    "category": "Political",
+    "question_type": "What-Distinction",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q012",
+    "question": "How did Italy's natives achieve Roman citizenship?",
+    "answer": "All natives from Alps to Calabria were born Roman citizens, coalescing into one nation united by language, manners, and civil institutions.",
+    "category": "Political",
+    "question_type": "How-Achievement",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q013",
+    "question": "What benefits did Roman citizenship provide provincials?",
+    "answer": "Citizenship provided Roman law benefits especially for marriage, testaments, inheritances, and opened fortune's road to those with favor or merit.",
+    "category": "Social",
+    "question_type": "What-Benefits",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q014",
+    "question": "How did provincial ambition contribute to Roman stability?",
+    "answer": "Provincial ambition connected intimately with state safety and greatness rather than disturbing tranquility, as provincials commanded legions and governed provinces.",
+    "category": "Political",
+    "question_type": "How-Contribution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q015",
+    "question": "What was the extent of Greek cultural influence?",
+    "answer": "Greek influence extended from Adriatic to Euphrates and Nile through colonies and conquest, with Greek cities covering Asia and Macedonian kings revolutionizing Syria and Egypt.",
+    "category": "Cultural",
+    "question_type": "What-Extent",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q016",
+    "question": "How were Latin and Greek languages used in administration?",
+    "answer": "Latin served as legal dialect for public transactions while Greek remained science's natural idiom, with educated Romans conversant in both languages.",
+    "category": "Cultural",
+    "question_type": "How-Usage",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q017",
+    "question": "What was the condition of slaves in Roman society?",
+    "answer": "Slaves endured society's weight without sharing its benefits, consisting mostly of barbarian captives accustomed to independence and impatient with servitude.",
+    "category": "Social",
+    "question_type": "What-Condition",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q018",
+    "question": "How did slave treatment evolve under the emperors?",
+    "answer": "Treatment evolved from severe regulations to milder methods including slave marriages, with masters' humanity encouraged by self-interest rather than fear.",
+    "category": "Social",
+    "question_type": "How-Evolution",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q019",
+    "question": "What reforms did Hadrian and Antonines implement for slaves?",
+    "answer": "They extended legal protection to slaves, reserved life-and-death jurisdiction to magistrates alone, and allowed slaves to obtain freedom or better masters.",
+    "category": "Social",
+    "question_type": "What-Reforms",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q020",
+    "question": "How could slaves obtain freedom in Roman society?",
+    "answer": "Slaves could expect freedom after rendering useful or agreeable service for years, with diligence and fidelity rewarded by the inestimable gift of liberty.",
+    "category": "Social",
+    "question_type": "How-Obtainment",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q023",
+    "question": "What factors disposed polytheists to expand their religious beliefs?",
+    "answer": "Fear, gratitude, curiosity, dreams, omens, singular disorders, or distant journeys perpetually disposed them to multiply belief articles and enlarge their protectors' list.",
+    "category": "Cultural",
+    "question_type": "What-Factors",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q024",
+    "question": "How was pagan mythology structured?",
+    "answer": "Pagan mythology's thin texture was interwoven with various but not discordant materials, accommodating local deities and universal natural powers.",
+    "category": "Cultural",
+    "question_type": "How-Structure",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q025",
+    "question": "What was the Roman view of deified heroes and sages?",
+    "answer": "Romans universally confessed that sages and heroes who lived or died for their country's benefit deserved at least reverence, if not adoration, when exalted to power and immortality.",
+    "category": "Cultural",
+    "question_type": "What-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q026",
+    "question": "How were virtues and vices represented in Roman religion?",
+    "answer": "Every virtue and vice acquired its divine representative, with attributes uniformly derived from their votaries' character across ages and countries.",
+    "category": "Cultural",
+    "question_type": "How-Representation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q027",
+    "question": "What role did the supreme magistrate play in Roman polytheism?",
+    "answer": "The gods' republic required a supreme magistrate's moderating hand, gradually invested with eternal parent and omnipotent monarch's sublime perfections through knowledge and flattery.",
+    "category": "Political",
+    "question_type": "What-Role",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q028",
+    "question": "How did Greek philosophy influence Roman religious thought?",
+    "answer": "Greek philosophy's spirit of inquiry divided teachers into contending sects, all instructing youth to reject and despise common religion while studying Greek writers.",
+    "category": "Philosophical",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q029",
+    "question": "What was the Stoic and Platonist approach to divine nature?",
+    "answer": "Stoics insufficiently distinguished the workman from his work, while Platonists' spiritual God resembled an idea rather than substance, both struggling with matter's creation.",
+    "category": "Philosophical",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q030",
+    "question": "How did Academic and Epicurean philosophers view providence?",
+    "answer": "Academics' modest science induced doubt about supreme ruler's providence, while Epicureans' positive ignorance urged denial of divine governance.",
+    "category": "Philosophical",
+    "question_type": "How-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q031",
+    "question": "Why was Lucian's satire effective against traditional religion?",
+    "answer": "Lucian's satire was adequate and efficacious because gods were already secret contempt objects among polished and enlightened society orders.",
+    "category": "Philosophical",
+    "question_type": "Why-Effective",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q032",
+    "question": "How did philosophers balance reason and religious practice?",
+    "answer": "They viewed vulgar errors with pity and indulgence while diligently practicing ancestral ceremonies and frequenting temples, concealing atheism under sacerdotal robes.",
+    "category": "Philosophical",
+    "question_type": "How-Balance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Advanced"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q033",
+    "question": "What was the philosophers' attitude toward different altars?",
+    "answer": "They approached Libyan, Olympian, and Capitoline Jupiter's altars with same inward contempt and external reverence, indifferent to multitude's folly shape.",
+    "category": "Philosophical",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q034",
+    "question": "How were pontiffs chosen in the Roman system?",
+    "answer": "Pontiffs were chosen among the most illustrious senators, with the Supreme Pontiff office constantly exercised by emperors themselves.",
+    "category": "Political",
+    "question_type": "How-Selection",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q035",
+    "question": "What advantages did Romans see in religious connection to government?",
+    "answer": "They valued religion's advantages for civil government, encouraging humanizing public festivals and using divination as convenient policy instruments.",
+    "category": "Political",
+    "question_type": "What-Advantages",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q036",
+    "question": "How did Romans view different worship modes' effectiveness?",
+    "answer": "They were convinced that various worship modes contributed alike to salutary purposes, with time-sanctioned superstition forms best adapted to each climate and inhabitants.",
+    "category": "Political",
+    "question_type": "How-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q037",
+    "question": "What was Rome's policy toward Egyptian superstition?",
+    "answer": "Egyptian superstition was frequently prohibited as most contemptible and abject, with Serapis and Isis temples demolished and worshippers banished from Rome and Italy.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q038",
+    "question": "How did fanaticism overcome policy against Egyptian religion?",
+    "answer": "Fanaticism's zeal prevailed over policy's cold feeble efforts, with exiles returning, proselytes multiplying, and temples restored until Isis and Serapis joined Roman deities.",
+    "category": "Cultural",
+    "question_type": "How-Overcome",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q039",
+    "question": "What was Rome's traditional approach to foreign gods?",
+    "answer": "In commonwealth's purest ages, Cybele and Aesculapius were invited by solemn embassies, and besieged cities' protectors were tempted with promises of greater honors.",
+    "category": "Cultural",
+    "question_type": "What-Approach",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p1_q040",
+    "question": "How did Rome become humanity's common temple?",
+    "answer": "Rome gradually became her subjects' common temple, bestowing city freedom on all mankind's gods and embracing foreign deities into the Roman pantheon.",
+    "category": "Cultural",
+    "question_type": "How-Transformation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q021",
+    "question": "What was the consequence of Athens' and Sparta's narrow citizenship policy?",
+    "answer": "Preserving ancient citizens' pure blood without foreign mixture checked their fortune and hastened their ruin, unlike Rome's generous adoption policy.",
+    "category": "Political",
+    "question_type": "What-Consequence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q022",
+    "question": "How did Roman citizenship numbers change over time?",
+    "answer": "Citizens decreased in flourishing Athens from thirty to twenty-one thousand, while Rome's citizens multiplied from eighty-three thousand to four hundred sixty-three thousand despite wars and colonies.",
+    "category": "Historical",
+    "question_type": "How-Change",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q023",
+    "question": "How did Rome handle Italian allies' demands for equal privileges?",
+    "answer": "The senate preferred arms to ignominious concession, severely punishing Samnites and Lucanians while admitting other Italian states into the republic as they returned to duty.",
+    "category": "Political",
+    "question_type": "How-Handling",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q024",
+    "question": "What danger did large citizen numbers pose to democracy?",
+    "answer": "Under democratic government, citizen sovereignty powers would be first abused then lost if committed to an unwieldy multitude, threatening public freedom.",
+    "category": "Political",
+    "question_type": "What-Danger",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q025",
+    "question": "How did imperial administration change citizen-conqueror relations?",
+    "answer": "With popular assemblies suppressed, conquerors were distinguished only as the first and most honorable subject order, their rapid increase no longer exposing same dangers.",
+    "category": "Political",
+    "question_type": "How-Change",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q026",
+    "question": "What was Augustus's policy toward Roman name dignity?",
+    "answer": "Wisest princes adopting Augustus's maxims guarded Roman name dignity with strictest care and diffused city freedom with prudent liberality.",
+    "category": "Political",
+    "question_type": "What-Policy",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q027",
+    "question": "How did provincial cities compare to Roman colonies?",
+    "answer": "Municipal cities insensibly equaled colonies' rank and splendor, with Hadrian's reign disputing whether societies issuing from or received into Rome were preferable.",
+    "category": "Political",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q028",
+    "question": "What was the 'right of Latium' for provincial cities?",
+    "answer": "Latium right conferred partial favor where only magistrates assumed Roman citizen quality after office expiration, circulating annually among principal families.",
+    "category": "Political",
+    "question_type": "What-Right",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q029",
+    "question": "How were provincials rewarded for public service?",
+    "answer": "Provincials bearing arms in legions, exercising civil employment, performing public service or displaying personal talents were rewarded with presents of diminishing value due to imperial liberality.",
+    "category": "Social",
+    "question_type": "How-Reward",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q030",
+    "question": "What advancement could Gauls achieve in Roman society?",
+    "answer": "Gauls who besieged Julius Caesar in Alesia saw grandsons command legions, govern provinces, and gain senate admission within generations.",
+    "category": "Social",
+    "question_type": "What-Advancement",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q031",
+    "question": "How did Romans extend Latin language influence?",
+    "answer": "Romans seriously extended Latin tongue use with their arms' progress, making it universal in Africa, Spain, Gaul, Britain and Pannonia while ancient dialects sank into oblivion.",
+    "category": "Cultural",
+    "question_type": "How-Extension",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q032",
+    "question": "What was the cultural difference between East and West?",
+    "answer": "The East was less docile to Latin than the West, marking empire portions with distinction colors gradually visible as prosperity declined.",
+    "category": "Cultural",
+    "question_type": "What-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q033",
+    "question": "How did Western barbarians respond to Roman civilization?",
+    "answer": "Once reconciled to obedience, barbarian minds opened to knowledge and politeness new impressions, adopting Virgil and Cicero's language with minimal corruption.",
+    "category": "Cultural",
+    "question_type": "How-Response",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q034",
+    "question": "What was the Greeks' attitude toward Roman conquerors?",
+    "answer": "Greeks preserved ancestors' prejudices after losing virtues, affecting to despise Roman conquerors' unpolished manners while compelled to respect their superior wisdom and power.",
+    "category": "Cultural",
+    "question_type": "What-Attitude",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q035",
+    "question": "How did Greek culture spread beyond Greece?",
+    "answer": "Greek empire diffused from Adriatic to Euphrates and Nile through colonies and conquest, with Greek cities covering Asia and Macedonian kings revolutionizing Syria and Egypt.",
+    "category": "Cultural",
+    "question_type": "How-Spread",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q036",
+    "question": "What was the Macedonian kings' cultural impact?",
+    "answer": "Macedonian kings united Athenian elegance with Eastern luxury in pompous courts, with higher-ranking subjects imitating their example at humble distance.",
+    "category": "Cultural",
+    "question_type": "What-Impact",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q037",
+    "question": "How were ancient dialects preserved in the empire?",
+    "answer": "Syrian and Egyptian natives used ancient dialects that secluded them from human commerce, checking barbarian improvements and exciting conquerors' contempt or aversion.",
+    "category": "Cultural",
+    "question_type": "How-Preservation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q038",
+    "question": "What was Egypt's status in Roman political society?",
+    "answer": "Egypt seldom desired or deserved city freedom, with over 230 years elapsing after Ptolemy ruin before Egyptian admission into Roman senate.",
+    "category": "Political",
+    "question_type": "What-Status",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q039",
+    "question": "How did Greek arts influence victorious Rome?",
+    "answer": "Victorious Rome was subdued by Greek arts, with immortal Greek writers becoming study and imitation favorite objects in Italy and Western provinces.",
+    "category": "Cultural",
+    "question_type": "How-Influence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q040",
+    "question": "How did Romans maintain Latin dignity amid Greek influence?",
+    "answer": "While acknowledging Greek charms, Romans asserted Latin tongue dignity and maintained its exclusive use inflexibly in civil and military government administration.",
+    "category": "Cultural",
+    "question_type": "How-Maintenance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q041",
+    "question": "What was the slaves' hope for freedom?",
+    "answer": "Hope was not denied to Roman slaves, who could naturally expect freedom after rendering useful or agreeable service for years through diligence and fidelity.",
+    "category": "Social",
+    "question_type": "What-Hope",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q042",
+    "question": "How did laws regulate slave manumission?",
+    "answer": "Laws restrained profuse liberality that might abuse manumission, requiring just causes and magistrate approbation for solemn legal freedom granting.",
+    "category": "Social",
+    "question_type": "How-Regulation",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q043",
+    "question": "What limitations did freedmen face in Roman society?",
+    "answer": "Freedmen obtained only private citizen rights and were rigorously excluded from civil or military honors, with servile origin traces requiring three or four generations to obliterate.",
+    "category": "Social",
+    "question_type": "What-Limitations",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q044",
+    "question": "Why was distinguishing slaves by habit rejected?",
+    "answer": "Distinguishing slaves by peculiar habit was rejected due to danger in acquainting them with their own numbers and potential collective awareness.",
+    "category": "Social",
+    "question_type": "Why-Rejection",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q045",
+    "question": "How did slave numbers compare to free inhabitants?",
+    "answer": "Slaves valued as property were more considerable than servants computed as expense, with slaves at least equal in number to free Roman world inhabitants.",
+    "category": "Social",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q046",
+    "question": "What determined the price of educated slaves?",
+    "answer": "Youths of promising genius instructed in arts and sciences had prices ascertained by their skill and talents degree, reflecting their educational attainment.",
+    "category": "Social",
+    "question_type": "What-Determination",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q047",
+    "question": "What professions could be found in wealthy Roman households?",
+    "answer": "Almost every liberal or mechanical profession existed in opulent senators' households, with pomp and sensuality ministers multiplied beyond modern luxury conception.",
+    "category": "Social",
+    "question_type": "What-Professions",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q048",
+    "question": "Why did merchants prefer purchasing over hiring workers?",
+    "answer": "Merchants and manufacturers found purchasing workmen more beneficial than hiring them, while country slaves served as cheapest most laborious agriculture instruments.",
+    "category": "Economic",
+    "question_type": "Why-Preference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q049",
+    "question": "What evidence demonstrates Roman slave numbers?",
+    "answer": "Single Roman palaces maintained 400 slaves, African widows owned similar numbers, and Augustus's freedman possessed 4,116 slaves among vast livestock holdings.",
+    "category": "Social",
+    "question_type": "What-Evidence",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q050",
+    "question": "What was the Roman citizen count under Emperor Claudius?",
+    "answer": "Claudius's census counted 6,945,000 Roman citizens who, with women and children proportion, amounted to about 20 million souls.",
+    "category": "Historical",
+    "question_type": "What-Count",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q051",
+    "question": "How did provincial numbers compare to Roman citizens?",
+    "answer": "Provincials were about twice as numerous as citizens of either sex and every age, forming a substantial majority within imperial population structure.",
+    "category": "Historical",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q052",
+    "question": "What was the total estimated Roman Empire population?",
+    "answer": "Total imperial population reached about 120 million persons, possibly exceeding modern Europe and forming history's most numerous society under one government system.",
+    "category": "Historical",
+    "question_type": "What-Estimate",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q053",
+    "question": "How did Roman religious tolerance compare to modern standards?",
+    "answer": "Roman religious tolerance produced mutual indulgence and concord without theological rancor, accepting all worship forms as equally useful for social harmony.",
+    "category": "Cultural",
+    "question_type": "How-Comparison",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q054",
+    "question": "What was the philosophers' view of religious ceremonies?",
+    "answer": "Philosophers practiced ancestral ceremonies diligently while viewing them as necessary social conventions rather than genuine spiritual commitments.",
+    "category": "Philosophical",
+    "question_type": "What-View",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q055",
+    "question": "How did Roman citizenship policy promote imperial stability?",
+    "answer": "Extending citizenship to deserving provincials connected their ambition with state safety and greatness rather than allowing disruptive aspirations.",
+    "category": "Political",
+    "question_type": "How-Promotion",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q056",
+    "question": "What was the economic basis of Roman slave society?",
+    "answer": "Slave economy relied on captive acquisition and domestic propagation, with slaves serving as property investments rather than expense calculations.",
+    "category": "Economic",
+    "question_type": "What-Basis",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 20,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q057",
+    "question": "How did language unification serve Roman administration?",
+    "answer": "Latin spread facilitated imperial unity by creating common administrative language while Greek served intellectual purposes, enabling efficient governance across diverse territories.",
+    "category": "Political",
+    "question_type": "How-Service",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q058",
+    "question": "What was the social mobility potential in Roman society?",
+    "answer": "Roman society offered distant freedom and honors prospects even to slaves, with advancement possible through merit across generations despite rank distinctions.",
+    "category": "Social",
+    "question_type": "What-Potential",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 23,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q059",
+    "question": "How did Roman cultural integration differ from Greek approach?",
+    "answer": "Romans actively integrated conquered peoples through citizenship and Latinization, while Greeks maintained cultural superiority and linguistic separation from conquerors.",
+    "category": "Cultural",
+    "question_type": "How-Difference",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Intermediate"
+    }
+  },
+  {
+    "id": "vol01_ch002_p2_q060",
+    "question": "What made Roman population management historically significant?",
+    "answer": "Managing 120 million people under single government system represented unprecedented demographic achievement, creating history's most extensive unified society.",
+    "category": "Historical",
+    "question_type": "What-Significance",
+    "metadata": {
+      "volume": 1,
+      "chapter_number": 2,
+      "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Intermediate"
+    }
+  }
+]

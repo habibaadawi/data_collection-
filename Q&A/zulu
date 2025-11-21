@@ -1,0 +1,286 @@
+ [  {  
+      "id": 102,
+      "question": "What was the basic economic and family unit in traditional Bantu civilization?",
+      "answer": "The lowest economic unit was the kraal, which was inhabited by a single family. This was distinct from the larger political unit, which was the clan.",
+      "metadata": {
+        "category": "Social Structure",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 103,
+      "question": "What was 'amaSi' and why was it so significant to the family?",
+      "answer": "AmaSi were milk curds, and they formed the diet staple. They were so fundamental to the family unit that this food alone could not be offered to strangers. A man who had eaten the amaSi of a kraal entered a special, enduring relationship with that family.",
+      "metadata": {
+        "category": "Culture & Customs",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 62,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 104,
+      "question": "Can you explain the practice of 'lobola'?",
+      "answer": "Lobola was the purchase price, usually in cattle, that a man paid to his wife's family. This transaction validated the marriage. If the wife returned to her parents, the lobola had to be refunded.",
+      "metadata": {
+        "category": "Culture & Customs",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 52,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 105,
+      "question": "What were some of the disadvantages of the traditional Bantu hut?",
+      "answer": "While cheap and quick to build, the huts had several disadvantages. The walls were often infested with cockroaches, and because the door was the only opening, the interiors were perpetually dark and filled with smoke from the central fire.",
+      "metadata": {
+        "category": "Daily Life",
+        "question_type": "Descriptive",
+        "book_title": "The Washing of the Spears",
+        "word_count": 53,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 106,
+      "question": "What was the 'iNtanga' system?",
+      "answer": "The iNtanga was a crucial age-group system. All the boys born in the same year, or over a period of several years, were formed into a single iNtanga. They had their ears pierced together and went through life's stages as a cohort, eventually forming the basis for military regiments.",
+      "metadata": {
+        "category": "Social Structure",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 63,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 107,
+      "question": "What was the purpose of the individual puberty ceremony for a boy?",
+      "answer": "The ceremony occurred after a boy's first nocturnal emission. He would arise before dawn, hide the kraal's cattle, and after being found, he was isolated and honored with a feast. This ritual marked his transition to manhood and his fitness to herd cattle on the open pastures.",
+      "metadata": {
+        "category": "Culture & Customs",
+        "question_type": "Descriptive",
+        "book_title": "The Washing of the Spears",
+        "word_count": 65,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 108,
+      "question": "How did superstition and taboo impact the Bantu food supply?",
+      "answer": "Bantu superstitions were a significant hindrance, leading to a high percentage of available food going to waste. For example, almost half of a slaughtered animal's meat was abandoned because various groups, based on age, sex, and status, were forbidden from eating certain parts. Furthermore, many abundant game species were never consumed due to fears that the animal's characteristics might be passed on to the person who ate it.",
+      "metadata": {
+        "category": "Culture & Customs",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 87,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 109,
+      "question": "Who was Dingiswayo and what was his primary contribution?",
+      "answer": "Dingiswayo was the leader of the Mtetwa clan. While he didn't make radical military innovations, he provided a new, driving leadership that was previously absent. He began to use the iNtangas as military drafts, giving a strong impetus to the regimental concept and starting to forge a larger political entity beyond a single clan.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 69,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 110,
+      "question": "What were the circumstances of Shaka's early life?",
+      "answer": "Shaka's early life was difficult. His parents, Senzangakona and Nandi, were not properly married, and he was considered illegitimate. He grew up fatherless among the eLangeni people, who despised both him and his mother. For ten years, he herded cattle and was often the target of cruel jokes from his iNtanga.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Descriptive",
+        "book_title": "The Washing of the Spears",
+        "word_count": 75,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 111,
+      "question": "What major change did Shaka implement in Zulu military formations?",
+      "answer": "Shaka refined his early experiments into a standard formation requiring at least four separate groups. The key innovation was the 'chest and horns' tactic: a central group would pin down the enemy clan while two flanking parties raced out to surround it. This required complex, silent mass movements over broken ground at high speed.",
+      "metadata": {
+        "category": "Military Tactics",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 70,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 112,
+      "question": "What was the 'umDlunkulu' and what was unusual about it?",
+      "answer": "The umDlunkulu was Shaka's royal establishment, a collection of women. He carefully referred to its inmates as his 'sisters' and never his 'wives.' Notably, during his twelve-year reign, the umDlunkulu did not produce a single heir of record.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 57,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 113,
+      "question": "What was the chain reaction set off by Zwide's attack on Matiwane?",
+      "answer": "When Zwide attacked and evicted Matiwane and the emaNgwaneni from their territory, it unleashed a disastrous chain of events. The displaced clans, finding no room on the coastal plain, crossed the Drakensberg Range and descended upon the startled Sutu clans beyond. This led to widespread warfare and destruction in the interior, a havoc often incorrectly attributed solely to Shaka.",
+      "metadata": {
+        "category": "Regional Conflicts",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 80,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 114,
+      "question": "How did the first European settlers at Port Natal initially survive?",
+      "answer": "Their survival was precarious. The local amaTuli clan, initially frightened, realized the settlers provided a defensive shield and re-established their kraals nearby. The settlers themselves subsisted on shellfish if they had access to tidal pools, and some families farther inland were even driven to cannibalism during the hardest times before they could establish proper trade and agriculture.",
+      "metadata": {
+        "category": "European Contact",
+        "question_type": "Descriptive",
+        "book_title": "The Washing of the Spears",
+        "word_count": 77,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 115,
+      "question": "What was a notable aspect of Shaka's court life that European visitors observed?",
+      "answer": "European visitors were shocked by the frequent, casual executions that were a normal part of Zulu court life. Shaka gave little heed to the impression these killings left on his visitors, just as he did to the impression on the victims or their families.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Descriptive",
+        "book_title": "The Washing of the Spears",
+        "word_count": 57,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 116,
+      "question": "What event marked a permanent change for the worse in Shaka's personality?",
+      "answer": "The death of his mother, Nandi, in October 1827, marked a permanent negative change. Upon hearing the news, Shaka covered the distance to his kraal afoot in a forced march, and then instituted a period of mass mourning that involved a frightful, indiscriminate massacre of thousands of his own people and harsh edicts like forbidding crop planting and the use of milk.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 78,
+        "has_dates": true,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 117,
+      "question": "Who were the main conspirators in the plot to assassinate Shaka?",
+      "answer": "The plot was urged by Shaka's aunt, Mkabayi, and carried out by his half-brothers Dingane and Mhlangana, who combined with Mbopa, Shaka's head domestic who was continually in the king's presence.",
+      "metadata": {
+        "category": "Zulu Nation Rise",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 52,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 118,
+      "question": "What was the 'Day of Deliverance' vow made by the Boers before the Battle of Blood River?",
+      "answer": "On December 9, 1838, while camped on the banks of the Waschbankspruit, Sarel Cilliers proposed a vow that if God granted them victory over the Zulus, they would build a church and forever after celebrate the anniversary as a Day of Deliverance.",
+      "metadata": {
+        "category": "Boer-Zulu Conflict",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 67,
+        "has_dates": true,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 119,
+      "question": "What was the outcome of the Battle of Blood River?",
+      "answer": "The Boers, fighting from a fortified laager, inflicted a crushing defeat on the Zulu impi. The Zulus suffered massive casualties, while the Boers sustained only a few minor wounds. The Ncome River was thereafter known as the Blood River.",
+      "metadata": {
+        "category": "Boer-Zulu Conflict",
+        "question_type": "Factual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 56,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 120,
+      "question": "What was the primary military weakness of the Zulu army when facing European forces?",
+      "answer": "While incredibly disciplined and brave in their traditional tactics, the Zulu army's primary weakness was its weaponry. They were armed primarily with assegais (spears) and shields, and while thousands possessed firearms, they were largely cheap, inaccurate trade flintlocks, often more dangerous to the user than the target, and no match for the massed, disciplined volleys from European rifles like the Martini-Henry.",
+      "metadata": {
+        "category": "Military Tactics",
+        "question_type": "Conceptual",
+        "book_title": "The Washing of the Spears",
+        "word_count": 85,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    }
+  ]

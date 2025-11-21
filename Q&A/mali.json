@@ -1,0 +1,318 @@
+
+[
+  {
+    "id": 147,
+    "question": "What was the role of the griot in pre-colonial African society?",
+    "answer": "In the hierarchical society of Africa before colonization, the griot was one of the most important members. They served as record-keepers in the absence of archives, preserving customs, traditions, and governmental principles of kings. Griots traveled between villages to learn from great masters, studied historical oratory for many years, and were bound by an oath to only teach what their guild stipulated. They mastered the art of circumlocution, speaking in archaic formulas or turning facts into amusing legends with secret meanings that the general public rarely understood.",
+    "metadata": {
+      "category": "Social Structure",
+      "question_type": "Role/Function",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 118,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 148,
+    "question": "How did the hunter prove he was a seer to the king of Mali?",
+    "answer": "The hunter demonstrated his abilities as a seer by taking twelve cowries from his bag and throwing them on a mat. He muttered incomprehensible words while shuffling and examining the cowries' positions. After studying them, he revealed he could see two strangers approaching the city, claiming 'the world is full of mystery, all is hidden and we know nothing but what we can see.' Though the king's griot found his words obscure, this display of divination established his credibility.",
+    "metadata": {
+      "category": "Religion/Beliefs",
+      "question_type": "Practice/Method",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 98,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 149,
+    "question": "What was the condition the old woman gave for helping the hunter defeat the Buffalo of Do?",
+    "answer": "After the hunter showed her charity, the old woman revealed she knew he planned to challenge the Buffalo of Do. She warned that arrows were useless against the buffalo but said his generous heart would make him the victor. However, she imposed one condition: 'The king promises the hand of the most beautiful maiden of Do to the victor,' but she insisted he must choose the hunchbacked woman named Sogolon Kedjou instead of the most beautiful maiden.",
+    "metadata": {
+      "category": "Culture/Tradition",
+      "question_type": "Condition/Requirement",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 96,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 150,
+    "question": "How did people react when the hunter chose Sogolon, the hunchback, as his prize?",
+    "answer": "The hunter's choice of Sogolon Kedjou, the hunchback, was met with widespread mockery and laughter. When he presented her to King Gnemo Diarra, the choice was so paradoxical that the king couldn't help laughing, which triggered general laughter throughout the crowd. People 'split their sides with mirth' and took him for a fool, making him a 'ludicrous hero.' Someone in the crowd remarked, 'You've got to belong to the tribe of Traoré to do things like that,' and the hunter and his brother left Do the same day pursued by the Kondés' mockery.",
+    "metadata": {
+      "category": "Social Behavior",
+      "question_type": "Reaction/Response",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 112,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": 151,
+    "question": "What unusual physical transformation did Sogolon undergo that frightened the hunter?",
+    "answer": "The hunter reported that Sogolon underwent a frightening physical transformation at night: 'I even doubt whether she is a human being; when I drew close to her during the night her body became covered with long hairs and that scared me very much.' This supernatural occurrence prevented him from consummating the marriage, and he noted that even his wraith was unable to master Sogolon's spiritual power.",
+    "metadata": {
+      "category": "Supernatural",
+      "question_type": "Phenomenon/Event",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 85,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 152,
+    "question": "What natural phenomena accompanied Sundiata's birth?",
+    "answer": "Sundiata's birth was marked by extraordinary natural phenomena. Although it was the dry season, 'the sky darkened and great clouds coming from the east hid the sun. Thunder began to rumble and swift lightning rent the clouds; a few large drops of rain began to fall while a strong wind blew up.' These unusual weather events signaled the significance of this royal birth.",
+    "metadata": {
+      "category": "Royal History",
+      "question_type": "Event/Phenomenon",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 72,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": 153,
+    "question": "What physical disability did Sundiata have as a young child?",
+    "answer": "Sundiata had a significant physical disability in early childhood: 'At the age of three he still crawled along on all-fours while children of the same age were already walking.' This inability to walk caused great concern and led to his mother Sogolon living in semi-disgrace until he eventually overcame this condition in a dramatic display of strength.",
+    "metadata": {
+      "category": "Royal History",
+      "question_type": "Character Detail",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 69,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": 154,
+    "question": "What incident prompted Sundiata to finally walk?",
+    "answer": "Sundiata was prompted to walk after his mother Sogolon returned humiliated from begging baobab leaves from Queen Sassouma Bérété. Sassouma had mocked Sogolon, saying that at Sundiata's age, her own son could already walk and bring her baobab leaves. Deeply shamed, Sogolon wept bitterly, which moved Sundiata to declare, 'Very well then, I am going to walk today.' He then ordered the royal smiths to make him the heaviest possible iron rod, which he used to pull himself upright and begin walking.",
+    "metadata": {
+      "category": "Royal History",
+      "question_type": "Turning Point",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 108,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 155,
+    "question": "How did Sundiata prove his strength when he began to walk?",
+    "answer": "When Sundiata decided to walk, he demonstrated extraordinary strength by having the royal smiths create an enormous iron rod. He used this rod to pull himself upright, bending it into a perfect bow shape in the process. Then, to provide his mother with the baobab leaves she needed, he tore an entire baobab tree out of the ground by the roots and carried it to her hut, declaring, 'Mother, here are some baobab leaves for you.' This display of superhuman strength amazed everyone who witnessed it.",
+    "metadata": {
+      "category": "Royal History",
+      "question_type": "Demonstration/Action",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 102,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 156,
+    "question": "What test did the nine witches devise for Sundiata, and how did he respond?",
+    "answer": "The nine witches, at Queen Sassouma's instigation, planned to test Sundiata's character by stealing from his mother's vegetable garden, expecting him to react with anger and violence. However, when Sundiata and his companions discovered the old women stealing vegetables, he responded with remarkable generosity. He told them, 'Stop, stop, poor old women... This garden belongs to all,' and helped fill their gourds with leaves, eggplants, and onions. He even invited them to take condiments from the garden whenever needed. This compassionate response completely disarmed the witches, who then pledged to watch over him.",
+    "metadata": {
+      "category": "Character Test",
+      "question_type": "Moral Decision",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 121,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": 157,
+    "question": "How did King Mansa Konkon try to trap Sundiata during their wori game?",
+    "answer": "King Mansa Konkon, a great sorcerer, invited Sundiata to play wori with unusual and deadly conditions: 'if I win—and I shall win—I kill you.' The king began the game with the words 'I don don, don don Kokodji,' claiming he came 'yesterday.' However, Sundiata cleverly countered by saying he came 'the day before yesterday,' and then 'before the day before yesterday,' ultimately stating 'Whereas I came before yesterday.' This revealed that Sundiata had been at the king's court before Sassouma's bribe gold arrived, exposing the king's treachery and winning the game.",
+    "metadata": {
+      "category": "Royal Conflict",
+      "question_type": "Strategy/Deception",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 118,
+      "has_dates": false,
+      "has_places": true,
+      "has_people": true,
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": 158,
+    "question": "What was Soumaoro Kanté's source of power that made kings tremble before him?",
+    "answer": "Soumaoro Kanté, the sorcerer king of Sosso, derived his terrifying power from his fetishes, which 'had a terrible power and it was because of them that all kings trembled before him, for he could deal a swift death to whoever he pleased.' His mastery of supernatural forces and magical objects made him nearly invincible and allowed him to dominate Mali after defeating Ghana and Diaghan.",
+    "metadata": {
+      "category": "Supernatural Power",
+      "question_type": "Source/Origin",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 75,
+      "has_dates": false,
+      "has_places": true,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 159,
+    "question": "What caused the conflict between Soumaoro Kanté and his nephew Fakoli?",
+    "answer": "The conflict between Soumaoro and his nephew Fakoli erupted when Soumaoro committed incest by taking Fakoli's wife, Keleya. This outrageous act caused Fakoli to fall into 'a dreadful rage' and declare to his uncle: 'Since you are not ashamed to commit incest by taking my wife, I am freed from all my ties with you from this day forward.' This betrayal of family trust and violation of sacred bonds turned Fakoli against his powerful uncle.",
+    "metadata": {
+      "category": "Family Conflict",
+      "question_type": "Cause/Origin",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 83,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 160,
+    "question": "How did Sogolon Kolonkan recognize their native Malian vegetables in Mema?",
+    "answer": "Sogolon Kolonkan recognized Malian vegetables in the market of Mema when she saw a woman selling 'baobab leaves and many other vegetables which her mother used to grow in her garden at Niani.' She immediately identified them, exclaiming 'Baobab leaves... and gnougou, I know these.' This discovery connected them to their homeland and eventually led to their reunion with messengers from Mali who were searching for Sundiata.",
+    "metadata": {
+      "category": "Exile Experience",
+      "question_type": "Recognition/Discovery",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 84,
+      "has_dates": false,
+      "has_places": true,
+      "has_people": true,
+      "difficulty": "easy"
+    }
+  },
+  {
+    "id": 161,
+    "question": "What symbolic price did Sundiata offer King Moussa Tounkara for the land to bury his mother?",
+    "answer": "When Sundiata asked for land to bury his mother Sogolon, King Moussa Tounkara jokingly told him to pay the price of the land. Sundiata returned with 'a basket full of bits of pottery, guinea fowl feathers, feathers of young partridges and wisps of straw.' Though the king initially thought this was mockery, his Arab adviser explained that this symbolic offering represented the true price of the land where his mother would rest, showing Sundiata's understanding of deeper spiritual values over material wealth.",
+    "metadata": {
+      "category": "Cultural Symbolism",
+      "question_type": "Symbolic Action",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 102,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": 162,
+    "question": "What secret did Nana Triban discover about Soumaoro's invincibility?",
+    "answer": "Nana Triban, through her intimate relationship with Soumaoro, discovered the secret of his magical invincibility. She learned that Soumaoro's power depended on a specific taboo or 'Tana' - represented by a cock's spur. She revealed this crucial information to Sundiata, telling him that the cock's spur was Soumaoro's weakness. This secret knowledge enabled Sundiata to defeat the previously invincible sorcerer king.",
+    "metadata": {
+      "category": "Military Strategy",
+      "question_type": "Secret/Revelation",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 85,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 163,
+    "question": "How did Sundiata finally defeat Soumaoro Kanté?",
+    "answer": "Sundiata defeated Soumaoro Kanté using the secret knowledge provided by his sister Nana Triban. During their final confrontation, Sundiata used a special arrow tipped with a cock's spur - Soumaoro's Tana or magical weakness. When this arrow grazed Soumaoro's shoulder during the battle at Krina, it broke his magical protection. Soumaoro fled but was pursued by Sundiata and Fakoli. The final confrontation occurred at the Koulikoro mountains where Soumaoro miraculously disappeared into a cave connected to the river, effectively ending his reign of terror.",
+    "metadata": {
+      "category": "Military Victory",
+      "question_type": "Method/Process",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 105,
+      "has_dates": false,
+      "has_places": true,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 164,
+    "question": "What was the significance of the Kouroukan Fougan assembly?",
+    "answer": "The Kouroukan Fougan assembly was a historic gathering where Sundiata was formally proclaimed Mansa (emperor) and established the Mali Empire's foundation. At this great assembly, the twelve kings of the bright savanna country rose one by one and proclaimed Sundiata as their overlord. Sundiata then distributed lands and power, returning kingdoms to loyal allies like Kamandjan of Sibi and Fran Kamara of Tabon, while establishing new administrative structures and alliances that would form the basis of the Mali Empire's governance.",
+    "metadata": {
+      "category": "Empire Building",
+      "question_type": "Historical Significance",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 102,
+      "has_dates": false,
+      "has_places": true,
+      "has_people": true,
+      "difficulty": "hard"
+    }
+  },
+  {
+    "id": 165,
+    "question": "What administrative positions did Sundiata create for his loyal followers after establishing his empire?",
+    "answer": "After establishing his empire, Sundiata created important administrative positions for his loyal followers. He made Balla Fasséké the 'grand master of ceremonies' and appointed the Cissés, Bérétés and Tourés as 'great divines of the empire.' These appointments established a structured government where trusted companions held key positions, ensuring the stability and proper functioning of the newly formed Mali Empire while rewarding those who had supported him during his exile and struggle for power.",
+    "metadata": {
+      "category": "Government Structure",
+      "question_type": "Administrative Organization",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 88,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 166,
+    "question": "How is Sundiata remembered in comparison to other great conquerors?",
+    "answer": "Sundiata is remembered as the seventh and last great conqueror in history, with no one equalling him in his time and no one having the ambition to surpass him after his reign. The text specifically mentions that 'he was the seventh and last conqueror' and that 'after him the world has not seen a greater conqueror.' He is compared to Alexander the Great, who was considered the second last great conqueror, placing Sundiata in the highest echelon of historical military leaders.",
+    "metadata": {
+      "category": "Historical Legacy",
+      "question_type": "Comparison/Evaluation",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 94,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": true,
+      "difficulty": "medium"
+    }
+  },
+  {
+    "id": 167,
+    "question": "What spiritual concepts do the Mandingo people believe about human composition?",
+    "answer": "The Mandingo people believe that humans are composed of two spiritual principles: the 'ni' or life principle which returns to God at death, and the 'dya' or wraith/double which can leave the body during sleep. After death, the dya remains in the house of mourning until ritual sacrifices release it to wander among places the dead person frequented. After approximately fifty years, it finally rejoins the ni. However, the text notes that some of the double's activities in the epic seem better explained by Hausa concepts of 'kurwa' and 'iska.'",
+    "metadata": {
+      "category": "Religious Beliefs",
+      "question_type": "Concept Explanation",
+      "book_title": "Sundiata: An Epic of Old Mali",
+      "word_count": 108,
+      "has_dates": false,
+      "has_places": false,
+      "has_people": false,
+      "difficulty": "hard"
+    }
+  }
+]

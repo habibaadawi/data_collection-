@@ -1,0 +1,2256 @@
+[
+    {
+      "id": 1,
+      "question": "What was the author's situation regarding leisure time for literary work?",
+      "answer": "The author's leisure was not equal to the execution of any large literary undertaking until within the last three or four years when he could devote continuous and exclusive labor to the work.",
+      "metadata": {
+        "category": "Author's Work",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 2,
+      "question": "How does the author describe the progress in views about the ancient world during his generation?",
+      "answer": "The author states there has been progress of sound and enlarged views respecting the ancient world during the present generation, with philological studies prosecuted in Germany with remarkable success.",
+      "metadata": {
+        "category": "Historical Methodology",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 36,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 3,
+      "question": "What does the author say about historical records from early Greek history?",
+      "answer": "The author states that historical records properly so called do not begin until long after 776 B.C., and there is extreme paucity of attested facts for two centuries after that date.",
+      "metadata": {
+        "category": "Historical Records",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": true,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 4,
+      "question": "What gives the legendary age of the Greeks its principal charm and dignity?",
+      "answer": "The legendary age of the Greeks receives its principal charm and dignity from the Homeric poems.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 16,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 5,
+      "question": "What happens to the political action of Greece after the generation of Alexander?",
+      "answer": "After the generation of Alexander, the political action of Greece becomes cramped and degraded, no longer interesting to the reader or operative on the destinies of the future world.",
+      "metadata": {
+        "category": "Greek History",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 6,
+      "question": "According to the text, what was the problem with resolving Greek legends into mere allegories?",
+      "answer": "To resolve Greek legends into mere allegories is unsafe and unprofitable because we depart from the point of view of the original hearers without acquiring any consistent or philosophical point of view of our own.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Analytical",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 7,
+      "question": "How did Zeus, Poseidôn, and Hadês divide power according to Greek mythology?",
+      "answer": "Zeus reserved the æther and atmosphere to himself, Poseidôn obtained the sea, and Hadês the under-world or infernal regions, while earth and events upon earth were common to all of them with free access to Olympus.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 8,
+      "question": "Who were the Cyclôpes and what were their names?",
+      "answer": "The Cyclôpes were Brontês, Steropês, and Argês—formidable persons equally distinguished for strength and manual craft who made the thunder that formed the irresistible artillery of Zeus.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 33,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 9,
+      "question": "What new monster did Gæa give birth to after intermarrying with Tartarus?",
+      "answer": "Gæa, intermarrying with Tartarus, gave birth to a new and still more formidable monster called Typhôeus, of such tremendous properties that had he been allowed full development, nothing could have prevented him from vanquishing all rivals.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 10,
+      "question": "What was the remarkable change in Greek religious mind during the sixth and seventh century B.C.?",
+      "answer": "During the sixth and a part of the seventh century before the Christian era, there was a remarkable change in the religious mind of Greece traced to influence of communication with Egypt, which only became fully open to Greeks about B.C. 660.",
+      "metadata": {
+        "category": "Greek Religion",
+        "question_type": "Historical",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 50,
+        "has_dates": true,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 11,
+      "question": "Which Egyptian deities did the Greeks identify with their own gods?",
+      "answer": "The Greeks identified their deities with the great Egyptian Osiris and Isis, so that what was borrowed from Egyptian worship of the latter naturally fell to their equivalents in the Grecian system.",
+      "metadata": {
+        "category": "Greek Religion",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 36,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 12,
+      "question": "From which countries did novelties in Greek worship come during the century before Persian wars?",
+      "answer": "During the century and a half between opening of Egypt to Greeks and commencement of their struggle with Persian kings, the old religion was largely adulterated by importations from Egypt, Asia Minor, and Thrace.",
+      "metadata": {
+        "category": "Greek Religion",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 13,
+      "question": "What happened to the crew of the ship when Dionysos assumed the form of a lion?",
+      "answer": "When Dionysos assumed the form of a lion and a bear appeared, the bear rushed upon the captain while the crew leaped overboard in fright and were changed into dolphins.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 36,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 14,
+      "question": "What prevented Dêmêtêr from rendering Metaneira's child immortal?",
+      "answer": "Dêmêtêr would have rendered Metaneira's child immortal had she not been prevented by Metaneira's indiscreet curiosity and alarm, who secretly looked in at night and shrieked with horror at seeing her child in the fire.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 46,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 15,
+      "question": "What was the custom during the Eleusinian processional march?",
+      "answer": "During the Eleusinian processional march, it was customary at a particular spot to permit free interchange of personal jokes and taunts upon individuals for general amusement.",
+      "metadata": {
+        "category": "Greek Religion",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 16,
+      "question": "How did Apollo establish his oracle at Delphi according to the legend?",
+      "answer": "Apollo assumed the shape of a vast dolphin, splashed about and shook the vessel to terrify mariners while sending a strong wind that impelled it to Krissa harbor, then revealed himself and directed Krêtans to follow him to Pythô on Parnassus.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 50,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 17,
+      "question": "What concern did the Krêtans express about living at Apollo's oracle site?",
+      "answer": "The Krêtans inquired how they were to live in a spot where there was neither corn, nor vine, nor pasturage, to which Apollo replied they would have an easier lot and the knifes of sacrifice would provide them abundant meat.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 44,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 18,
+      "question": "Where did Apollo have oracles besides Delphi?",
+      "answer": "Besides the Delphian temple, Apollo had oracles at Abæ in Phôkis, on Mount Ptôon, at Tegyra in Bœotia, at Branchidæ near Milêtus, at Klarus in Asia Minor, and at Patara in Lykia.",
+      "metadata": {
+        "category": "Greek Religion",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 19,
+      "question": "What was distinctive about how Greeks viewed their mythical narratives?",
+      "answer": "To Greeks who heard mythical narratives sung, they possessed all requisites of history and were fully believed as such because they ran in complete harmony with the feelings, without fashion to canvass truth or falsehood.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Analytical",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 20,
+      "question": "How is Aphroditê described in the hymn mentioned?",
+      "answer": "Aphroditê is described in the hymn as herself cold and unimpressible, but ever active and irresistible in inspiring amorous feelings to gods, men, and animals.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 21,
+      "question": "What legendary event involving Artemis demonstrates the jealousy of gods?",
+      "answer": "The Kalydônian boar was sent by Artemis as visitation upon Œneus because he had omitted to sacrifice to her while honoring other gods, demonstrating jealousy of gods at withholding of honors.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 22,
+      "question": "What threat did Hermês make to obtain dignity and functions from Zeus?",
+      "answer": "Hermês threatened that if Zeus refused to grant him dignity and functions, he would employ his thieving powers to break open the sanctuary at Delphi and carry away the gold, vestments, precious tripods and vessels.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 23,
+      "question": "How did the division of sacrificial animals between gods and men originate according to myth?",
+      "answer": "The division originated when Promêtheus tricked Zeus by offering two heaps from a sacrificed ox - one with meat and entrails hidden in skin, the other with bones covered with white fat. Zeus chose the white fat but found only bones, establishing the practice that gods receive bones and fat while men get the meat.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Explanatory",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 70,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 24,
+      "question": "What were the five successive races of men described by Hesiod?",
+      "answer": "Hesiod described five successive races: golden race, silver race, brazen race, heroic race, and iron race.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 22,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 25,
+      "question": "What happened to the golden race after death according to Hesiod?",
+      "answer": "After death, the golden race became by award of Zeus guardian terrestrial dæmons who watch unseen over mankind with privilege of dispensing wealth and taking account of good and bad deeds.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 26,
+      "question": "What complaint does Hesiod make about his brother Persês?",
+      "answer": "Hesiod complains that his brother Persês cheated and went to law with him, obtaining through corrupt judges an unjust decision regarding their family inheritance division.",
+      "metadata": {
+        "category": "Greek Literature",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 33,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 27,
+      "question": "Who were the four sons of the Titan god Iapetus according to Hesiodic theogony?",
+      "answer": "The sons of Titan god Iapetus were Atlas, Menœtius, Promêtheus and Epimêtheus.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 19,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 28,
+      "question": "How was Pandôra created according to the myth?",
+      "answer": "Hêphæstos moulded Pandôra's beautiful form, Athênê dressed her, Aphroditê and Charities bestowed ornament and fascination, while Hermês infused into her the mind of a dog, a deceitful spirit, and treacherous words.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 29,
+      "question": "What remained in Pandôra's box after all evils escaped?",
+      "answer": "Hope alone remained imprisoned in Pandôra's box without efficacy, as the inviolable lid was replaced before she could escape.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 26,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 30,
+      "question": "How does Æschylus' version of Promêtheus differ from Hesiod's?",
+      "answer": "Æschylus suppresses both the trick played by Promêtheus upon Zeus regarding partition of victim and the formation of Pandôra, while bringing out prominently and enlarging upon the theft of fire which Hesiod only slightly touched.",
+      "metadata": {
+        "category": "Greek Literature",
+        "question_type": "Comparative",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 45,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 31,
+      "question": "What was the first in series of acts between Greeks and Asiatics according to Persians and Phœnicians?",
+      "answer": "Both Persians and Phœnicians described the abduction of Iô as the first of a series of similar acts between Greeks and Asiatics, committed each in revenge for the preceding.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 32,
+      "question": "How did Danaos become king of Argos?",
+      "answer": "Danaos became king of Argos by the voluntary abdication of Gelanôr, and he recognized Lynkeus as his son-in-law who ultimately succeeded him.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 33,
+      "question": "What caused the death of Akrisios, grandfather of Perseus?",
+      "answer": "Akrisios died when Perseus, competing in a gymnic contest, accidentally threw a quoit which struck his grandfather's foot and caused his death.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 34,
+      "question": "How did Hêrê ensure Eurystheus would be born before Hêraklês?",
+      "answer": "Hêrê darted swiftly from Olympus to Achaic Argos where Sthenelos' wife was seven months pregnant, and by aid of Eileithyiæ caused Eurystheus to be born before his time that same day, while retarding delivery of Alkmênê.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 50,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 35,
+      "question": "What was distinctive about the portrayal of Hêraklês by comic writers versus philosopher Prodikos?",
+      "answer": "Comic writers portrayed Hêraklês as a coarse and stupid glutton, while philosopher Prodikos extracted from his type the simple, impressive imperishable apologue known as the Choice of Hercules.",
+      "metadata": {
+        "category": "Greek Literature",
+        "question_type": "Comparative",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 36,
+      "question": "Which Greek city alone sheltered Hêraklês' children when they were persecuted by Eurystheus?",
+      "answer": "The Athênians alone were generous enough to brave the risk of offering shelter to Hêraklês' children when they were expelled and persecuted by Eurystheus.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 37,
+      "question": "How did Deukaliôn and Pyrrha repopulate earth after the flood?",
+      "answer": "Deukaliôn and Pyrrha repopulated earth by throwing stones behind them which became men and women.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 24,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 38,
+      "question": "What were the names of Hellên's three sons and how did he divide territory among them?",
+      "answer": "Hellên's three sons were Æolus, Xuthus, and Dôrus. Æolus reigned in Thessaly, Xuthus received Peloponnêsus, and Dôrus occupied country north of Corinthian Gulf.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 39,
+      "question": "What sons did Xuthus have with Creüsa and what peoples did they become eponyms for?",
+      "answer": "Xuthus had by Creüsa two sons, Achæus and Iôn, who became eponyms and founders of the Achæans and Ionians respectively.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 40,
+      "question": "How did Endymiôn determine his successor according to legend?",
+      "answer": "Endymiôn caused his three sons to run a race on the stadium at Olympia, and Epeios, being victorious, was rewarded by becoming his successor in the kingdom.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 41,
+      "question": "What was the Kalydônian boar and why was it sent?",
+      "answer": "The Kalydônian boar was a terrible boar sent by Artemis as visitation upon Œneus because he had omitted to sacrifice to her while honoring other gods.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 42,
+      "question": "How did Meleager finally kill the Kalydônian boar?",
+      "answer": "Meleager killed the Kalydônian boar by getting together a considerable number of companions from Kurêtes of Pleurôn and attacking it.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 43,
+      "question": "What happened to Meleager's sisters after his death?",
+      "answer": "After Meleager's death, his sisters were changed into the birds called Meleagrides, and their never-ceasing tears ran together into amber.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 44,
+      "question": "How did Hippomenes win the race against Atalanta?",
+      "answer": "Hippomenes won by obtaining three golden apples from garden of Hesperides through kindness of Aphroditê, which he successively let fall near Atalanta while engaged in the race, causing her to stop and pick them up.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Descriptive",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 50,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 45,
+      "question": "What caused the death of Hêraklês?",
+      "answer": "Hêraklês died after his wife Deianeira, jealous of Iolê, sent him a poisoned robe which caused him such agony that he built a funeral pile on Mount Œta and perished in the flames.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 45,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 46,
+      "question": "What was distinctive about Homer's portrayal of Agamemnôn's power?",
+      "answer": "Homer portrays Agamemnôn as enjoying preëminence not through greater courage, strength or ability, but through marked superiority in riches, power and dignity as belonging to privileged family inheriting heaven-descended sceptre of Pelops.",
+      "metadata": {
+        "category": "Greek Literature",
+        "question_type": "Analytical",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 45,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Hard"
+      }
+    },
+    {
+      "id": 47,
+      "question": "What horrible act is associated with Thyestês in Greek legend?",
+      "answer": "Thyestês is associated with the Thyestêan banquet where he unknowingly ate his own children served to him by his brother Atreus.",
+      "metadata": {
+        "category": "Greek Legends",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 48,
+      "question": "How did the historical Mykênæ meet its end?",
+      "answer": "Mykênæ was enslaved and its inhabitants expelled by the Argeians, ending its separate existence.",
+      "metadata": {
+        "category": "Greek History",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 20,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+      }
+    },
+    {
+      "id": 49,
+      "question": "How was Hyacinthus killed according to legend?",
+      "answer": "Hyacinthus was accidentally killed by Apollo's hand while playing at quoits.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 18,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+      }
+    },
+    {
+      "id": 50,
+      "question": "What remarkable power did the Dioscuri possess according to legend?",
+      "answer": "The Dioscuri were invoked during storms at sea as special and all-powerful protectors of endangered mariners.",
+      "metadata": {
+        "category": "Greek Mythology",
+        "question_type": "Factual",
+        "book_title": "History of Greece, Volume 01 (of 12) by George Grote",
+        "word_count": 25,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+      }
+    },
+
+    {
+        "id": 51,
+        "question": "What does Aristotle describe as the legislative opportunities of the statesman in the Ethics?",
+        "answer": "In the Ethics, Aristotle describes the legislative opportunities of the statesman as the practical application of his inquiries, finding expression in describing how to shape society rather than moral exhortations addressed to the individual.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 52,
+        "question": "How does Protagoras answer the question about who teaches virtue?",
+        "answer": "Protagoras answers that there are no special teachers of virtue because virtue is taught by the whole community.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 24,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Easy"
+        }
+    },
+    {
+        "id": 53,
+        "question": "What does Aristotle say about the relationship between the state and the individual?",
+        "answer": "Aristotle says the state is prior to the family and village, although it succeeds them in time, because only when the state with its conscious organization is reached can man understand the secret of his past struggles.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 54,
+        "question": "How does Aristotle view imperfect states?",
+        "answer": "Aristotle views imperfect states as the result rather of misconception and ignorance than of perverse will, and calls them perversions.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 28,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 55,
+        "question": "What according to Aristotle is the cure for political ills?",
+        "answer": "The cure for political ills is knowledge of the good life, and the statesman is he who has such knowledge, for that alone can give men what they are always seeking.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 56,
+        "question": "Why did Plato give entire power to philosopher guardians in his state?",
+        "answer": "Plato gave entire power to philosopher guardians because those who have complete knowledge of the good must be few.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 25,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 57,
+        "question": "What does Aristotle say about why government and political power are necessary?",
+        "answer": "Government and political power are necessary because men's community is imperfect, with social nature expressing itself in conflicting ways through clash of interests, rivalry of parties, and struggle of classes.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 58,
+        "question": "How does Aristotle describe the causes of revolutions in existing constitutions?",
+        "answer": "Aristotle describes the causes of revolutions as primarily changes in the military or economic power of the several classes in the state, rather than changes in the conception of the common good.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 36,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 59,
+        "question": "What did Aristotle call men who are as inferior to others as the body is to the soul?",
+        "answer": "Aristotle called men who are as inferior to others as the body is to the soul natural slaves.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 25,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 60,
+        "question": "What distinction does Aristotle make between herile and political government?",
+        "answer": "Aristotle distinguishes that herile government is adapted to the nature of slaves while political government is adapted to the nature of freemen.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 28,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 61,
+        "question": "What does Aristotle say about the purpose of trade versus economy?",
+        "answer": "Aristotle says trade procures money through exchange and has money as its first principle and end, while economy deals with other riches and property that are proper objects in nature.",
+        "metadata": {
+        "category": "Political Economy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 62,
+        "question": "What does Aristotle say about making a city too much one?",
+        "answer": "Aristotle says it is not for the best to make a city too much one because a family is more sufficient than a single person, and a city than a family.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 63,
+        "question": "What problem does Aristotle identify with the word 'all' in political discourse?",
+        "answer": "Aristotle identifies that the word 'all' is sometimes used distributively and sometimes collectively due to its double meaning, which causes inconclusive syllogisms in reasoning.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 64,
+        "question": "What does Aristotle say should make the people one and a community?",
+        "answer": "Aristotle says the people ought to be made one and a community by education, as property at Lacedaemon and public tables at Crete were made common by their legislators.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 65,
+        "question": "What defects does Aristotle find in the state described by Socrates?",
+        "answer": "Aristotle finds that Socrates' state has defects including improper regulation of wives and children, property establishment, and government conduct.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Critical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 28,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 66,
+        "question": "How does Socrates divide the inhabitants in his treatise on Laws?",
+        "answer": "Socrates divides the inhabitants into two parts, husbandmen and soldiers, and selects a third part to be senators and govern the city.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 67,
+        "question": "What two things should a legislator have in view when framing laws according to Aristotle?",
+        "answer": "A legislator should have two things in view when framing laws: the country and the people.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 22,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+        }
+    },
+    {
+        "id": 68,
+        "question": "What did Phidon the Corinthian think about families and citizens?",
+        "answer": "Phidon the Corinthian thought the families and number of citizens should continue the same, even if initial allotments were disproportionate to their numbers.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 69,
+        "question": "What does Aristotle say about the best form of government in Plato's Laws?",
+        "answer": "Aristotle says Plato describes the best form of government as one composed of a democracy and a tyranny, which Aristotle considers the worst possible mixture.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Comparative",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 33,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 70,
+        "question": "What did Phaleas the Chalcedonian first propose regarding citizens' fortunes?",
+        "answer": "Phaleas the Chalcedonian first proposed that the fortunes of citizens should be equal, with the rich giving marriage portions but never receiving any, while the poor should always receive but never give.",
+        "metadata": {
+        "category": "Political Economy",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 71,
+        "question": "What should legislators regulate along with quantity of provisions according to Aristotle?",
+        "answer": "Legislators should regulate the number of children along with quantity of provisions, because if children exceed allotted provision, the law must be repealed.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 72,
+        "question": "What does Aristotle say about military establishment in planning government?",
+        "answer": "Aristotle says considerations of military establishment should take place in planning every government so it may not be unprovided in case of war.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 73,
+        "question": "What problem does Aristotle identify with judges setting different fines?",
+        "answer": "Aristotle identifies that when judges set different fines, it causes confusion on the bench as they differ from each other in their determinations.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 74,
+        "question": "What does Aristotle say about bestowing honors for useful information?",
+        "answer": "Aristotle says bestowing honors for useful information, though pleasing in speculation, is what the legislator should not settle as it would encourage informers and occasion commotions.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 75,
+        "question": "Why according to Aristotle have the Cretans not experienced revolts?",
+        "answer": "The Cretans have not experienced revolts because although engaged in frequent wars, neighboring cities would not enter into alliance with revolters as it would be disadvantageous for them.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 76,
+        "question": "What does Aristotle say about the origin of indulgence enjoyed by Lacedaemonian women?",
+        "answer": "The origin comes from men being absent long time on foreign expeditions against Argives, Arcadians and Messenians, so when wars ended, their military life prepared them to obey the law-giver's precepts.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Historical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 77,
+        "question": "What problem does Aristotle identify with Lycurgus' treatment of property in Sparta?",
+        "answer": "Aristotle identifies that while Lycurgus made it infamous to buy or sell possessions, he permitted giving them away or bequeathing them, which produces nearly the same consequences.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Critical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 78,
+        "question": "What does Aristotle say about the effect of equality of property on population?",
+        "answer": "Aristotle says equality of property conduces much to increase the number of people.",
+        "metadata": {
+        "category": "Political Economy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 20,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+        }
+    },
+    {
+        "id": 79,
+        "question": "How did the public revenue management affect Sparta according to Aristotle?",
+        "answer": "The public revenue was badly managed at Sparta as the state was worth nothing during extensive wars, and subsidies were badly raised without exactness in payments.",
+        "metadata": {
+        "category": "Political Economy",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 80,
+        "question": "What does Aristotle say about Minos and his acquisition of power?",
+        "answer": "Aristotle says Minos acquired the empire of the sea and islands through his situation, subduing some islands and planting colonies in others, dying at Camicus while attacking Sicily.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 81,
+        "question": "What happened to kingly power in Crete according to Aristotle?",
+        "answer": "There was formerly kingly power in Crete but it was afterwards dissolved, and the command of armies was given to the kosmoi.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Factual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 82,
+        "question": "What does Aristotle identify as the greatest happiness for citizens?",
+        "answer": "Aristotle identifies that the greatest happiness for citizens is to possess a moderate and convenient fortune.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 20,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+        }
+    },
+    {
+        "id": 83,
+        "question": "What causes revolutions according to Aristotle's analysis?",
+        "answer": "Revolutions are caused when those who aim at equality see others they esteem as equals possess more, or when those not content with equality think they deserve more than they have.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Analytical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 84,
+        "question": "What does Aristotle say about excessive honors as a cause of sedition?",
+        "answer": "Excessive honors cause sedition when one person or more are greater than the state and government power can permit, usually establishing monarchy or dynasty.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 85,
+        "question": "What example does Aristotle give of democracies being destroyed?",
+        "answer": "Aristotle gives examples of democracies destroyed at Thebes after battle of Oenophyta due to bad administration, at Megara through anarchy, at Syracuse before tyranny of Gelon, and at Rhodes before popular government was overthrown.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Historical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 45,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 86,
+        "question": "What are the two ways revolutions are brought about according to Aristotle?",
+        "answer": "Revolutions are brought about in two ways: either by violence or fraud; if by violence, either at first by compelling submission to the change when it is made.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 87,
+        "question": "What two things most evidently occasion revolution in an oligarchy?",
+        "answer": "Two things most evidently occasion revolution in an oligarchy: when the people are ill used, and when one of the oligarchy becomes their leader.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 88,
+        "question": "How was the oligarchy destroyed at Cnidus according to Aristotle?",
+        "answer": "The oligarchy at Cnidus was destroyed by nobles quarrelling with each other because government was in hands of so few, and people taking advantage elected one noble as general and got victory.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Historical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 42,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 89,
+        "question": "When is an oligarchy liable to revolution according to Aristotle?",
+        "answer": "An oligarchy is liable to revolution both in time of war and peace; in war through distrust leading to mercenary troops, in peace through demagogues who flatter the people.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 90,
+        "question": "What example does Aristotle give of tyranny arising from military command?",
+        "answer": "Aristotle gives the example of Timophanes at Corinth, who assumed tyranny when given command of mercenary troops due to distrust in citizens.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Historical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": true,
+        "has_places": true,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 91,
+        "question": "What does Aristotle identify as the first thing the state ought to guard against?",
+        "answer": "Aristotle identifies that the first of anything is what the state ought to guard against.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 22,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Easy"
+        }
+    },
+    {
+        "id": 92,
+        "question": "What does Aristotle say about the relationship between virtue and education in making citizens happy?",
+        "answer": "Aristotle says virtue and education may most justly claim the right of being considered as the necessary means of making the citizens happy.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 30,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 93,
+        "question": "What principle does Aristotle say erroneous governments are established upon?",
+        "answer": "Erroneous governments are established upon a principle which supposes that those equal in one particular are equal in all, or those unequal in one particular are unequal in all.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 94,
+        "question": "What does Aristotle say about who should have supreme command?",
+        "answer": "Aristotle says that if one or more than one, though a small number, should be found stronger than the many, these ought rather to have supreme command than the many.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 95,
+        "question": "What does Aristotle say about men who are themselves a law?",
+        "answer": "Aristotle says such men are not the object of law because they are themselves a law, and it would be ridiculous to include them in legal penalties.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 32,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 96,
+        "question": "What reason does Aristotle give for the practice of ostracism?",
+        "answer": "Aristotle says they compel those very eminent in power, fortune, friendships or other causes giving them too great weight in government to submit to ostracism and leave the city for a stated time.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 40,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 97,
+        "question": "How did ancient kings' power differ from later times according to Aristotle?",
+        "answer": "In ancient times kings' power extended to everything civil, domestic and foreign, but in after-times they relinquished some privileges and people assumed others, leaving kings only right to preside over sacrifices or be commander-in-chief.",
+        "metadata": {
+        "category": "Political History",
+        "question_type": "Historical",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 45,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 98,
+        "question": "What does Aristotle say about the difference between laws and human soul?",
+        "answer": "Aristotle says that laws possess a certain quality while the other is natural to the human soul.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 25,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    {
+        "id": 99,
+        "question": "What does Aristotle say about where equals should not have one person as lord?",
+        "answer": "Among equals it is neither advantageous nor right that one person should be lord over all where there are no established laws but his will is the law, or where there are laws.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 38,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Hard"
+        }
+    },
+    {
+        "id": 100,
+        "question": "What must a legislator be able to do besides perceiving what is best?",
+        "answer": "A legislator must be able to correct the mistakes of a government already established, and able to put into practice what is best, not just perceive it.",
+        "metadata": {
+        "category": "Political Philosophy",
+        "question_type": "Conceptual",
+        "book_title": "Politics (By Aristotle)",
+        "word_count": 35,
+        "has_dates": false,
+        "has_people": false,
+        "has_places": false,
+        "difficulty": "Medium"
+        }
+    },
+    
+        {
+          "id": 101,
+          "question": "What was the author's approach to examining the Medicean MS of Herodotus?",
+          "answer": "The author examined the Medicean MS himself in all passages where questions about text arise concerning a translator, which amounted to nearly five hundred places altogether.",
+          "metadata": {
+            "category": "Textual Criticism",
+            "question_type": "Methodological",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 102,
+          "question": "What system did the author adopt for handling proper names in the translation?",
+          "answer": "The author adopted no consistent system, aiming to avoid pedantry by not altering established English literary names while also avoiding the absurdity of looking to Latin rather than Greek for orthography of names not so established.",
+          "metadata": {
+            "category": "Translation Methodology",
+            "question_type": "Methodological",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 103,
+          "question": "According to Persian accounts, what was the first act between Greeks and Asiatics?",
+          "answer": "According to Persian accounts, certain Hellenes put into Tyre in Phoenicia and carried off the king's daughter Europa, which they said were doubtless Cretans.",
+          "metadata": {
+            "category": "Historical Accounts",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 104,
+          "question": "Who according to Persian accounts was the first to set the example of war between Greeks and Asiatics?",
+          "answer": "According to Persian accounts, the Hellenes were the first to set the example of war by making an expedition into Asia before the Barbarians made any into Europe.",
+          "metadata": {
+            "category": "Historical Accounts",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 105,
+          "question": "Who was the first Barbarian to subdue certain Hellenes and force them to pay tribute?",
+          "answer": "Croesus was the first of the Barbarians to subdue certain Hellenes and force them to pay tribute, while making others his friends.",
+          "metadata": {
+            "category": "Historical Accounts",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 30,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Easy"
+          }
+        },
+        {
+          "id": 106,
+          "question": "What scheme did Candaules devise to convince Gyges of his wife's beauty?",
+          "answer": "Candaules devised that Gyges should stand behind the open door of their bedchamber to see his wife undress when she came to lie down.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 107,
+          "question": "What choice did the queen give Gyges after he had seen her naked?",
+          "answer": "The queen gave Gyges the choice to either be slain himself or to slay Candaules and take both his wife and his kingdom.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 108,
+          "question": "How did Gyges become king of the Lydians according to the Oracle at Delphi?",
+          "answer": "The Oracle at Delphi gave answer that Gyges should be king, and the Lydians made a treaty that if the Oracle answered he should be king, he would be, and if not, he would give back power to the sons of Heracles.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 55,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 109,
+          "question": "What did the Pythian prophetess say about vengeance against Gyges' descendants?",
+          "answer": "The Pythian prophetess said that vengeance for the Heracleidai should come upon the descendants of Gyges in the fifth generation.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 28,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 110,
+          "question": "What military actions did Gyges undertake after becoming king?",
+          "answer": "Gyges led an army against Miletos and Smyrna, and took the lower town of Colophon, but no other great deed did he do in his thirty-eight year reign.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 111,
+          "question": "Who took Sardis during Ardys' reign and why did they come?",
+          "answer": "The Kimmerians took Sardis except the citadel during Ardys' reign, having been driven from their abodes by the nomad Scythians.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 30,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 112,
+          "question": "What condition did the Pythian prophetess set for giving Alyattes an answer about his sickness?",
+          "answer": "The Pythian prophetess said she would give no answer until the Lydians had built up again the temple of Athene which they had burnt at Assessos in the land of Miletos.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 113,
+          "question": "What trick did Thrasybulos use to make the Lydians think Milesians had abundant provisions?",
+          "answer": "Thrasybulos commanded all the Milesians to bring out their provisions for a public feast, showing vast quantities carelessly piled up with people feasting, to make the Lydian herald report abundance to Alyattes.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 114,
+          "question": "What happened to Arion when he sailed from Taras to Corinth?",
+          "answer": "The Corinthian crew plotted to kill Arion and take his money, but he persuaded them to let him sing in minstrel's garb first, then leaped into the sea where a dolphin carried him to Taenaron.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 115,
+          "question": "How did Periander prove Arion's story about his rescue?",
+          "answer": "Periander kept Arion in guard and when the sailors arrived claiming Arion was safe in Italy, Arion suddenly appeared before them in the same guise as when he leaped from the ship, proving their falsehood.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 116,
+          "question": "What did Solon say were the only advantages of the very rich man who is not happy?",
+          "answer": "Solon said the very rich man who is not happy has only two advantages compared to the poor fortunate man, while the latter has many advantages compared to the rich unhappy man.",
+          "metadata": {
+            "category": "Philosophical Dialogue",
+            "question_type": "Conceptual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Hard"
+          }
+        },
+        {
+          "id": 117,
+          "question": "What vision came to Croesus about his son Atys?",
+          "answer": "A vision came to Croesus in his sleep telling him that Atys should be short-lived and perish by a spear-point of iron.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 30,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 118,
+          "question": "How did Atys argue against his father's interpretation of the dream?",
+          "answer": "Atys argued that if the dream said he would perish by a spear-point, and they were hunting a boar not men, then the dream couldn't refer to the hunt since boars don't use spear-points.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Analytical",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 119,
+          "question": "How was Atys killed during the boar hunt?",
+          "answer": "Adrastos, aiming at the boar, missed and struck Atys with the spear, thus fulfilling the vision that he would perish by a spear-point.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 120,
+          "question": "What did Adrastos do after accidentally killing Atys?",
+          "answer": "Adrastos delivered himself up to Croesus, holding forth his hands and bidding the king slay him over the corpse, saying life was no more worth living for him.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 121,
+          "question": "How did Croesus test the various Oracles before his expedition against Persia?",
+          "answer": "Croesus sent messengers to several Oracles with instructions to ask what he was doing on a predetermined day, and only the Oracle at Delphi correctly reported he was boiling a tortoise and lamb in a bronze cauldron.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 55,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 122,
+          "question": "What according to Herodotus did the Egyptians claim to have invented first?",
+          "answer": "The Egyptians claimed to be the first who brought into use appellations for the twelve gods, assigned altars and images and temples to gods, and engraved figures on stones.",
+          "metadata": {
+            "category": "Cultural History",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 123,
+          "question": "How did Herodotus describe the geographical extent of Egypt?",
+          "answer": "Herodotus described Egypt as all that country inhabited by Egyptians, extending from the coast city of Plinthinë to Lake Serbonis, and stretching inland to the city of Kercasoros where the Nile divides.",
+          "metadata": {
+            "category": "Geography",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 124,
+          "question": "What proof did the Egyptian priests give about the changing nature of the Nile's flooding?",
+          "answer": "The priests said that in King Moiris' reign, the river only needed to reach eight cubits to water Egypt below Memphis, but in Herodotus' time it needed sixteen or fifteen cubits to go over the land.",
+          "metadata": {
+            "category": "Historical Geography",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 125,
+          "question": "What was Herodotus' theory about why the Nile floods in summer?",
+          "answer": "Herodotus theorized that the Sun, driven from his course by winter winds, goes to the upper parts of Libya where he draws up water from the Nile, causing the river to decrease in winter and increase in summer.",
+          "metadata": {
+            "category": "Natural Philosophy",
+            "question_type": "Theoretical",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Hard"
+          }
+        },
+        {
+          "id": 126,
+          "question": "What story did the scribe of the sacred treasury at Sais tell about the sources of the Nile?",
+          "answer": "The scribe said there were two sharp-pointed mountains between Syene and Elephantine called Crophi and Mophi, between which flowed the fathomless sources of the Nile, half flowing north to Egypt and half south to Ethiopia.",
+          "metadata": {
+            "category": "Geographical Lore",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 127,
+          "question": "How did Psammetichos test the depth of the Nile sources according to the scribe?",
+          "answer": "Psammetichos had a rope twisted of many thousands of fathoms and let it down in the place of the sources, but it found no bottom.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 128,
+          "question": "What explanation did the scribe give for why the sounding-line found no bottom?",
+          "answer": "The scribe suggested there were strong eddies and backward flow where water dashed against the mountains, preventing the sounding-line from reaching bottom.",
+          "metadata": {
+            "category": "Geographical Lore",
+            "question_type": "Explanatory",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 129,
+          "question": "What did the Egyptians do with the heads of sacrificed animals?",
+          "answer": "After sacrificing animals, the Egyptians made imprecations upon the heads and either sold them in market-places to Greek traders or, if no Greeks were present, cast them into the river.",
+          "metadata": {
+            "category": "Religious Practices",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 130,
+          "question": "What was the Egyptian explanation for why rams were sacred in Thebes?",
+          "answer": "The Thebans said Heracles desired to see Zeus, who contrived to show himself holding a ram's head and wearing its fleece, hence they make images of Zeus with ram's face and hold rams sacred.",
+          "metadata": {
+            "category": "Mythology",
+            "question_type": "Explanatory",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 131,
+          "question": "How did Herodotus believe the names of Greek gods originated?",
+          "answer": "Herodotus believed the names of almost all Greek gods came from Egypt, except Poseidon, the Dioscuroi, Hera, Hestia, Themis, the Charites and Nereïds.",
+          "metadata": {
+            "category": "Cultural History",
+            "question_type": "Theoretical",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 132,
+          "question": "What story did the priestesses of Dodona tell about the origin of their oracle?",
+          "answer": "The priestesses said two black doves flew from Egyptian Thebes, one to Libya and one to Dodona, where the dove spoke with human voice saying an oracle of Zeus should be established.",
+          "metadata": {
+            "category": "Religious History",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 133,
+          "question": "What explanation did Herodotus give for why the women of Dodona were called 'doves'?",
+          "answer": "Herodotus suggested the women were called doves because they were Barbarians and seemed to utter voice like birds until they learned to speak understandably.",
+          "metadata": {
+            "category": "Linguistics",
+            "question_type": "Explanatory",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 134,
+          "question": "How did the Egyptians conduct their festival at Bubastis?",
+          "answer": "They traveled to Bubastis in crowded boats with singing and castanets, some women mocking those in towns they passed, others dancing, and others standing and lifting their garments.",
+          "metadata": {
+            "category": "Religious Practices",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 135,
+          "question": "What happened to cats in Egypt when a fire occurred?",
+          "answer": "During fires, cats seemed divinely possessed and would slip through or leap over men to jump into the fire, causing great mourning among Egyptians.",
+          "metadata": {
+            "category": "Cultural Practices",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 136,
+          "question": "How were dead cats treated in Egypt?",
+          "answer": "Dead cats were carried to sacred buildings in Bubastis where they were embalmed and buried.",
+          "metadata": {
+            "category": "Cultural Practices",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "Easy"
+          }
+        },
+        {
+          "id": 137,
+          "question": "What was the nature of the crocodile according to Egyptian accounts?",
+          "answer": "The crocodile eats nothing during four wintry months, has four feet, belongs to both land and water, produces eggs on land, spends most day on dry land but whole night in the river.",
+          "metadata": {
+            "category": "Natural History",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 138,
+          "question": "What Egyptian song did Herodotus note as similar to a Greek song?",
+          "answer": "Herodotus noted an Egyptian song that agreed exactly with the Greek song of Linos, which the Egyptians called Maneros.",
+          "metadata": {
+            "category": "Cultural History",
+            "question_type": "Comparative",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 30,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 139,
+          "question": "What distinctive greeting custom did Egyptians have according to Herodotus?",
+          "answer": "Instead of addressing one another in roads, Egyptians did reverence by lowering their hand down to their knee.",
+          "metadata": {
+            "category": "Cultural Practices",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Easy"
+          }
+        },
+        {
+          "id": 140,
+          "question": "How did Egyptians use portents according to Herodotus?",
+          "answer": "When a portent happened, Egyptians observed and wrote down the resulting event, and if anything similar happened afterwards, they believed the outcome would be similar.",
+          "metadata": {
+            "category": "Cultural Practices",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 141,
+          "question": "What were the three methods of embalming described by Herodotus?",
+          "answer": "The most perfect method used cedar oil injections and natron treatment for seventy days; the second method used syrmaia oil without cutting the body; the third method for poorer people used a purge and seventy days treatment.",
+          "metadata": {
+            "category": "Cultural Practices",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 55,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 142,
+          "question": "How did fish breed in the Nile according to Egyptian accounts?",
+          "answer": "Fish swam to sea for breeding with males leading and shedding milt, females swallowing it to become impregnated, then returning to lay eggs which males swallowed, with surviving grains growing into fish.",
+          "metadata": {
+            "category": "Natural History",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 143,
+          "question": "How did Egyptian boats sail up and down the Nile?",
+          "answer": "Boats couldn't sail upriver without strong wind but were towed; downstream they used a door-shaped crate floating ahead to draw them and a stone dragging behind to keep course straight.",
+          "metadata": {
+            "category": "Technology",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 144,
+          "question": "What revenge did Queen Nitocris take for her brother's death?",
+          "answer": "Nitocris constructed an underground chamber and invited the Egyptians responsible for her brother's death to a feast, then let in the river upon them through a secret conduit.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 145,
+          "question": "What evidence did Herodotus cite for Egyptian influence on Colchians?",
+          "answer": "Herodotus cited that Colchians were dark-skinned with curly hair and practiced circumcision like Egyptians and Ethiopians, suggesting they were part of Sesostris' army.",
+          "metadata": {
+            "category": "Cultural History",
+            "question_type": "Analytical",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 146,
+          "question": "How did Sesostris mark the extent of his conquests?",
+          "answer": "Sesostris set up pillars in conquered lands with inscriptions for strong nations stating his conquest, and for weak nations adding female genitalia to show their weakness.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 40,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 147,
+          "question": "What happened to Sesostris' brother who plotted against him?",
+          "answer": "Sesostris with his wife and sons was trapped in a burning room by his brother, but his wife laid boards across and they walked over them to escape while two sons were burnt.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 45,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 148,
+          "question": "Why did King Rhampsinitos' treasury builder contrive a removable stone?",
+          "answer": "The builder contrived a removable stone so his sons could later enter and take the treasure, providing them ample means of living.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Explanatory",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 149,
+          "question": "How did Rhampsinitos catch the thief who was stealing from his treasury?",
+          "answer": "Rhampsinitos had traps set in the treasury, and when the next thief entered, he was caught, so his brother decapitated him to avoid identification, leaving the body in the trap.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Descriptive",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 50,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        },
+        {
+          "id": 150,
+          "question": "What evil deeds did Cheops commit according to Egyptian accounts?",
+          "answer": "Cheops shut up all temples preventing sacrifices, forced all Egyptians to work for him building pyramids, and oppressed his people greatly.",
+          "metadata": {
+            "category": "Historical Narrative",
+            "question_type": "Factual",
+            "book_title": "The Histories (By Herodotus)",
+            "word_count": 35,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "Medium"
+          }
+        }
+      
+]
+    
