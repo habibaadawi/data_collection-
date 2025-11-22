@@ -1,0 +1,442 @@
+ottery is fired in order to effect
+the change from clay, a plastic
+material, into aplastic ceramic
+(see Rice 1987: 102 - 110). This is done by
+first evaporating the water that lubricates the
+clay platelets and renders the clay malleable,
+then driving off the water that is chemically
+combined in the clay mineral structure. The
+clay platelets subsequently begin to fuse
+together at their edges in a process known as
+“sintering.” This is the first stage in
+vitrification and varies according to the clay
+type but usually begins between 600C and
+700C. If continued to higher temperatures
+the clay would eventually become fully
+vitrified and collapse after becoming
+essentially molten. Firing aims to sinter the
+material to a point below complete
+vitrification, so rendering the clay ceramic.
+The history of the kiln is a history of
+improvements or changes to the way that
+pottery is fired and encompasses
+arrangements that would not strictly qualify as
+“kilns.” Holthoer (1977: 34 - 35) has
+attempted to provide a fourfold classification
+of kilns, but this has not gained wide
+acceptance and is inconsistently applied in his
+examples. A simpler classification has been
+proposed (Nicholson 1993: 108), making
+three broad distinctions: 1) open firing; 2)
+firing structures; and 3) updraft kilns. The
+latter might be further subdivided as
+suggested by Arnold (1976, 1986). A fourth
+type, the downdraft kiln, is not encountered in
+Pharaonic Egypt.
+P
+Kilns and Firing Structures, Nicholson, UEE 2010 2
+Open Firing
+Among the methods that do not employ a
+fixed kiln structure is the so-called “open
+firing,” sometimes referred to as “bonfire
+firing,” although this latter term implies a
+rather less orderly arrangement than is usually
+the case. In open firing the fuel is stacked
+over (and sometimes among) the vessels (see
+Hodges 1981: 35 - 41). Maximum
+temperatures reached in an open fire are
+comparable to those of an unroofed updraft
+kiln and quite sophisticated results can be
+obtained. Temperatures of up to c. 1000°C
+can be reached—the upper range of the firing
+of pottery referred to as “terracotta” (Rice
+1987: 82). By its nature an open firing leaves
+little or no detectable archaeological trace, and
+any remains that do survive could be mistaken
+for a large domestic hearth. Indeed, small
+quantities of pottery may have been fired at
+the domestic hearth, and it should be
+remembered that many clays will begin to
+vitrify at temperatures between 600°C and
+800°C.
+Open firing may suffer from lack of control
+of the firing and from the smudging of the
+vessels from contact with the fuel; it is
+furthermore susceptible to sudden changes in
+weather conditions. Over wide areas of the
+world this latter problem was countered by
+firing in trenches, as did the Hopi of North
+America, or by adding a small wall around the
+base of the fuel heap, as was done in parts of
+India. These strategies might be regarded as
+the simplest kinds of firing structure.
+Firing Structures
+The arrangement described by Harlan (1982)
+and Hoffman (1982: 7 - 14) at Hierakonpolis,
+locality 11C, may represent a development
+from simple open firing. Dated c. 3200 - 3100
+BCE, the structure is a pit in the ground that
+seems to have contained fuel, while the
+vessels to be fired stood on “dog-biscuit
+shaped blocks,” 150 – 250 mm high. The
+excavators describe this as a simple updraft
+kiln, because the vessels were raised from the
+fire on the “dog biscuit” blocks. Although
+technically correct in that the draft (hot gases)
+moved upward, it is preferable to regard such
+arrangements as firing structures to avoid
+confusion with true updraft kilns.
+A further development, and one providing
+greater protection to the vessels than the
+arrangement from Hierakonpolis, is the
+structure known, rather misleadingly, as the
+“box oven,” a step between open firing and
+the true updraft kiln. The box oven is
+essentially a containing wall within which pots
+are stacked. The fire may be within the wall
+or, as in the Amarna example described
+below, outside it and drawn in through an
+opening at the bottom of the wall. In a true
+updraft kiln, on the other hand, the fire is
+located beneath the stack of vessels and is
+separated from them by a perforated floor
+(Nicholson 1989). Box ovens are known from
+at least as early as the Middle Kingdom, at
+sites such as Mirgissa, and from the New
+Kingdom at el-Amarna, where an example has
+been excavated containing its charge of
+vessels (fig. 1; Kemp 1987: 73 - 76). Holthoer
+(1977: 16) regarded the Mirgissa structure as a
+bread oven, and it is indeed possible that the
+same structure served the dual function of
+breadmold-firing and subsequent bread-
+baking. It has been shown experimentally that
+the Amarna kiln/oven could have been used
+to fire the vessels found within it (fig. 2;
+Nicholson 1989), and this would certainly
+have been a more fuel-efficient way of firing
+the pots than open firing.
+Updraft Kilns for Pottery, Faience, and Glass
+“True” kilns can be divided into two main
+types, updraft and downdraft, the distinction
+between them being whether the hot gases
+pass upward or downward through the stack
+of vessels being fired (Hodges 1981). The
+updraft kiln is by far the most common
+historically. In this type of kiln (fig. 3) the fire
+is in the lowermost part of the kiln, known as
+the fire box or fire pit, and is separated from
+the vessel stack by a perforated floor or
+“chequer,” through which the hot gases travel
+up into the firing chamber where the vessels
+are stacked. Vessels are commonly inverted in
+Kilns and Firing Structures, Nicholson, UEE 2010 3
+Figure 1. Box oven excavated at Chapel 556 of the
+workmen’s village at el-Amarna.
+Figure 2. Experimental firing of reconstruction of
+box oven found at Chapel 556 of the workmen’s
+village, el-Amarna. Note that the fire is outside the
+structure, which draws in the flame to fire the
+vessels.
+the stack so that each becomes filled with the
+hot gases, thereby slowing the upward passage
+of the gases through the structure (fig. 4;
+Nicholson and Patterson 1989). This has the
+effect of increasing the efficiency of the firing,
+consuming less fuel to achieve the desired
+result. This is particularly important since it is
+common for Egyptian updraft kilns to be
+open at the top, rather than enclosed by a
+dome. Vessels stacked in such open-topped
+structures, at least as observed in modern
+Egypt, are usually given a covering of sherds
+(figs. 5 and 6). The sherd layer acts as a
+collecting point for soot from the firing, so
+that the vessels themselves are not blackened
+by the fuel. It also serves to give a minimal
+amount of insulation to the stack. The last
+phase of a firing is often to throw dry
+vegetation onto the covering of sherds, where
+it ignites and removes much of the buildup of
+carbon.
+The expansion of vessels tightly packed in a
+kiln puts considerable stress on the kiln walls,
+which are usually made of mud-brick that
+becomes fired brick in situ over time. It is
+likely that the walls were reinforced in some
+way, probably by tying large ropes around
+them in order to prolong their lives (fig. 7).
+Several tomb scenes show kilns with what
+appear to be reinforcement bindings around
+them. This practice of binding the kiln, albeit
+with iron chains, wire belts, or metal bands
+rather than ropes, remained common in the
+European pottery industry into the twentieth
+century. Such features are clearly
+demonstrated on the so called “bottle kilns”
+at Stoke-on-Trent, United Kingdom.
+It is these updraft kilns that are commonly
+depicted in tomb scenes, particularly from the
+Middle and New Kingdoms (conveniently
+summarized by Holthoer 1977: fig. 50)
+although Old Kingdom examples are known,
+such as those in the tomb of Ty at Saqqara
+(Épron et al. 1939: pl. 71). Due to the
+conventions of Egyptian art, it is difficult to
+determine the scale of these structures, but it
+is evident from scenes depicting them being
+unloaded (for example, those at Beni Hasan)
+that they stood taller than a man and
+sometimes needed a step or bench at the
+bottom in order that they could be reached
+into. Determining the diameter of such
+structures is more difficult, and there are no
+known scenes showing a kiln being loaded or
+unloaded from the inside, as is often the case
+with present-day Egyptian kilns (see
+Kilns and Firing Structures, Nicholson, UEE 2010 4
+Nicholson 1995b; Nicholson and Patterson
+1989).
+Fortunately, we are not solely dependent
+upon depictions of pottery kilns: there are
+numerous extant examples from Egypt from
+several periods, including the Old Kingdom at
+Elephantine (Kaiser et al. 1982) and the First
+Figure 3. Section drawing of updraft kiln at Deir el-Gharbi, Upper Egypt. Fire box is beneath a perforated
+floor through which the heat passes (see arrows). Above floor are stacked rows of vessels. The letter “n” =
+number of vessels per row; “w” = number of vessels wasted in firing. Vessel color changes according to
+position in kiln.
+Intermediate Period at Ayn Asil (Balat)
+(Soukiassian et al. 1990). The excavation at
+the latter site gives a good impression of the
+spatial organization of a First Intermediate
+Period workshop, including tall, tower-like
+kilns quite wide enough to have
+accommodated a person during stacking and
+Kilns and Firing Structures, Nicholson, UEE 2010 5
+Figure 4. Stacking vessels into a kiln at Deir el-
+Gharbi. Note that the vessels are inverted so as to
+contain the hot gases passing up through the
+perforated floor.
+Figure 5. Covering the open top of a kiln at Deir
+el-Gharbi with sherds. These provide a degree of
+insulation and also serve to collect soot so that the
+finished vessels are not blackened.
+unloading. The excavators grouped the kilns
+into several types, largely depending on how
+the perforated floor, or chequer, was
+supported. In types 1 through 3 the chequer
+rested on walls or pillars, while in types 4 and
+5 it was supported on projections around the
+wall, rather than extending onto a support at
+or near the center of the structure.
+All the contemporary Egyptian pottery kilns
+with which the writer is familiar have the
+perforated floor springing as a low vault from
+ground-level projections around the side, as
+seen in Balat types 4 and 5, or from
+projections higher up the walls. This
+arrangement leaves the fire box free of
+obstruction and makes fueling and raking
+easier. It is the arrangement that appears to
+have been used in the several known New
+Kingdom kilns from el-Amarna. The first of
+Figure 6. A firing at Deir el-Gharbi. The kiln is
+covered only by a layer of sherds and has no afixed
+dome. Note that the structure is built into a
+mound for insulation.
+these was discovered by Borchardt (1933),
+who believed it to be a bread oven. This
+structure, in house P47.20, was re-excavated
+in the 1990s (Nicholson 1995a) and found to
+be a pottery kiln similar to several others at
+the site.
+Archaeologically, kilns may show evidence
+of vitrification, since the mud-brick with
+which they are constructed—often of the
+same Nile clay as the pots themselves—is
+fired over and over again. This vitrification is
+commonly referred to as “slag” by
+archaeologists as a convenient shorthand, a
+term that sometimes leads to the belief that
+the kilns were actually employed for
+metallurgy (or less correctly glass production,
+since slag is specific to metallurgy). In fact the
+substance in question is not true slag (see
+Bachmann 1982) and is not encountered in all
+kilns. Because much Pharaonic pottery is fired
+Kilns and Firing Structures, Nicholson, UEE 2010 6
+Figure 7. An experimental pottery kiln built at el-
+Amarna and reinforced with rope bindings to help
+counter the expansion caused by the pottery
+charge.
+at temperatures of 800°C or less it is quite
+common for the walls of kilns simply to be
+reddened rather than vitrified. By the same
+token kiln sites should not be expected to
+feature “wasters” (overfired vessels):
+underfiring was almost certainly a more
+common fault than overfiring.
+One of the reasons for the buildup of so-
+called slag can be the reaction between the
+“fly ash” (literally, particles of ash moved up
+through the structure by the hot gases) and
+the kiln wall. The silica from ash, along with
+alkalis contained in it, act to make up the
+siliceous slag, essentially a layer of glass or
+glaze on the kiln wall. Fly ash is undesirable,
+particularly during the firing of vessels with a
+decorated surface or of glazed wares (such
+glazed pottery is known in Egypt from
+Roman times onward).
+One way of obviating the problem of fly ash
+is to use a downdraft kiln. These were not
+common in antiquity, however, and the
+difficulty was more usually solved by the use
+of “saggars.” Saggars were ceramic containers,
+stacked one on top of the other, in which
+pottery whose surface might be damaged by
+fly ash, or blackened by soot from smoke, was
+fired. In essence each saggar acted as a
+miniature, closed kiln (see Brown 1976: 86 -
+87). An alternative was to channel the hot
+gases through vertical pipes between which
+the vessels were stacked. This arrangement is
+known from Europe during the Roman
+Period, and although not yet known from
+Egypt, it would not be surprising to find it
+there (Brown 1976: 84 - 85).
+It is worth repeating here that the top
+temperature for an uncovered updraft kiln is
+c. 1000°C. The addition of a dome, which
+serves to reflect heat back into the structure as
+well as to contain it, can yield temperatures of
+1150°C. Beyond this the Nile silt clay rapidly
+vitrifies and begins to collapse. Mud-bricks
+and pottery are essentially of the same
+material and are thus subject to the same
+considerations when heated. Where kilns
+show evidence for a dome, one should
+consider the possibility that they were glass or
+metal furnaces rather than pottery kilns,
+although domed pottery kilns are documented
+from the ancient world. It has been suggested
+from the raw materials found in their
+association that the large kilns or furnaces
+discovered at el-Amarna, and which show
+signs of a dome, were intended for the making
+of glass.
+Downdraft Kilns
+The downdraft kiln is not known from
+Pharaonic Egypt and is mentioned here only
+in passing. In this type of kiln the hot gases
+usually pass over a baffle wall of some kind
+before being drawn down through the stack
+of vessels and leaving the kiln via a chimney at
+the rear of the structure, the chimney acting as
+the means by which the gases are drawn (see
+Hodges 1981: 35 - 41). The firing chamber of
+such a kiln is enclosed—usually by a dome.
+Kilns and Firing Structures, Nicholson, UEE 2010 7
+Figure 8. Firing of reconstruction of the glass
+furnace found at el-Amarna site O45.1. The
+domed superstructure helps to retain and reflect
+heat.
+The advantage of such a structure is that the
+heat remains within the kiln longer and there
+is less chance of discoloration of the vessels as
+a result of smoke or ash. The downdraft kiln
+is also capable of reaching temperatures of up
+to c. 1300°C, whereas the maximum for an
+uncovered updraft kiln is c. 1000°C. If a dome
+is added to an updraft kiln, then temperatures
+of up to c. 1150°C may be achieved, since the
+dome helps to retain heat as well as reflect it
+downwards.
+Faience Kilns
+Faience kilns are sometimes referred to as
+furnaces by archaeologists, because it is
+assumed that they operated at very high
+temperatures, and also perhaps because in
+Roman times they could be very large. In fact
+the temperatures necessary for firing faience
+were usually well within the temperature range
+of terracotta firing (maximum 1000°C).
+Pharaonic faience was fired in numerous
+ways—many of them akin to the methods
+used to produce pottery. At Abydos, for
+example, there is evidence for the open firing
+of faience during the Old Kingdom and First
+Intermediate Period, as well as for a possible
+kiln or firing structure (see Nicholson and
+Peltenburg 2000: 180 - 181). There is also a
+possible kiln from Lisht, where a faience-
+making area was identified.
+Much more evidence for faience production
+is available for the New Kingdom, not least
+from el-Amarna (Petrie 1894); however, there
+is some uncertainty about the kilns
+themselves. Nicholson (2007) has identified
+possible faience kilns at el-Amarna site O45.1,
+but these are of the same design as pottery
+kilns and their attribution to faience remains
+tentative. Since they occur at a locality where
+faience as well as pottery is known to have
+been made, and since both faience and pottery
+kilns would have operated within the same
+temperature ranges, they cannot definitely be
+ascribed to the faience-making operation. It
+would not be surprising to find that pottery
+and faience were sometimes fired in the same
+kilns, albeit not at the same time, since
+different temperatures might have been
+required and/or because saggars might have
+been needed for the faience. The excavators at
+el-Amarna also found large updraft kilns at
+O45.1, which they believe were used for firing
+glass (fig. 8). These structures, too, could have
+served for faience production, fired to a lower
+temperature than that required for the
+reacting together and subsequent melting of
+glass.
+At least some of the faience may well have
+been fired in saggars (see above) during the
+New Kingdom and later, and these are very
+well attested from the Roman Period at the
+site of Kom Helul, Memphis (Petrie 1909,
+1911). Here Petrie recorded very substantial
+rectangular kilns, sunk up to c. 5 m into the
+ground. These are currently being
+reinvestigated.
+Lime Kilns
+Kilns for the reduction of limestone to lime
+for use either as mortar or for agriculture are
+not securely attested from Pharaonic Egypt.
+James Harrell (personal communication:
+January 2010) notes that the use of lime
+plaster is not certainly recorded before the
+Ptolemaic era; consequently the occurrence of
+lime kilns cannot be expected before that
+date. Lime kilns differ from kilns for firing
+pottery or faience in that they did not bind
+material together, but rather reduced it to a
+friable state. Henein (2002), however, records
+the use of a combined pottery and lime kiln in
+Kilns and Firing Structures, Nicholson, UEE 2010 8
+Dakhla Oasis, though this appears to be a
+very localized practice introduced in Islamic
+times and requiring further study. Because of
+their specialized nature, lime kilns do not
+normally feature in accounts of kiln
+technology.
+Bibliographic Notes
+Publications dealing specifically with Egyptian kilns are few, and the literature scattered. Although
+dated and generalized in its approach, Henry Hodges’ classic work, Artifacts (1981), remains a
+valuable starting point for understanding the topic, while Rice (1987) gives a good overview of
+kilns and their use in ceramic manufacture. Nicholson (1993) summarizes what was known of
+Egyptian pottery kilns up to that date and draws on pioneering work by Arnold (1976, 1986). The
+publication of recent work at el-Amarna (Nicholson 2007) covers the construction of pottery,
+faience, and glass kilns/furnaces at that site. The Roman faience furnaces at Kom Helul,
+Memphis, are currently being re-investigated, but Petrie’s publications (1909, 1911) give some
+indication of their scale. Work on kilns and furnaces in Egypt is still relatively rare; much remains
+to be done.

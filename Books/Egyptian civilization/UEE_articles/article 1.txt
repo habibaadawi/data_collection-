@@ -1,0 +1,808 @@
+mong the most important sources
+of information for our
+understanding of the moon as it
+was regarded in ancient Egypt are texts with
+discourses on the moon and (related)
+representations from temples, of which those
+from the Ptolemaic and Roman Periods (c.
+300 BCE – 300 CE) predominate. These
+temples are mainly located along the Nile
+Valley, as far north as Athribis and as far
+south as Philae, but are also represented in the
+oases (Bahria, Dakhla, and Kharga) and Nubia
+(Soleb and Abu Simbel). That the moon is
+visually and textually represented with striking
+frequency on ceilings and door lintels on the
+north side of temples, combined with the
+assignment of the north to the night,
+illustrates the Egyptian perception of the
+temple as a cosmos.
+In addition, papyrus manuscripts dating
+mainly from the Roman Period are
+informative; they are almost entirely funerary,
+the moon being referenced there in
+connection with Osiris, the god of the dead.
+Supplementing these are sources from
+previous eras, beginning with the Old
+A
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 2
+Kingdom (6th Dynasty, c. 2300 BCE), from
+temples, tombs, stelae, and coffins. Since the
+earliest sources, the Pyramid Texts, most
+likely reflect previous stages of religion that
+have not survived or were transmitted only
+orally, it can be assumed that a moon god
+existed prior to their inscription (García
+Fernández 2017a: 13; and see, e.g., Morales
+2016). The distribution of the sources is, on
+the one hand, due to their preservation (the
+more recent papyri being the best preserved)
+and, on the other, to the tendency in
+Ptolemaic and Roman times for temple texts
+to become ever more detailed—sometimes
+downright encyclopedic—occupying virtually
+all available space on temple walls and
+ceilings, and written in smaller and more
+tightly set hieroglyphs compared to those of
+earlier phases. Whether at the same time an
+increase in moon worship or a reflection of
+foreign domination can be assumed remains
+uncertain.
+History of Research
+Some of the key depictions of, and texts
+pertaining to, the Egyptian god of the moon,
+Iah (IaH), were already collected and translated
+by Heinrich Brugsch between 1883 and 1891
+in his Thesaurus inscriptionum Aegyptiacarum.
+Early studies of astral eyes, especially the
+moon, were published by Hermann Junker
+(1917: 136-148) and Hermann Kees (1925),
+reflecting the available textual sources and the
+state of Egyptological knowledge in the early
+twentieth century. Fundamental to our
+understanding of lunar mythology and thus
+lunar conceptualizations was until recently a
+contribution by Philippe Derchain (1962). In
+addition to the names and iconography of the
+moon, Derchain discussed in this publication
+the various Egyptian moon deities and the
+role of the celestial body in different contexts,
+including its use in calendars and its
+perception as an omen, as well as its
+significance for the afterlife, especially as
+presented in the Pyramid Texts. Introductory
+in character, the study touches only upon
+excerpts of textual sources eclectically selected
+from the range of Egyptian history, the
+quantity of sources having significantly
+increased since the time of its publication,
+especially for the Ptolemaic and Roman
+Periods. A number of subsequent studies
+analyzed specific mythological themes and
+individual texts; among these, the most
+important are those of Derchain (1963) on a
+frequent mythological lunar scene; of Paul
+Barguet (1977) on two highly detailed scenes
+with texts about the moon and the sun at
+Edfu; of François René Herbin (1982) on a
+hymn to the moon that is known from several
+sources; of Sydney Aufrère (1991: 197-235) on
+the filling of the lunar eye with minerals and
+plants; of Françoise Labrique (1997, 1998a,
+1998b, 2002, 2003a) on lunar scenes at
+Karnak; of Frédéric Colin and Françoise
+Labrique (2002) on lunar scenes at the oases;
+of Sylvie Cauville (2011) on lunar scenes at
+Dendera; and of Jean-Claude Goyon (1983,
+2013, 2015) on the political implications of
+several lunar scenes at Karnak. Pierre
+Koemoth (1996) and Leo Depuydt (1998)
+dealt with specific types of lunar
+representation. Special designations of the
+moon god were investigated by Derchain
+(2010) and Labrique (2003b).
+Recently, the moon god has once again
+attracted the interest of Egyptologists: the
+hitherto unpublished dissertation by Gudelia
+García Fernández (2017a; for a preliminary
+report see 2017b) investigates Old to New
+Kingdom sources on the moon (god) and
+lunar festivals. In addition to the classical
+funerary texts (Pyramid Texts, Coffin Texts,
+Book of the Dead), her study includes the
+occurrence of Iah in literary and onomastic
+sources as well as in administrative titles. Her
+work reveals that a cult and priesthood of
+Iah(-Thoth) probably existed since the Old
+Kingdom and was certainly present in the 18th
+Dynasty in the areas of Memphis and Thebes,
+where we also find evidence for private
+veneration (García Fernández 2017a: 428-429;
+2017b: 224-225). Theophoric names, feminine
+and masculine, with Iah are attested from the
+Old Kingdom, but have their peak in the
+17th /18th Dynasties in both the royal and
+private spheres (García Fernández 2017b:
+225-226). Furthermore, the present author has
+published a study (Altmann-Wendling 2018)
+on lunar conceptualizations and lunar
+knowledge based mainly on religious sources
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 3
+of the Ptolemaic and Roman Periods, but also
+considering earlier periods, as well as authors
+of classical antiquity. Additionally, the
+publication integrates a theoretical approach
+with the elaboration of conceptualizations of
+the celestial body. Further papers by the
+author deal with specific aspects of the moon
+in ancient Egypt concerning architecture
+(2017a, 2023), traditions of knowledge (2019),
+magic (2022a, 2022b), local cults (2017b), and
+the role of the moon in kingship (2021). The
+political dimension of lunar symbolism in the
+Amarna-/post-Amarna Periods comprises
+part of a study by Fabienne Haas Dantes
+(2022) on Tutankhamun’s burial equipment.
+Astronomical Facts
+Due to Egypt’s rather southerly latitude, the
+moon appears there as a horizontal (i.e., lying)
+rather than vertical crescent. Since the moon
+is 400 times closer to the earth than it is to the
+sun, but is also 400 times smaller than the
+earth, both celestial bodies appear around the
+same size in the sky (Kopal 1971; Morison
+2008). Although the moon’s luminosity is
+400,000 times less than that of the sun, a night
+sky is 250 times brighter by virtue of a full
+moon. The moon rises in the East and sets in
+the West like every celestial body, caused by
+the rotation of the earth around its axis.
+Additionally, due to its proper motion around
+the earth, it moves in the sky from west to
+east relative to the fixed stars, about 13
+degrees every day.
+In modern astronomy, as in ancient
+Egyptian astronomy, the lunar month begins
+with the new moon. The most important
+stages of the average 29.5-day lunar cycle
+(lunation) are as follows: 1) new moon,
+characterized by complete invisibility,
+occurring on the first lunar-month day (LMD
+1); 2) first crescent visibility/new light,
+indicated by the first appearance of the
+crescent moon on the western horizon shortly
+after sunset (LMD 2/3); 3) waxing half moon
+(LMD 7/8); 4) full moon, which rises when
+the sun sets and is visible all night (LMD
+15/16); 5) waning half moon (LMD 22/23);
+and 6) last crescent visibility, indicating the
+crescent moon’s last appearance before the
+new moon on the eastern horizon just before
+sunrise (LMD 29/30).
+Lunar eclipses occur when the sun, moon,
+and earth are in a plane and the (full) moon
+passes through the earth’s shadow; the moon
+does not become invisible but appears reddish
+due to the refraction of sunlight by the earth’s
+atmosphere. Solar eclipses take place when
+the (new) moon is positioned exactly between
+the earth and the sun, thus covering the latter.
+Both lunar and solar eclipses can occur only
+twice a year; lunar eclipses are more frequently
+visible on earth than solar eclipses.
+Methodology
+Religious conceptualizations of the moon in
+ancient Egypt reflected the knowledge of the
+elite, priestly milieu. The various lunar
+designations and epithets that were applied
+(anciently) were mostly metaphorical
+attributions. According to Conceptual
+Metaphor Theory, which derives from the
+field of cognitive linguistics, these attributions
+designated not only rhetorical figures, but also
+concepts, understood as organizational units
+of world knowledge (Lakoff and Johnson
+1980; Lakoff 2006; Croft and Cruse 2004:
+193-221). Metaphors transfer the
+characteristics of one thing (= source domain)
+to another (= target domain), based on
+aspects common to both entities; usually not
+all characteristics are transferred, nor is the
+relationship necessarily reciprocal. Generally,
+more concrete, physical, and well-known
+things like creatures, body parts, or
+interactions with the environment explain
+more abstract and elusive concepts. This was
+true in ancient Egypt for the moon as a
+heavenly body, with its enigmatic shape-
+shifting (Altmann-Wendling 2018: 857-860).
+There were often several conceptualizations
+of a single phenomenon, including the moon,
+which was represented, for example, as a
+child, a bull, or an eye. In some cases, these
+representations had interconnections and
+overlappings, and could determine or
+influence each other. The underlying concept
+of a term used as a metaphor further dictated
+how the object was referred to. Since the
+moon, for example, was sometimes
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 4
+designated as a child, its parents, birth,
+growing up, and aging could also be
+thematized. The concept of the moon as an
+eye, on the other hand, entailed that it could
+be injured and healed, as well as put (back) in
+its place.
+Conceptualizations of the Moon
+Visual depictions
+While other natural phenomena in ancient
+Egypt were mostly deified in an
+anthropomorphic way, the moon appears in
+ritual scenes as an actual celestial body from
+the New Kingdom onward and bears the
+same name as the moon god, Iah (Altmann-
+Wendling 2018: 699-706). It takes a symbolic
+form of a disk with an underlying crescent,
+thus incorporating both shapes typical of the
+celestial body (Altmann-Wendling 2018: 871-
+964). In addition to, or instead of, the
+crescent, the disk is sometimes equipped with
+a wedjat-eye inside (fig. 1). The crescent and
+wedjat-eye each provide a clear differentiation
+from the sun, which from the Amarna Period
+onward was represented as a venerated object
+and invoked in the form of a disk (Redford
+1984: 170-181). An even more symbolical
+depiction is the wedjat-eye alone on a crescent
+moon. A crescent moon is also attested as a
+representation in a limited number of cases
+since the New Kingdom and always refers to
+a specific lunar phase (first and last crescent)
+(Altmann-Wendling 2018: 702-703). García
+Fernández, on the other hand, proposes that
+the disk represents the sun, implying a
+solarization of the moon that begins in the
+New Kingdom, when the first representations
+appear and the deity is determined with a
+seated god with such a disk on his head
+(García Fernández 2017a: 248-249, 425; see
+also pp. 281-282 for her alternative
+interpretations of the disk as the full moon or
+the so-called ashen light, the otherwise dark
+moon-surface dimly illuminated by the earth’s
+reflection of the sun). However, later
+depictions of the lunar phases show that the
+disk with the wedjat-eye clearly refers to the
+moon rather than the sun (e.g., Sauneron
+1969: 1-4; Altmann-Wendling 2018: 610).
+Figure 1. The moon as a disk enclosing a wedjat eye, with adjacent crescent, worshipped by the god Thoth.
+Temple of Dendera, ceiling of the pronaos, Roman Period.
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 5
+Figure 2. Procession of 14 deities symbolizing the waxing of the moon, each deity representing a day, and
+the royal couple (at far left). Karnak, temple of Khonsu, lintel of the door to the barque chapel, Ptolemaic
+Period.
+Figure 3.
+Representation of
+the phases of the
+moon. Temple of
+Esna, ceiling of the
+pronaos (detail),
+Roman Period.
+The moon is frequently addressed in the
+texts as a disk of varying qualities, e.g.,
+“bright,” “luminous,” “nocturnal,” “large,”
+“golden,” or “white,” referring to its
+luminosity, or in the case of the golden color,
+to its remarkable appearance especially at rise
+and set in the earth’s denser atmospheric
+layers nearest the horizon (Clère 1961: pl. 17;
+Altmann-Wendling 2018: 872, 874-875).
+References to other colors as well as to the
+“skin” of the celestial body might refer to its
+cratered surface, to its appearance during a
+lunar eclipse, or to its changing appearance
+depending on its phase and position (after all,
+the celestial body shows itself to earth’s
+inhabitants with a different shape every day).
+The dark areas of the moon (e.g., maria, the
+lava-lined craters informally referred to as the
+“Man in the Moon”) and lunar eclipses find
+no explicit mention; they are instead referred
+to indirectly, couched in the euphemism of
+Egyptian religious texts. Moreover, lunar
+eclipses were interpreted as omens with
+mostly negative implications (Parker 1959;
+Altmann-Wendling 2018: 792-797; 2019: 225-
+233).
+Similarly, the waning moon and other (non-
+full) manifestations within the lunation are,
+prior to the Roman Period, not explicitly
+designated or depicted. The lunar phases are,
+for example, indicated via representations of
+processions of gods, each god symbolizing a
+day (fig. 2) (Altmann-Wendling 2018: 731-
+748). In contrast, during the Roman Period
+the phases are explicitly depicted with a
+waxing and waning crescent (fig. 3) (Altmann-
+Wendling 2018: 606-612, 704-706; Mendel
+2022: 474-490). Inasmuch as the conception
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 6
+of the “disk” was dominant and
+prototypical—the moon’s structural similarity
+to the sun being immanent—the positive
+connotation of the full-moon phase becomes
+apparent
+Light and darkness
+The natural association of the moon with the
+nocturnal period and darkness is mostly
+linked with its positive quality as a radiant
+light-bringer, a concept that is particularly
+frequent in the texts, starting in the Middle
+Kingdom and becoming predominant in the
+New Kingdom (García Fernández 2017b:
+222-223; for later periods see Altmann-
+Wendling 2018: 929-937). This reveals the
+fear of darkness present in ancient Egypt as
+well as in numerous pre-modern societies,
+whether based on real dangers such as
+disorientation and human or animal attacks,
+or imagined ones such as demons, the
+primordial chaos, or the proximity to death
+(Assmann 2005: 522-528; Pries 2009: 5-6;
+Kucharek 2010: 554-560; 2016: 75).
+Moreover, in the absence of effective lighting
+options, the changing lunar phases and the
+resulting fluctuating light intensity had a far
+greater impact on people anciently than they
+do today. The contrast between the bright
+full-moon sky and the new-moon period
+would have been all the more intense in the
+mostly cloudless sky of arid Egypt. The desire
+for daylight and sun-like illumination, which
+appears in Egyptian texts (e.g., Cauville 2007:
+103, 1.10; Altmann-Wendling 2018: 929-936,
+948-954), is clearly exaggerated; nevertheless
+the moon replaces the sun in its function as
+an illuminating agent at night. The moment
+when the sun and the moon exchange roles in
+the sky finds a frequent echo in the
+inscriptions (e.g., Chassinat 1928: 210, 1.1;
+Altmann-Wendling 2018: 940-948). Invigo-
+ration, the ability to see, and people’s rejoicing
+are the concrete effects of moonlight (e.g.,
+Cauville 1997: 239, 1.4-9; Altmann-Wendling
+2018: 915-918). What the moon illuminates
+(just like what the sun illuminates during the
+day) even serves as a measure of a ruler’s
+territory. The expression “everything the
+moon sees” indicates that the moon’s
+luminosity was interpreted as the celestial
+body’s gaze upon the world (e.g., de
+Rochemonteix and Chassinat 1887 [1984]: 74,
+1.6; Husson 1977: 64, n. 9; 257; Altmann-
+Wendling 2018: 449-450, 933-936; 2021: 235).
+The actual illumination of the moon by
+sunlight would seem to be acknowledged in
+expressions about uniting with the sun, and
+about receiving/capturing, or filling with, light
+(e.g., Chassinat 1932: 293, 1.12-14; and see
+Altmann-Wendling 2018: 947). These
+descriptions might also be purely symbolic or
+refer to the full-moon constellation.
+The moving celestial body
+A prominent aspect of the moon is its clearly
+visible movement, not only within one night,
+but also in a monthly framework. The rising
+of the moon is a particularly imposing
+spectacle on the horizon, and one that makes
+the earth’s satellite appear larger and
+consequently closer by optical illusion. The
+moon is associated with the cardinal direction
+East, which typically marks the place where
+celestial bodies rise, and is especially
+associated with the simultaneous setting of the
+sun at full moon, since the two brightest
+celestial bodies show up (almost) exactly
+opposite each other in the sky at this time. Of
+additional importance anciently, however, was
+the moon’s rise in the West, referring to the
+first crescent visibility. The frequent mention
+of this in Egyptian texts (e.g., Clère 1961: pls.
+13, 17; and see Altmann-Wendling 2018: 897-
+902) makes clear how fervently the moon’s
+reappearance after the invisibility phase was
+longed for—probably since the dark,
+moonless nights had ended, and probably also
+due to the implicit affirmation that the moon
+was not gone forever and the world was
+continuing on its correct course. Therefore,
+the correct timing of the moon’s appearance
+and the absence of irregularity were
+emphasized (e.g., Chassinat 1928: 208, 1.3;
+Altmann-Wendling 2018: 923-929, 958-961).
+References to the hiddenness or mystery of
+the earth’s satellite (e.g., Leitz, Mendel, and
+El-Masri 2010: 554) are indebted, on the one
+hand, to the somber period of its invisibility
+and, on the other hand, to its obscure quality
+as a “shape-shifter” (Altmann-Wendling 2018:
+918-921; 2020). In addition to its daily orbit
+across the firmament, which resembles that of
+the sun and stars, the moon performs a
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 7
+proper motion based on its rotation around
+the earth, a feature that makes it unique. The
+moon rises on average 50 minutes later each
+day, its movement in front of the fixed stars
+being clearly perceptible. Awareness of this
+latter aspect is evident in the Egyptian
+conception of the nocturnal celestial body,
+insofar as the (rapid) traversal of the sky is
+reflected in the discourses on the moon (e.g.,
+Chassinat 1934: 153, 1.1-2; Altmann-
+Wendling 2018: 921-923).
+Anthropomorphism
+In ancient Egypt natural phenomena were
+typically personified by deities represented in
+human form, some examples being the Nile
+flood represented by the god Hapi, the star
+Sirius marking the New Year as the goddess
+Sothis, and the three Egyptian seasons (Baines
+1985; Rickert 2020). Thus anthropomor-
+phized, these deities could be addressed and
+worshipped directly and therefore mastered in
+a cultic way by man (Guglielmi 1974, 1991;
+Baines 1985: 19-30). The moon god Iah is
+similarly featured with a human body with a
+moon disk and crescent on his head, although
+this representation is much rarer than that of
+the lunar disk; rather, this form reflects
+associations with other lunar gods (Khonsu,
+Thoth, Min, Osiris) (Altmann-Wendling 2018:
+706-707). A female moon deity is not known
+pictorially. In certain texts referencing Hathor
+and Isis, a feminine lunar aspect appears only
+in association with (several) other astral
+qualities (e.g., Chassinat 1935: 267, 1.9;
+Altmann-Wendling 2018: 757-767).
+Especially with regard to Osiris, the moon
+appears with the characteristics of a living
+human being who can be bodily injured, even
+fragmented, and who can be involved in
+“human” conflicts: The dismembered and
+reassembled corpse of the god finds its
+counterpart in the celestial body—first, in its
+invisible phase, then in its phases of growing
+“piece by piece” (Altmann-Wendling 2018:
+893-897). Osiris’s resurrection in the afterlife
+corresponds to the once again complete shape
+of the full moon.
+The prevalent Egyptian conceptualization of
+the moon as an eye (the Horus-eye, wedjat-eye,
+or left eye), documented from the earliest
+periods, is based on a similar structural
+correspondence, following the myth of
+Horus, whose eye was injured by his rival Seth
+and subsequently healed by Thoth (Gräßler
+2017: 305-313; Pommerening 2005: 241-244,
+253-257; Stadler 2012: 40-41, 57-62). The
+processes of filling, healing, providing, and
+counting the lunar eye are furthermore closely
+associated with this conceptualization.
+According to another variant of the myth, the
+moon originates from the ejaculate of Horus,
+which is ingested by Seth and emerges from
+his head in the form of a golden disk
+(Servajean 2004). Similarly, the sun and moon
+were interpreted as the right and left eye,
+respectively, of the sun god (Gräßler 2017: 8-
+11, 305, 312-313). Gräßler (2017: 253-256)
+identifies the origin of this interpretation
+mainly in the shining quality of both the
+human eye and celestial bodies. Occasionally
+Osiris is described as being in the eye of the
+moon, and a child is depicted in the pupil of
+the wedjat-eye in a lunar scene in Dendera (fig.
+4) (Cauville 2012: pls. 24-26). The
+representation of the child may be related to
+the identification that existed in some
+cultures, such as the ancient Greek, of the
+iris/pupil with a young girl (Gräßler 2017:
+150-158). In the temple of Edfu the moon is
+associated with the (injured) leg of Osiris,
+from which the moon had come out. The
+basis of this association is probably formed by
+the similarity to the crescent shape, as well as
+the (Ptolemaic and Roman) homophonic
+expressions sebaq “leg” and sebaqet “shining
+(lunar) eye.”
+A significant and long-attested
+anthropomorphizing metaphor is that of the
+moon as a child, as briefly mentioned above,
+whereby the process of lunation is equated
+with the cycle of human life (Altmann-
+Wendling 2018: 897-904). The metaphor is
+mostly applicable to the first crescent after
+invisibility, because this reappearance is also
+understood as the birth of the moon. Its
+conception, on the other hand, was dated on
+the new moon (Clère 1961: pl. 60; Altmann-
+Wendling 2018: 408, 421-424, 902). The child,
+invisible at first in the womb and then
+growing fast within the visibly enlarging belly
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 8
+Figure 4. Representation of the lunar disk enclosing a wedjat-eye, with a child in the pupil. Temple of
+Dendera, ceiling of the pronaos, Roman Period.
+of its mother, can be correlated easily with the
+enlarging illuminated lunar surface. However,
+aging is also part of the lunar cycle: On the
+full moon, the celestial body gains the status
+of “an honorable one”/“one provided for”
+(e.g., de Rochemonteix and Chassinat 1887
+[1984]: 255, 1.12-14), a term used for mature
+people and for the desired state after death
+(Jansen-Winkeln 1996). The moon
+subsequently “grows old,” i.e., during the
+waning phase, and is called the “old man
+rejuvenating” (Chassinat 1935: 135, 1.13-17).
+Therefore, death and rebirth were equally
+important stages during the cycle of lunation.
+Unlike humans, however, the divine moon
+could control aging and even youth itself,
+which was a desirable quality in a culture that
+sought to counter death and decay with
+elaborate rites. Indeed this perpetual cycle of
+life would account for the moon’s mention in
+funerary texts since the Old Kingdom and the
+identification of the deceased with the moon
+since the Middle Kingdom (García Fernández
+2017b: 222-223).
+Zoomorphism
+The conceptualization of the moon as an
+animal is found more often in the texts than
+in the depictions. Among the former stands
+out the description of the moon as a bull,
+perhaps founded in the similarity of the bent
+horns and the crescent moon, as shown in
+Figure 5, one of the (infrequent) depictions.
+Figure 5. The moon as a bull with the lunar disk
+between its horns. Karnak, Gate of (Ptolemy III)
+Euergetes, south-western interior side, Ptolemaic
+Period.
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 9
+The bull played an important role for the
+agro-pastoralist Egyptians and could personify
+gods and the pharaoh (Galán 1994: 96). The
+attribute “blazing” invariably qualifies the
+lunar bull (Ka-pesi) as wild and potent,
+suggesting the mating, fertility, and
+impregnation of cows (e.g., Leitz and Mendel
+2017: 369; Altmann-Wendling 2018: 456-465,
+769-770, 880-884). The association of fertility
+with the moon was universal within Egypt
+because of its monthly growth (Altmann-
+Wendling 2018: 954-955). The moon is
+accompanied by the sun, both shown in
+bovine form, as a designation of the full
+moon, which is referred to as the “union of
+the two bulls” (e.g., Leitz 2001: 259; Altmann-
+Wendling 2018: 442-456). In the waning
+phase, on the other hand, the moon
+transforms into a castrated ox, the absence of
+a “part” thus indicating the lunar disk’s
+diminishment. Other less frequent
+zoomorphic representations of the moon are
+the ibis and baboon, both often associated
+with the god Thoth, to whom these animals
+were sacred; the syncretism between Thoth
+and the god Iah starts only in the 18th Dynasty
+(García Fernández 2017b: 225; Altmann-
+Wendling 2018: 770-773). It is exclusively in
+Greek texts by Plutarch, Horapollon, and
+Clemens of Alexandria that the connection of
+the ibis and baboon with the moon is
+developed in detail (Plutarch, De Iside et Osiride
+75 [381D], trans. Griffiths 1970: 75-76;
+Clemens of Alexandria, Stromateis V.43, 2,
+trans. Stählin 1937: 156; Horapollon,
+Hieroglyphica I.14-15, trans. Thissen 2001: 14-
+16).
+In a rather rare mytheme, the arm of Thoth
+is restituted as the moon; here probably the
+form as well as the color of the (black and)
+white plumage of the ibis acts as tertium
+comparationis (the point in common in which
+two different objects or states of affairs
+coincide) (Quack 1996; Stadler 2009: 331-
+333). There likewise existed a negative lunar
+connection to animals, as was illustrated in the
+mytheme, in the Coffin Texts and later
+sources, that a (black) pig bit off a piece of the
+lunar eye (Leitz 1994: 269-270; el-Huseny
+2006: 240-319; Meeks 2006: 218-219).
+Socio-political conceptualizations of the moon
+The moon god Iah remains clearly secondary
+to the sun god in power and reputation, but
+he is definitely perceived as a ruler in his
+nocturnal sphere of activity: He dominates
+heaven and earth with his light, he is referred
+to as the lord of certain astronomically or
+ritually significant days of the lunar month,
+and he is invoked as a powerful apparition
+(Altmann-Wendling 2018: 962-964).
+Particularly at full moon, the earth’s satellite
+outshines most stars and planets both
+factually and figuratively. Indeed the possibly
+best-known mythological model of legitimate
+succession to power and of overcoming
+hostile and chaotic forces—the installation of
+Horus on the throne of his father, Osiris—is
+often linked to lunar concepts: thus, Horus’s
+healed eye is equated with the (once again full)
+moon, and lunar rituals often invoke the
+desire to be deemed justified (mAa-xrw)
+against enemies (Altmann-Wendling 2018: 59,
+61, 800, 884-892).
+Furthermore, a prominent socio-political
+concept is the role of the moon as a deputy
+of, or spokesperson for, the sun, since the
+moon shines like the sun and is referred to as
+the sun’s companion (literally, “second”)
+(Altmann-Wendling 2018: 940-948; 2021).
+This is particularly true with respect to the full
+moon, which appears from earth in
+approximately the same size and orbit as the
+sun, and which likewise has the ability to
+illuminate the earth. The sun as “father of the
+moon” (e.g., de Rochemonteix and Chassinat
+1887 [1984]: 255, 1.3-6) implies the
+subordinate position and possible succession
+of the earth’s satellite on a genealogical level.
+This concept reflects the structure of the
+Egyptian social and administrative system, in
+which the state leadership and civil service
+had a strictly hierarchical and effective system
+of command and executive power. The
+conceptualization of the sun and moon as
+regent and deputy/successor, respectively,
+was also applied to divine and royal
+legitimation of rule. Thus, the moon god
+Khonsu in Thebes, depicted in the form of a
+child, is the son of the imperial solar deity
+Amun-Ra (see, e.g., Klotz 2012). Amenhotep
+III and Ramesses II at times presented
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 10
+themselves as moon gods in order to
+theologically substantiate their rule and to
+assume for themselves god-like status
+(Altmann-Wendling 2021: 236-237). In
+Tutankhamun’s tomb inventory, lunar
+symbolism plays a significant role, reflecting a
+return to the more traditional view of the
+sun’s journey, including its traversal of the
+netherworld, and thus constituting a departure
+from Akhenaten’s radical new solar religion
+(Haas Dantes 2022: 242-274, 332-370).
+Likewise, the identification with Thoth by
+Horemheb, who was not a member of the
+royal family and who actively participated in
+the restoration efforts of the post-Amarna
+Period, could be representative of (his)
+rightful accession to the previous rulers, who
+were theologically solar dominated (van Dijk
+1996; Altmann-Wendling 2021: 237).
+A socio-cultural aspect is inherent in the
+concept of the moon as a time indicator and
+lord of time, according to the theory of
+“social time.” This concept includes, among
+other things, the emphasis, idealization, and
+sacralization of time cycles and certain points
+in time, as well as the qualitative evaluation of
+time (see, for example, Sorokin and Merton
+1937; Zerubavel 1981; Färber and Gautschy
+eds. 2020: 9-21). In the texts, the moon
+controls, in addition to the units of the lunar
+month, all time units such as hour, day, and
+year, although the latter are rather measured
+by the sun and not the moon (e.g., Davies
+1953: pl. 31; Altmann-Wendling 2018: 923-
+929). Furthermore, the constantly mentioned
+number 30 constitutes an idealized form of
+the lunar month (Altmann-Wendling 2020),
+which fluctuates irregularly between 29 and 30
+days. The moon appearing, disappearing,
+rejuvenating, and repeating its (full) shape at
+the proper time further expresses the
+significance of a regular cycle (Altmann-
+Wendling 2018: 958-961). Overall, the
+worldview thus reflected runs throughout
+Egyptian culture from the daily birth and
+aging of the sun to the cyclical perception of
+the creation of the world (Assmann 1990: 34).
+The moon symbolized the punctuality and
+regularity of astronomical phenomena,
+which—in contrast to earthly events,
+characterized by uncertainty and
+changeability—conveyed to man a sense of
+predictability and permanence through their
+steady course. Especially in view of the desire
+for eternal life in the hereafter, so prevalent in
+ancient Egypt, predictability and permanence
+were of importance, which is why the
+transformation of Osiris (representative of the
+dead) into the moon features prominently in
+afterlife texts since the Middle Kingdom
+(Altmann-Wendling 2018: 681-698).
+Furthermore, the correct course of the
+lunation (in addition to the course of the sun)
+was considered a manifestation of creation as
+well as of the functioning world order, maat.
+To maintain the latter, subdivided by Jan
+Assmann into a private, a public, and a cosmic
+sphere, was the task of the reigning pharaoh
+(Assmann 1990, 2001), who, according to
+ancient Egyptian belief, secured the cosmic
+sphere of maat through knowledge of the
+processes of nature as well as by performing
+certain magical-ritual acts. The moon with its
+properly proceeding shape-shift was thus an
+indicator of a legitimate rule; at the same time,
+with his involvement, the pharaoh could
+participate in the symbolism inherent in the
+celestial body, such as that of rejuvenation
+and permanence (Altmann-Wendling 2018:
+967-969).
+Additional lunar conceptualizations
+A conceptualization whose origin is unclear is
+that of the moon as a pillar. “Rejoicing pillar”
+(Iun-ha’a) is a frequent second name for the
+moon from the Ptolemaic and Roman Periods
+onward (Altmann-Wendling 2018: 877-880)
+and has at times been regarded in Egyptology
+merely as a notational variant and pseudo-
+etymology of the usual term Iah (e.g., Herbin
+1982: 245, n. 2). However, the literal
+translation is quite plausible, as there are also
+designations of “pillar” (Iun) or “pillar of the
+sky” (Iun-en-pet) for the moon (e.g., Clère
+1961: pl. 13). The latter designation may have
+originated in the image of the brightest
+celestial body by night being a symbolical
+“support” of the canopy of heaven, imagined
+in ancient Egypt on four posts (Kurth 2016:
+240-241; Mendel 2022: 145). One text passage
+even seems to indicate that the sun itself was
+leaning on the moon (Sethe 1908 – 1910: 401,
+Conceptualizations of the Moon, Altmann-Wendling, UEE 2024 11
+§732 b-c). Of further consideration is the
+possible association of pillars with beams of
+moonlight (perhaps reflected on the surface
+of the Nile), in parallel to the association of
+sunbeams with solar obelisks. Marguerite
+Morfin (1997: 320-321) suggests that the lunar
+pillar was regarded as a symbol of the
+separation of chaos and cosmos, as well as an
+aid in orientation.
+The moon’s influence on the inundation,
+however, is postulated only by Greek author
+Plutarch (De Iside et Osiride 43 [368B-C]; trans.
+Griffiths 1970: 41-44) and is probably based
+rather on its equation with Osiris, whose
+corporal efflux was interpreted as inundation
+water (Altmann-Wendling 2018: 956-958).
+Bibliographic Notes
+The most relevant comprehensive works on the conceptualization of the moon in ancient Egypt are
+Derchain (1962), García Fernández (2017a, 2017b), and Altmann-Wendling (2018). While the first of
+these can be considered rather eclectic, the latter two complement each other chronologically, as
+García Fernández covers sources up to the New Kingdom and Altmann-Wendling focuses on the
+Late and Ptolemaic and Roman Periods. In accordance with the available sources, García Fernández
+(2017a, 2017b) includes literary, onomastic, and administrative texts in addition to the religious
+funerary sources, while Altmann-Wendling (2018) predominantly comprises temple texts, though
+sepulchral texts as well as iconographic sources are taken into account. The elaboration and
+theoretical underpinnings of the varying motifs and symbolism of the moon are also included in the
+latter work. Individual studies include Labrique (1997, 1998a, 1998b, 2002, 2003a) on the lunar child
+aspect; Degardin (1985, 2001, 2007) on the lunar connection with Osiris; Goyon (1983, 2013, 2015)
+on the lunar bull aspect, including its political implications; Gräßler (2017) on conceptions of the
+moon as an eye; Derchain (1997) on the shape of the moon and its special movement (2010); Morfin
+(1997) on the lunar pillar; and Labrique (2003b) on the moon’s specific movement. The moon’s
+political role and luni-solar symbolism are treated by Haas Dantes (2022) and Altmann-Wendling
