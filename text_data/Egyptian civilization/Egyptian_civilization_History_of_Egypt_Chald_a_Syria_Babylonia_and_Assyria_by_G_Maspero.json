@@ -1,0 +1,26 @@
+{
+  "source": "/Users/habibaadawi/Documents/projects/graduation_project/data_collection-/Books/Egyptian civilization/History of Egypt, Chaldæa, Syria, Babylonia, and Assyria by G. Maspero.txt",
+  "title": "Egyptian civilization_History of Egypt, Chaldæa, Syria, Babylonia, and Assyria by G. Maspero",
+  "total_quality_sentences": 67,
+  "total_paragraphs": 1,
+  "paragraphs": [
+    "The Column of Taharqa, at Karnak, features a mural depicting a lion emerging from its cage. The Battle of Tulliz Khumb-nigash is also represented. A proclamation declares Thumman as king. The head of Thumman was sent to Nineveh. Two Elamite chiefs were flayed alive. In the desert, a prayer is offered after painting by Gerome. An illustrated manuscript in hieroglyphics exists. Decorations on the wrappings of a mummy can be found at the Chieck Beled—Gizeh Museum. People have contributed their time and resources to make this happen."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/Egyptian_civilization_History_of_Egypt_Chald_a_Syria_Babylonia_and_Assyria_by_G_Maspero.json",
+    "processed_timestamp": 1763608613.2084212,
+    "processing_stats": {
+      "total_paragraphs": 2,
+      "successfully_processed": 2,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:03:51.728218",
+    "cleaning_stats": {
+      "original_paragraph_count": 1,
+      "final_paragraph_count": 1,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 1
+    }
+  }
+}
