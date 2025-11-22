@@ -1,0 +1,3316 @@
+[
+    {
+        "id": "vol01_ch001_p1_q001",
+        "question": "ما كان مدى الإمبراطورية الرومانية في عهد الأنطونيين؟",
+        "answer": "شملت الإمبراطورية أجزاء الأرض الأجمل وأكثر أجزاء البشرية تحضراً، مع حدود محروسة بتاريخ مجيد وشجاعة منضبطة.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الوصف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q002",
+        "question": "كم استمرت فترة الإدارة السعيدة تحت حكم نيرفا، تراجان، هادريان، والأنطونيين؟",
+        "answer": "أكثر من ثمانين سنة.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كم-المدة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 3,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q003",
+        "question": "ما كان نهج أغسطس في توسيع الإمبراطورية الرومانية؟",
+        "answer": "تخلى أغسطس عن التصميم الطموح لإخضاع الأرض كلها وأدخل روح الاعتدال في المجالس العامة، مفضلاً تأمين التنازلات من خلال القوة الحكيمة بدلاً من الحروب البعيدة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-النَهج",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q004",
+        "question": "ما هي الحدود الطبيعية التي أوصى بها أغسطس كحدود للإمبراطورية؟",
+        "answer": "المحيط الأطلسي في الغرب؛ نهر الراين والدانوب في الشمال؛ نهر الفرات في الشرق؛ وصحاري الجزيرة العربية وأفريقيا نحو الجنوب.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الحُدود",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q005",
+        "question": "لماذا فشل الغزو الروماني لإثيوبيا والجزيرة العربية السعيدة؟",
+        "answer": "حرارة المناخ صدت الغزاة وحمت السكان غير المحاربين في تلك المناطق المعزولة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "لماذا-السَبب",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 12,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q006",
+        "question": "ما كان الانضمام الرئيسي الوحيد للإمبراطورية الرومانية خلال القرن الأول الميلادي؟",
+        "answer": "مقاطعة بريطانيا.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-الانضِمام",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 2,
+            "has_dates": true,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q007",
+        "question": "كم استغرق الغزو الروماني لبريطانيا؟",
+        "answer": "حوالي أربعين سنة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كم-المدة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 3,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q008",
+        "question": "ما كانت خصائص القبائل البريطانية حسب النص؟",
+        "answer": "امتلكوا شجاعة بدون تنظيم، وحب الحرية بدون روح الاتحاد. حاربوا بشراسة متوحشة ولكن بشكل غير متناسق.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-السِمات",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q009",
+        "question": "ما كانت خطة أغريكولا لأيرلندا ولماذا لم تنفذ؟",
+        "answer": "خطط أغريكولا لغزو أيرلندا بفيلق واحد وقوات مساعدة قليلة، معتقداً أن ذلك سيجعل البريطانيين يتحملون قيودهم بتردد أقل، لكن تفوقه تسبب في إزالته من بريطانيا قبل تنفيذ الخطة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الخُطّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 30,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q010",
+        "question": "ما هي الهيكلية الدفاعية التي أنشأها أغريكولا في بريطانيا وكيف تم تحسينها لاحقاً؟",
+        "answer": "رسم أغريكولا خطاً من المحطات العسكرية عبر حوالي أربعين ميلاً، تم تحصينه لاحقاً تحت حكم أنطونينوس بيوس بسور ترابي أقيم على أساسات حجرية، عرف بسور أنطونينوس.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الهَيكَل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 26,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q011",
+        "question": "لماذا تمكن الكاليدونيون الأصليون من الحفاظ على استقلالهم؟",
+        "answer": "كانوا مدينين لكل من فقرهم وشجاعتهم، واستهان الرومان بتلالهم الكئيبة ومناخهم العاصف ومراعيهم الباردة.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "لماذا-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q012",
+        "question": "كيف اختلف تراجان عن أسلافه المباشرين في السياسة العسكرية؟",
+        "answer": "قاطع تراجان النظام السلمي لأسلافه بمشاهد الحرب والغزو، كونه إمبراطوراً عسكرياً بتعليم جندي ومواهب قائد.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q013",
+        "question": "ما الذي جعل الداقيين خصوماً مهيبين بشكل خاص؟",
+        "answer": "كانوا أكثر الرجال حرباً بقوة وشراسة البرابرة، بالإضافة إلى احتقار الحياة المستمد من اقتناعهم القوي بخلود الروح وتناسخها.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-الصِفات",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q014",
+        "question": "كم استمرت الحرب الداقية وما كانت نتيجتها؟",
+        "answer": "استمرت الحرب خمس سنوات بتعليق قصير جداً للأعمال العدائية وانتهت بالخضوع المطلق للبرابرة وإنشاء مقاطعة داقيا الجديدة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-النَتيجَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q015",
+        "question": "ما أهمية إبحار تراجان في الخليج الفارسي؟",
+        "answer": "كان أول وآخر قائد روماني يبحر في ذلك البحر النائي.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 12,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q016",
+        "question": "ما هو القلق الفلسفي الذي يعبر عنه المؤلف حول المجد العسكري؟",
+        "answer": "يلاحظ المؤلف أنه طالما يمنح البشر إعجاباً أكثر تحرراً للمدمرين من المحسنين، سيبقى عطش المجد العسكري رذيلة لأسمى الشخصيات.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-القَلَق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q017",
+        "question": "ما كان القيد النهائي لفتوحات تراجان الشرقية؟",
+        "answer": "وفاته سرعان ما أظلم الأفق الرائع، وخيف أن الأمم البعيدة ستتخلص من النير غير المعتاد حالما لم تعد مقيدة بيده القوية.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-القَيد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q018",
+        "question": "كيف نظر الأوائل من القياصرة بعد أغسطس إلى الشهرة العسكرية لرعاياهم؟",
+        "answer": "اعتبروا الشهرة العسكرية لرعاياهم تعدياً وقحاً على الامتياز الإمبراطوري وتوقعوا من القادة حراسة الحدود دون الطموح للفتوحات.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-النَظر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q019",
+        "question": "ما العوامل التي حفزت الغزو الروماني لبريطانيا؟",
+        "answer": "القرب من غال، معلومات مشكوك فيها عن صيد اللؤلول جشعتهم، ونظرهم لبريطانيا كعالم منفذ ومعزول.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الدَوافِع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q020",
+        "question": "ما كانت طبيعة الإدارة الإقليمية الرومانية خلال عصر الأنطونيين؟",
+        "answer": "تأثير القوانين والأخلاق اللطيف لكن القوي أسمن تدريجياً اتحاد المقاطعات، مع تمتع السكان المسالمين بمزايا الثروة والترف مع الحفاظ على صورة الدستور الحر.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-الطَبيعَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q021",
+        "question": "ما كان دور مجلس الشيوخ الروماني خلال عصر الأنطونيين؟",
+        "answer": "بدا أن مجلس الشيوخ الروماني يمتلك السلطة السيادية وفوض للأباطرة جميع الصلاحيات التنفيذية للحكومة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-الدَور",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q022",
+        "question": "كيف ضمن أغسطس عودة المعايير والأسرى الرومان من البارثيين؟",
+        "answer": "حصل على إعادتهم بمعاهدة شريفة بدلاً من تعريض شخصه وجحافله لسهام البارثيين.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الطَريقَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q023",
+        "question": "ما كانت التجربة الرومانية مع البرابرة الجرمان؟",
+        "answer": "امتلأت غابات ومستنقعات ألمانيا ببرابرة أقوياء يحتقرون الحياة عندما تنفصل عن الحرية. استسلموا في البداية للقوة الرومانية لكنهم سرعان ما استعادوا الاستقلال من خلال فعل يأس بارز.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَجرِبَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 27,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q024",
+        "question": "لماذا اعتبر أغسطس الحروب البعيدة أقل فائدة لروما؟",
+        "answer": "اكتشف أنه في متابعة الحروب البعيدة، أصبحت المهمة أكثر صعوبة يومياً، والنتيجة أكثر شكاً، والامتلاك أكثر خطورة وأقل فائدة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "لماذا-التَقْيِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 23,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q025",
+        "question": "ما كانت طبيعة الحملات العسكرية الرومانية تحت الجمهورية مقارنة بالإمبراطورية؟",
+        "answer": "تحققت الفتوحات الرئيسية تحت الجمهورية، بينما كان الأباطرة راضين غالباً بالحفاظ على الممتلكات المكتسبة بسياسة مجلس الشيوخ، ومنافسات القناصل، وحماسة الشعب العسكرية.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q026",
+        "question": "كيف حافظ الأوائل من القياصرة بعد أغسطس على امتيازهم الإمبراطوري؟",
+        "answer": "نادراً ما أظهروا أنفسهم للجيوش أو المقاطعات واعتبروا الشهرة العسكرية للرعايا تعدياً وقحاً على الامتياز الإمبراطوري، متوقعين من القادة حراسة الحدود دون فتوحات.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q027",
+        "question": "ما كانت أهمية أغريكولا في غزو بريطانيا؟",
+        "answer": "هزم أغريكولا القوة المجتمعة للكاليدونيين عند سفح تلال جرامبيان، وعرض الأسلحة الرومانية حول الجزيرة كلها بأساطيله، وأنشأ الخط الدفاعي الذي أصبح سور أنطونينوس.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 28,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q028",
+        "question": "ما كان الرأي الروماني تجاه دول أوروبا الشمالية؟",
+        "answer": "بالكاد استحقت نفقة ومشقة الغزو حسب التقييم الروماني.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الرَأي",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 10,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q029",
+        "question": "كيف قارنت الحملة الشرقية لتراجان بحملة الإسكندر؟",
+        "answer": "حزن تراجان أن سنه المتقدم ترك له أمالاً ضئيلة في مساواة شهرة الإسكندر، رغم أن نجاحه كان سريعاً وبراقاً.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q030",
+        "question": "ما كان مصير فتوحات تراجان الشرقية بعد وفاته؟",
+        "answer": "خيف بحق أن الأمم البعيدة ستتخلص من النير غير المعتاد عندما لم تعد مقيدة بيده القوية.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-المَصير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q031",
+        "question": "ما كانت مدة التعاقب السريع لانتصارات روما؟",
+        "answer": "امتلأت القرون السبعة الأولى بتعاقب سريع للانتصارات.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-المُدّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 9,
+            "has_dates": true,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q032",
+        "question": "كيف فشل قادة المقاومة البريطانية ضد روما؟",
+        "answer": "لا صمود كاراكتاكوس، ولا يأس بوديكا، ولا تعصب الدرويديين استطاعوا منع استعباد بلادهم أو مقاومة التقدم الثابت للقادة الإمبراطوريين.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الفَشَل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q033",
+        "question": "ما كان المدى الجغرافي لمقاطعة داقيا الجديدة؟",
+        "answer": "كانت داقيا حوالي ثلاثة عشر مائة ميل في المحيط بحدود طبيعية هي نهر نيستر، تيس/تيبيسكوس، الدانوب السفلي، وبحر اليوكسين.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-المَدى",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q034",
+        "question": "ما كان الموقف الروماني تجاه المناظر الطبيعية الكاليدونية؟",
+        "answer": "استداروا بازدراء من التلال الكئيبة التي تهاجمها عواصف الشتاء، والبحيرات المخبأة في ضباب أزرق، والمراعي الباردة المنعزلة حيث يطارد البرابرة العراة الغزلان.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-المَوقِف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q035",
+        "question": "كيف contrast عهد دوميتيان مع حملات أغريكولا؟",
+        "answer": "بينما شعر دوميتيان بالرعب محصوراً في قصره، هزمت جحافله تحت قيادة أغريكولا الكاليدونيين وعرضت الأسلحة الرومانية حول بريطانيا.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q036",
+        "question": "ما كان دافع تراجان للفتح الشرقي؟",
+        "answer": "كان طموحاً للشهرة ومستلهماً بالمنافسة الخطيرة للإسكندر، التي نقلها الشعراء والمؤرخون.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-الدافِع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q037",
+        "question": "كيف سهل وضع البارثيين نجاح تراجان؟",
+        "answer": "البارثيون المنحطون، المحطمون بالخلاف الداخلي، هربوا أمام أسلحته.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-السُهولَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 12,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q038",
+        "question": "ما كان نطاق إبحار تراجان الشرقي؟",
+        "answer": "نزل نهر دجلة منتصراً من جبال أرمينيا إلى الخليج الفارسي ودمّر سواحل الجزيرة العربية بأساطيله.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-النِطاق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q039",
+        "question": "ما كانت إرث أغسطس فيما يتعلق بالتوسع الإمبراطوري؟",
+        "answer": "أوصى بنصيحة حصر الإمبراطورية ضمن الحدود الطبيعية كمعاقل وحدود دائمة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-الإرث",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 13,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q040",
+        "question": "كيف حافظت الإمبراطورية الرومانية على حدودها قبل تراجان؟",
+        "answer": "من خلال السمعة القديمة، والشجاعة المنضبطة، وتأثير القوانين والأخلاق اللطيف لكن القوي الذي أسمن الاتحاد الإقليمي.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q041",
+        "question": "ما كان تقييم المؤلف العام لمدى الإمبراطورية الرومانية؟",
+        "answer": "شملت أجزاء الأرض الأجمل وأكثر أجزاء البشرية تحضراً، ممثلة الحالة المزدهرة قبل انحدارها وسقوطها اللاحق.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-التَقْيِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q042",
+        "question": "كيف تبنى خلفاء أغسطس المباشرون نظامه المعتدل؟",
+        "answer": "تبنوه من خلال مخاوفهم ورذائلهم بدلاً من الحكمة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَبَنّي",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 10,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q043",
+        "question": "ما كان الفريد في بريطانيا كفتح روماني؟",
+        "answer": "شكلت استثناءً وحيداً لوصية أغسطس خلال القرن المسيحي الأول، حيث نظر إليها كمنطقة متميزة ومعزولة عن الإجراءات القارية.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-الفَريد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": true,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q044",
+        "question": "ما كانت طبيعة الحرب القبلية البريطانية؟",
+        "answer": "رفعوا الأسلحة بشراسة متوحشة لكنهم وضعوها أو حوّلوها ضد بعضهم البعض بتناقض متوحش، محاربين منفردين ليُخضعوا تباعاً.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الطَبيعَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q045",
+        "question": "كيف تطورت المحطات العسكرية لأغريكولا؟",
+        "answer": "أصبحت أساساً للسور الترابي الذي أقيم تحت حكم أنطونينوس بيوس، مؤسساً الحدود الرومانية الدائمة في بريطانيا.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَطَوّر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q046",
+        "question": "ما كانت أهمية ديسيبالوس في الحرب الداقية؟",
+        "answer": "أثبت نفسه منافساً لا يقل عن تراجان ولم ييأس حتى استنفد كل موارد الشجاعة والسياسة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q047",
+        "question": "ما كان دليل الطريق العسكري الروماني في داقيا؟",
+        "answer": "لا يزال يمكن تتبع آثار طريق عسكري من ضفاف الدانوب إلى جوار بندر، الحدود الحديثة للإمبراطوريتين التركية والروسية.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الدَلِيل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q048",
+        "question": "كيف أثرت فتوحات تراجان الشرقية على مجلس الشيوخ الروماني؟",
+        "answer": "كل يوم تلقى مجلس الشيوخ المندهش معلومات عن أسماء وأمم جديدة تعترف بسلطته.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q049",
+        "question": "ما كان الأساس الفلسفي لاحتقار الداقيين للموت؟",
+        "answer": "استمد من اقتناعهم القوي بخلود الروح وتناسخها.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-الأساس",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 11,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q050",
+        "question": "ما كان القيد النهائي للتوسع الإمبراطوري الروماني؟",
+        "answer": "الحدود الطبيعية والاعتبارات العملية للتكلفة مقابل الفائدة حددت التوسع، كما رأينا في اعتدال أغسطس والتخلي عن المناخات المتطرفة.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-القَيد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q051",
+        "question": "ما كانت أهمية الأساطيل الرومانية تحت قيادة أغريكولا؟",
+        "answer": "جازفت باستكشاف ملاحة مجهولة وخطيرة، معرضة الأسلحة الرومانية حول كل جزء من بريطانيا.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q052",
+        "question": "كيف حافظت الإدارة الرومانية على الوحدة الإقليمية؟",
+        "answer": "من خلال تأثير القوانين والأخلاق اللطيف لكن القوي الذي أسمن تدريجياً اتحاد المقاطعات.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q053",
+        "question": "ما كان الموقف الروماني تجاه الثروة والترف في المقاطعات؟",
+        "answer": "تمتع السكان المسالمون وأساءوا استخدام مزايا الثروة والترف.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-المَوقِف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 11,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q054",
+        "question": "كيف أثر وضع أغسطس الشخصي على سياسته الخارجية؟",
+        "answer": "كونه ميالاً للسلام بطبيعته ووضعه، وجد من السهل اكتشاف أن روما لديها ما تخافه أكثر مما تأمله من فرصة السلاح.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q055",
+        "question": "ما كانت الأهمية الاستراتيجية لأيرلندا حسب أغريكولا؟",
+        "answer": "اعتقد أن تقليصها سيجعل البريطانيين يتحملون قيودهم بتردد أقل بإزالة أفق ومثال الحرية من أمام أعينهم.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 23,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q056",
+        "question": "كيف قضى الأباطرة الأوائل بعد أغسطس وقتهم؟",
+        "answer": "منشغلون في متابعة المتعة أو ممارسة الطغيان، نادراً ما أظهروا أنفسهم للجيوش أو المقاطعات.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-القَضاء",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q057",
+        "question": "ما كان الرأي الروماني تجاه الفتوحات تحت حكم الأوائل من القياصرة؟",
+        "answer": "اعتبرت الفتوحات قاتلة محتملة لكل من القائد الذي يقوم بها والبرابرة المهزومين.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الرَأي",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 15,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q058",
+        "question": "كيف أظهر البرابرة الجرمان استقلالهم؟",
+        "answer": "من خلال فعل يأس بارز، استعادوا الاستقلان وذكروا أغسطس بتقلب الحظ.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الإظهار",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 15,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q059",
+        "question": "ما كان التقسيم الجغرافي لبريطانيا الذي لاحظه أغريكولا؟",
+        "answer": "لاحظ أن الجزيرة تنقسم تقريباً إلى جزئين غير متساويين بواسطة خلجان متقابلة، تسمى الآن خلجان اسكتلندا.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q060",
+        "question": "كيف أثرت الحملة الشرقية لتراجان على الممالك المختلفة؟",
+        "answer": "قبل ملوك البوسفور، كولخيس، أيبيريا، ألبانيا، أوسرويني، وحتى بارثيا نفسها التيجان من يديه، بينما التمست القبائل المستقلة حمايته.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q061",
+        "question": "ما كان النهج العسكري الروماني تجاه بريطانيا تحت حكم دوميتيان؟",
+        "answer": "بينما شعر دوميتيان بالرعب في قصره، حافظت جحافله تحت قيادة أغريكولا على المجد الوطني رغم عرش العرش.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-النَهج",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q062",
+        "question": "كيف أثرت تجربة أغسطس على قرارات سياسته؟",
+        "answer": "أضافت تجربته وزناً للتفكيرات المفيدة وأقنعته أن القوة الحكيمة يمكنها تأمين التنازلات الضرورية من البرابرة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q063",
+        "question": "ما كانت طبيعة الحكومة الإقليمية الرومانية خلال هذه الفترة؟",
+        "answer": "حفظت صورة الدستور الحر بتبجيل لائق بينما فوضت الصلاحيات التنفيذية للأباطرة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-الطَبيعَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q064",
+        "question": "كيف حافظ الكاليدونيون على أسلوب حياتهم؟",
+        "answer": "حفظوا الاستقلال المتوحش في شمال بريطانيا من خلال مطاردة الغزلان عبر مراعي باردة منعزلة بالطريقة البربرية التقليدية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q065",
+        "question": "ما كان القيد الشخصي لتراجان في مساواة الإسكندر؟",
+        "answer": "سنه المتقدم ترك له أمالاً ضئيلة في مساواة شهرة الإسكندر، ابن فيليب.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-القَيد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q066",
+        "question": "كيف نظرت الإمبراطورية الرومانية لاحتياجات أمنها؟",
+        "answer": "اعتقدوا أن تأمين التنازلات من خلال القوة الحكيمة كان أسهل من الحروب البعيدة لمتطلبات السلامة أو الكرامة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-النَظر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q067",
+        "question": "ما كان الإمكان الاقتصادي لأيرلندا حسب التقييم الروماني؟",
+        "answer": "قد تتحول الجزيرة الغربية إلى ملكية قيمة تتجاوز أهميتها الاستراتيجية.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الإمكَان",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 13,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "مبتدئ"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q068",
+        "question": "كيف اختلف النهج العسكري الروماني بين الجمهورية والإمبراطورية؟",
+        "answer": "تحت الجمهورية، تحققت الفتوحات من خلال السياسة، المنافسة، والحماسة؛ تحت الإمبراطورية، أصبح الحفظ أساسياً مع استثناءات.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q069",
+        "question": "ما كان الأثر الثقافي للقوانين والأخلاق الرومانية؟",
+        "answer": "أسمنت تدريجياً الاتحاد الإقليمي من خلال تأثير لطيف لكن قوي يتجاوز القوة العسكرية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q070",
+        "question": "كيف أثرت وصية أغسطس على السياسة الإمبراطورية؟",
+        "answer": "أوصت بنصيحة قيمة حول حصر الإمبراطورية ضمن الحدود الطبيعية كحدود دائمة لخلفائه.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q071",
+        "question": "ما كان التقييم الروماني للفتوحات الشرقية تحت حكم تراجان؟",
+        "answer": "رغم كونها سريعة وبراقة، كان النجاح عابراً واعتمد على سلطته الشخصية بدلاً من التوطيد الدائم.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-التَقْيِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q072",
+        "question": "كيف وازن القادة الرومان بين الطموح والسياسة الإمبراطورية؟",
+        "answer": "تعلموا حراسة الحدود الموكلة إليهم دون الطموح لفتوحات قد تثبت قاتلة لهم وللبرابرة على حد سواء.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-المُوازَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q073",
+        "question": "ما كان المنظور الفلسفي للمجد العسكري في النص؟",
+        "answer": "ينتقد tendency البشرية للإعجاب بالمدمرين أكثر من المحسنين، جاعلاً عطش المجد العسكري رذيلة لأسمى الشخصيات.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-المَنظُور",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q074",
+        "question": "كيف تعاملت الإمبراطورية الرومانية مع غزوات البرابرة؟",
+        "answer": "كثيراً ما تم صد الغزوات ومعاقبتها، لكن الإخضاع الكامل لم يطارد دائماً، خاصة في المناطق الأكثر فقراً.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَعامُل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q075",
+        "question": "ما كان التفكير الاستراتيجي وراء سياسة الحدود الرومانية؟",
+        "answer": "فضلوا تأمين التنازلات الضرورية من خلال المشورة الحكيمة بدلاً من الحروب البعيدة المحفوفة بالمخاطر بنتائج مشكوك فيها.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الإستِراتيجيّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q076",
+        "question": "كيف أثرت شخصية الأباطرة الرومان على السياسة العسكرية؟",
+        "answer": "من الحكام الفاضلين والأكفاء إلى الأضعف أو الأكثر رذيلة، أثرت الشخصية الإمبراطورية مباشرة على السلوك العسكري والتوسع.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q077",
+        "question": "ما كانت الأهمية الجغرافية لسور أنطونينوس؟",
+        "answer": "حدد كحد للمقاطعة الرومانية على مسافة صغيرة beyond إدنبرة وغلاسكو الحديثتين، معلماً الحد الشمالي للإمبراطورية.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q078",
+        "question": "كيف ارتبط النجاح العسكري الروماني بالإدارة الإمبراطورية؟",
+        "answer": "يمكن الحفاظ على المجد الوطني من قبل القادة الإمبراطوريين حتى عندما كان العرش ملوثاً بأباطرة ضعفاء أو رذيلاء.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الإرْتِباط",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q079",
+        "question": "ما كان النهج الروماني تجاه تحديات المناخ في التوسع؟",
+        "answer": "اعترفوا بالقيود الطبيعية، كما صدت الحرارة الغزاة في إثيوبيا والجزيرة العربية، بينما اعتبرت مناخات الشمال لا تستحق نفقة الغزو.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-النَهج",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 23,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p1_q080",
+        "question": "كيف وازنت الإمبراطورية الرومانية بين الفتح والتوطيد؟",
+        "answer": "ركزوا على الحفاظ على الممتلكات المكتسبة من خلال القوانين، الأخلاق، والوجود العسكري بدلاً من التوسع المستمر، مع استثناءات قليلة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-المُوازَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines—Part I",
+            "word_count": 23,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q001",
+        "question": "ما كانت التقاليد القديمة المتعلقة بالإله تيرمينوس وماذا كانت تشير؟",
+        "answer": "عند تأسيس الكابيتول، رفض تيرمينوس وحده من بين جميع الآلهة الأدنى التنازل عن مكانه لجوبيتر نفسه، مما فُسِّر كنذير بأن حدود القوة الرومانية لن تتراجع أبداً.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-التَقْلِيد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q002",
+        "question": "ما كان الإجراء الهام الأول لهادران بشأن الفتوحات الشرقية لتراجان؟",
+        "answer": "تنازل عن جميع الفتوحات الشرقية لتراجان، أعاد للبارثيين انتخاب حاكم مستقل، سحب الحاميات الرومانية من مقاطعات أرمينيا وبلاد الرافدين وآشور، وامتثالاً لوصية أغسطس، أعاد تأسيس الفرات كحدود للإمبراطورية.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-الإجْراء",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 34,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q003",
+        "question": "كيف اختلفت شخصية هادريان عن شخصية تراجان؟",
+        "answer": "كان لتراجان روح عسكرية وطموحة شكلت تبايناً فريداً مع اعتدال خلفه. بينما كان هادريان نشطاً لا يهدأ، كان أنطونينوس بيوس هادئاً مستقراً.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q011",
+        "question": "ما الدوافع التي حلت محل الوطنية في الجيش الإمبراطوري؟",
+        "answer": "حل الشرف والدين محل الوطنية، مع أداء الجنود قسمًا بعدم هجر الرايات والتضحية بحياتهم من أجل سلامة الإمبراطور والإمبراطورية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الدَوافِع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q012",
+        "question": "كيف أُجريت التمارين العسكرية الرومانية؟",
+        "answer": "تدرب المجندون والجنود الشباب باستمرار صباحاً ومساءً، ولم يُسمح للقدامى بالتخلف عن التكرار اليومي لما تعلموه، حتى في أحوال الطقس العاصفة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الإجْراء",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q013",
+        "question": "ما كان تكوين الفيالق الإمبراطورية؟",
+        "answer": "تألفت الفيالق من 6100 جندي مشاة ثقيل مقسمين إلى 10 أفواج و55 سرية، بالإضافة إلى 726 فارساً، مما يشكل قوة قتالية متكاملة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَكْوِين",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q014",
+        "question": "ما كانت الأسلحة الرئيسية للجندي في الفيالق؟",
+        "answer": "تضمنت الأسلحة خوذة مفتوحة ذات قمة، درع صدري، واقيات ساق، ترس بيضاوي كبير، رمح خفيف، رمح بيلوم الثقيل، وسيف إسباني قصير ذو حدين.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأَسْلِحَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q015",
+        "question": "كيف اختلفت تكتيكات الفيالق الرومانية عن التكتيكات اليونانية؟",
+        "answer": "استخدم الرومان تشكيلاً مفتوحاً بمسافات تسمح بالمرونة، بينما اعتمد الإغريق على الكتلة المغلقة، مما أعطى الرومان ميزة في المناورة والتكيف.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q001",
+        "question": "ما كان مظهر وتنظيم معسكر الفيالق الرومانية؟",
+        "answer": "كان المعسكر يشبه مدينة محصنة بشكل مربع منتظم، بشوارع عريضة مستقيمة ومقر قيادة مرتفع في الوسط، محاط بسور وخندق.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الوَصْف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q002",
+        "question": "ما سرعة تحرك الفيالق الرومانية في كسر المعسكر والمسير؟",
+        "answer": "كانت الفيالق تتحرك فوراً عند إشارة البوق، وتنظم صفوفها دون تأخير أو ارتباك، وتقطع حوالي 20 ميلاً في 6 ساعات بحملها الكامل.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-السُرْعَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 25,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q003",
+        "question": "ما كان إجمالي القوة العسكرية في عهد هادريان؟",
+        "answer": "بلغت القوة الدائمة 30 فيلقاً مع قواتهم المساعدة، بإجمالي حوالي 375 ألف رجل، موزعين على طول الحدود.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-العَدَد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q004",
+        "question": "كيف وزعت الفيالق على حدود الإمبراطورية؟",
+        "answer": "كانت الفيالق موزعة بشكل استراتيجي: 3 في بريطانيا، 16 على نهر الراين والدانوب، و8 على نهر الفرات، مع فيلق واحد في المناطق الآمنة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَوْزِيع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q005",
+        "question": "ما كان دور الأسطول الروماني؟",
+        "answer": "كان الأسطول كافياً لحماية التجارة والسيطرة على البحر المتوسط، مع أساطيل دائمة في رافينا وميسينوم وقواعد أخرى استراتيجية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الدَّوْر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q006",
+        "question": "كيف قسمت إسبانيا في عهد أغسطس؟",
+        "answer": "قسمت إسبانيا إلى ثلاث مقاطعات: لوسيتانيا (البرتغال حالياً)، بيتيكا (أندلوسيا)، وتاراكونينسيس (بقية إسبانيا).",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q007",
+        "question": "ما الفرق بين غال القديمة وفرنسا الحديثة؟",
+        "answer": "كانت غال القديمة أكثر اتساعاً، شملت فرنسا الحالية بالإضافة إلى سويسرا وسافوي ومناطق أخرى في أوروبا الوسطى.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الفَرْق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q008",
+        "question": "كيف قسمت غال تحت الإدارة الرومانية؟",
+        "answer": "قسمت غال إلى ست مقاطعات: ناربونيز، آكيتين، غال السلتيقية، بلجيكا، وألمانيا العليا والسفلى.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q009",
+        "question": "ما كانت مقاطعة إيليريكوم؟",
+        "answer": "كانت مقاطعات نهر الدانوب التي شكلت الحدود الإيليرية، واعتبرت أكثر مناطق الإمبراطورية حربية وضرورة للدفاع.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-التَعْرِيف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q010",
+        "question": "ما أهمية سوريا في الإمبراطورية الرومانية؟",
+        "answer": "شكلت سوريا الحدود الشرقية للإمبراطورية، وكانت نقطة مواجهة مع القوى الشرقية وممراً حيوياً للتجارة والثقافة.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q011",
+        "question": "كيف قسمت أفريقيا تحت الحكم الروماني؟",
+        "answer": "شملت المقاطعات الأفريقية: أفريقيا الصحيحة حول قرطاج، نوميديا، موريتانيا القيصرية، وموريتانيا الطنجية في المغرب الحالي.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q012",
+        "question": "ما الأبعاد الجغرافية للإمبراطورية الرومانية في أوجها؟",
+        "answer": "امتدت الإمبراطورة أكثر من 2000 ميل عرضاً و3000 ميل طولاً، وشملت حوالي 1.6 مليون ميل مربع من الأراضي الخصبة.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الأبْعاد",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q016",
+        "question": "ما أهمية النسر الذهبي في الفيالق الرومانية؟",
+        "answer": "كان النسر الذهبي رمزاً مقدساً للفيالق، يمثل الشرف والولاء، وكان التخلي عنه في المعركة يعتبر عاراً كبيراً.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q017",
+        "question": "كيف فرض الانضباط العسكري الروماني الطاعة؟",
+        "answer": "استخدم القادة العقوبات البدنية وحتى الإعدام للمخالفين، وتم تدريب الجنود على خوف ضباطهم أكثر من خوف العدو.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الإِنْفاذ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q018",
+        "question": "ما الذي تضمنته التمارين العسكرية الرومانية؟",
+        "answer": "شملت التدريبات المشي والجري والسبابة والسباحة وحمل الأثقال، واستخدام جميع أنواع الأسلحة والتحركات التكتيكية المختلفة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-المَحْتَوَى",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q019",
+        "question": "كيف ساهم الأباطرة شخصياً في التدريب العسكري؟",
+        "answer": "شارك الأباطرة مثل تراجان وهادريان في التدريب شخصياً، وقاموا بتعليم الجنود وتشجيع المتفوقين منهم.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-المُساهَمَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q020",
+        "question": "كيف تطورت الفيالق الرومانية عبر الزمن؟",
+        "answer": "تغيرت الفيالق بشكل كبير على مدى تسعة قرون، من أيام بوليبوس خلال الحروب البونيقية إلى الفيالق الإمبراطورية في عهد هادريان.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَطَوّر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q021",
+        "question": "ما تركيب الفوج الأول في الفيالق؟",
+        "answer": "كان الفوج الأول يضم 1105 من أفضل الجنود شجاعة وولاءً، وكان مسؤولاً عن حماية النسر الذهبي وموقع الشرف.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَرْكِيب",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q022",
+        "question": "كيف استخدم الرومان رمح البيلوم في القتال؟",
+        "answer": "كان البيلوم رمحاً ثقيلاً يُلقى على العدو قبل الالتحام المباشر، ثم يستخدم الجنود سيوفهم في القتال القريب.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الاستِخْدام",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q023",
+        "question": "ما تكوين وتنظيم سلاح الفرسان الروماني؟",
+        "answer": "كان الفرسان مقسمين إلى 10 أسراب، الأول يضم 132 فارساً والأسراب الأخرى 66 فارساً لكل منها، بمجموع 726 فارساً للفيلق.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَكْوِين",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q024",
+        "question": "كيف تغير سلاح الفرسان من العصر الجمهوري إلى الإمبراطوري؟",
+        "answer": "تحول الفرسان من شباب النبلاء الذين يعدون للمناصب السياسية إلى مجندين من نفس طبقات وقوات الفيالق.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَغْيِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q025",
+        "question": "ما الأسلحة الرئيسية لفرسان الرومان؟",
+        "answer": "تضمنت أسلحة الفرسان الخوذة، الترس البيضاوي، الأحذية الخفيفة، درع السلسلة، الرمح، السيف العريض الطويل، والهراوات الحديدية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأَسْلِحَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q026",
+        "question": "ما دور القوات المساعدة في الجيش الروماني؟",
+        "answer": "شكلت القوات المساعدة قوات إضافية من المقاطعات والأم التابعة، وكان عددها غالباً مساوياً لعدد جنود الفيالق.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الدَّوْر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q027",
+        "question": "ما أنواع المدفعية التي امتلكتها الفيالق؟",
+        "answer": "امتلكت الفيالق 10 آلات حصار كبيرة و55 آلة أصغر، كانت تطلق الحجارة والسهام بقوة كبيرة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأَنْواع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q013",
+        "question": "كيف أظهرت المعسكرات الرومانية التنظيم العسكري؟",
+        "answer": "أظهرت المعسكرات الانتظام الكامل مع الشوارع المستقيمة والمحددة بدقة ومواقع محددة لكل وحدة عسكرية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الإظْهار",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 16,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q014",
+        "question": "ما التشكيل القتالي الروماني عند مواجهة العدو؟",
+        "answer": "كان الرماة والمقلاعيون في المقدمة، تليهم القوات المساعدة ثم الفيالق، مع الفرسان على الأجنحة والآلات الحربية في المؤخرة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-التَشْكِيل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q015",
+        "question": "ما كان الحرس البريتوري وأهميته؟",
+        "answer": "كان الحرس البريتوري قوة نخبة لحماية الإمبراطور والعاصمة، لكنه أصبح مصدراً للقلاقل والانقلابات في كثير من الأحيان.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q016",
+        "question": "كيف اختلفت الاستراتيجية البحرية الرومانية عن الدول البحرية القديمة؟",
+        "answer": "ركز الرومان على السيطرة على البحر المتوسط وحماية التجارة، بينما اهتمت الدول الأخرى مثل فينيقيا وقرطاج بالاستكشاف والتوسع البحري.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q017",
+        "question": "ما القواعد البحرية الرئيسية للرومان؟",
+        "answer": "شملت القواعد الرئيسية رافينا على البحر الأدرياتيكي وميسينوم في خليج نابولي، بالإضافة إلى قواعد في فريجوس والبحر الأسود.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-القُعْدات",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q018",
+        "question": "كيف كانت بريطانيا الرومانية مقارنة بالحدود الحديثة؟",
+        "answer": "شملت المقاطعة الرومانية كل إنجلترا وويلز وأجزاء من اسكتلندا، وكانت مقسمة بين حوالي ثلاثين قبيلة قبل الاحتلال الروماني.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q019",
+        "question": "ما المدى الجغرافي لإيطاليا الرومانية؟",
+        "answer": "شملت إيطاليا الرومانية لومبارديا وساحل ليغوريا وإتروريا وأومبريا ولاتيوم وكامبانيا، بالإضافة إلى المستعمرات اليونانية.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-المَدى",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q020",
+        "question": "ما أهمية نهر الدانوب في الجغرافيا الرومانية؟",
+        "answer": "شكل نهر الدانوب حدوداً طبيعية حيوية للإمبراطورية، حيث امتد لأكثر من 1300 ميل وحمى المقاطعات الأوروبية.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q021",
+        "question": "كيف نظمت منطقة البلقان تحت الإدارة الرومانية؟",
+        "answer": "شكلت مقاطعات إيليريكوم التي شملت رائيتيا ونوريكوم وبانونيا ودالماتيا وداكيا وتراقيا ومقدونيا واليونان.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "كيف-التَنْظِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q022",
+        "question": "كيف قسمت آسيا الصغرى تحت الحكم الروماني؟",
+        "answer": "شملت التقسيمات آسيا الصحيحة غرب جبال طوروس، بيثينيا وبونتوس على الساحل الشمالي، كيليكيا جنوباً، وكبادوكيا في الداخل.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "كيف-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q023",
+        "question": "ما الموقع الفريد لمصر جغرافيا؟",
+        "answer": "تقع مصر في شبه جزيرة أفريقيا لكنها متصلة بآسيا، ويعتمد خصوبها على فيضان نهر النيل الذي يمتد لأكثر من 500 ميل.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-المَوْقِع",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q024",
+        "question": "كيف قسمت شمال أفريقيا تحت الحكم الروماني؟",
+        "answer": "شملت المقاطعات القورينية وأفريقيا الصحيحة حول قرطاج ونوميديا وموريتانيا القيصرية والطنجية في المغرب.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "كيف-التَقْسِيم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q025",
+        "question": "ما الجزر الرئيسية في البحر المتوسط التي سيطر عليها الرومان؟",
+        "answer": "شملت الجزر البليار وصقلية وسردينيا وكريت وقبرص ومعظم جزر اليونان وآسيا الصغرى، بالإضافة إلى مالطا.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-الجُزُر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q028",
+        "question": "ما العوامل النفسية التي حفزت الجنود الرومان beyond المكافآت المادية؟",
+        "answer": "إلى جانب الأجر والمكافآت، حفز الجنود بالشرف والتفاني الديني للرايات والاعتقاد بأن المهنة العسكرية أكثر كرامة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-العَوامِل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q029",
+        "question": "كيف تناول التدريب العسكري الروماني سيناريوهات القتال المختلفة؟",
+        "answer": "غطى التدريب الاشتباك عن بعد والقتال القريب، مع تعلم الجنود استخدام جميع أنواع الأسلحة والتطورات التكتيكية المتنوعة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَناوُل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q030",
+        "question": "ما الغرض التكتيكي للرقصة الحربية في التدريب الروماني؟",
+        "answer": "درّبت الرقصة الحربية الجنود على التحرك في تشكيلات منسقة مع صوت المزامير، مما طور التناسق في الحركات وتماسك الوحدة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الغَرَض",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q031",
+        "question": "كيف ضمن التنظيم العسكري الروماني القدرة القتالية الشاملة؟",
+        "answer": "بدمج الفيالق مع القوات المساعدة المخصصة، احتوت كل قوة على جميع أنواع القوات والأسلحة اللازمة لمواجهة أي عدو.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الضَمان",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p2_q032",
+        "question": "ما أهمية تركيز الرومان على مجندي الشمال؟",
+        "answer": "يعكس تفضيل مناخات الشمال الاعتقاد بأن الأعراق الشمالية القوية والمهن الخارجية تنتج جنوداً أكثر حيوية من المناطق الجنوبية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q026",
+        "question": "كيف دعمت اللوجستيات الرومانية rapid deployment؟",
+        "answer": "حمل الجنود معدات المطبخ وأدوات التحصين ومؤن عدة أيام أثناء مسيرهم 20 ميلاً في 6 ساعات، مما مكن من الاستجابة السريعة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الدَّعْم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q027",
+        "question": "ما المنطق الاستراتيجي وراء نشر فيلق واحد فقط في المقاطعات الآمنة؟",
+        "answer": "أظهرت الفيالق المفردة في مصر وأفريقيا وإسبانيا التخصيص الفعال للموارد، والحفاظ على الأمن الداخلي دون إنفاق عسكري غير ضروري.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-المَنْطِق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q028",
+        "question": "كيف اختلفت الاستراتيجية البحرية الرومانية عن نهجهم البري؟",
+        "answer": "بينما كانوا طموحين على البر، كان الرومان محافظين في البحر، مستخدمين الأسطول فقط للسيطرة على المتوسط وحماية التجارة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q029",
+        "question": "ما المعالم الجغرافية التي حددت حدود المقاطعات الرومانية في أوروبا؟",
+        "answer": "حددت المعالم الطبيعية مثل جبال البرانس والألب ونهر الراين والدانوب والمحيط الأطلسي حدود المقاطعات.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-المَعالِم",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q030",
+        "question": "كيف حافظت الإدارة الرومانية على الهويات الإقليمية مع الحفاظ على الوحدة الإمبراطورية؟",
+        "answer": "بتنظيم المقاطعات حسب الحدود الطبيعية والتمييزات القومية التاريخية، احترم الرومان الخصائص الإقليمية مع فرض إدارة إمبراطورية موحدة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q031",
+        "question": "ما الأهمية الاقتصادية للسيطرة على البحر المتوسط للإمبراطورية الرومانية؟",
+        "answer": "حمت السيطرة على المتوسط طرق التجارة البحرية الحيوية، ومكّنت من حركة القوات بكفاءة، وضمنت الازدهار الاقتصادي عبر التجارة البحرية المنظمة.",
+        "metadata": {
+            "category": "اقتصادي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q032",
+        "question": "كيف تطورت التكنولوجيا العسكرية الرومانية لمواجهة أنواع الأعداء المختلفة؟",
+        "answer": "طورت الفيالق معدات وتكتيكات متعددة الاستخدامات فعالة ضد كل من فرسان الشرق المدرعين والبرابرة الغربيين بأساليب قتال مختلفة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَطَوّر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q033",
+        "question": "ما الأهمية الثقافية لضم الأراضي اليونانية إلى روما؟",
+        "answer": "أظهر دمج الجمهوريات اليونانية الخالدة في مقاطعة واحدة الثقة الثقافية الرومانية مع الحفاظ على التأثير الفكري والفني اليوناني داخل الإمبراطورية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q034",
+        "question": "كيف أظهرت إدارة الحدود الرومانية التبصر الاستراتيجي؟",
+        "answer": "وفرت المعسكرات الدائمة للفيالق على طول الحدود الطبيعية إنذاراً مبكراً وقدرة على الاستجابة السريعة وأظهرت القوة الرومانية للأمم المجاورة باستمرار.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الإظْهار",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q035",
+        "question": "ما الأساس الفلسفي لاعتدال الجيش الروماني under Hadrian and Antonines؟",
+        "answer": "نبع اعتدالهم من الفهم الفلسفي أن القوة الحقيقية تكمن في الحفاظ على العدالة والنظام بدلاً من الفتح اللامتناهي، متبعين حكمة أغسطس.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-الأساس",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q036",
+        "question": "كيف خلق الانضباط العسكري الروماني ميزة نفسية؟",
+        "answer": "خلق نظام التدريب المستمر والعقاب الشديد جنوداً يخافون ضباطهم أكثر من العدو، منتجاً انضباطاً وموثوقية لا مثيل لهما في ساحة المعركة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الخَلْق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q037",
+        "question": "ما الأثر الديموغرافي لسياسات التجنيد العسكري الرومانية؟",
+        "answer": "خلق تفضيل مجندي الشمال وسكان الريف ديموغرافية عسكرية متميزة عن عموم السكان، باختيار متعمد للحيوية البدنية والروح القتالية.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-الأثَر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q038",
+        "question": "كيف عززت مهارات الهندسة الرومانية الفعالية العسكرية؟",
+        "answer": "مكنت كفاءة الجيوش مع المجرفة والعتلة من البناء السريع للمعسكرات المحصنة وأعمال الحصار التي ضاعفت الفعالية العسكرية.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَعْزِيز",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q039",
+        "question": "ما الأهمية الاستراتيجية لحدود نهر الفرات؟",
+        "answer": "مثل الفرات الحد الإمبراطوري الشرقي، المحروس بثمانية فيالق ضد التهديد البارثي، مما جعله ثاني أكثر الحدود دفاعاً بعد الراين-الدانوب.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q040",
+        "question": "كيف عكس التنظيم العسكري الروماني التسلسل الهرمي الاجتماعي؟",
+        "answer": "بينما جاء الجنود العاديون من الطبقات الدنيا، حافظ الضباط على النسب الرفيع والتعليم، محافظين على التمييز الاجتماعي داخل الهيكل العسكري.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "كيف-العَكْس",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q041",
+        "question": "ما الأهمية الثقافية لتسامح الرومان مع تنوع القوات المساعدة؟",
+        "answer": "أظهر دمج مختلف القوات البربرية كمساعدين المرونة العملية الرومانية مع الحفاظ على نواة الفيالق كتجسيد للفضيلة العسكرية الرومانية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q042",
+        "question": "كيف ساهم النجاح العسكري الروماني في الاستقرار السياسي؟",
+        "answer": "ردعت المنظمة العسكرية الفعالة والقوة الحدودية المرئية التهديدات الخارجية والتمردات الداخلية، مخلقة الاستقرار السياسي الذي ميز العصر الذهبي الأنطوني.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-المُساهَمَة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q043",
+        "question": "ما المنطق الجغرافي وراء مواقع عواصم المقاطعات الرومانية؟",
+        "answer": "وضعت العواصم مثل طراغونة وليون وناربون في مراكز اتصال استراتيجية، عاكسة الفهم الروماني للمزايا الجغرافية للإدارة.",
+        "metadata": {
+            "category": "جغرافي",
+            "question_type": "ما-المَنْطِق",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q044",
+        "question": "كيف حافظ الابتكار العسكري الروماني على التفوق التكتيكي؟",
+        "answer": "ضمن التطور التكتيكي المستمر على مدى تسعة قرون بقاء الأساليب العسكرية الرومانية متفوقة على جميع القوى المعاصرة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-الحِفاظ",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q045",
+        "question": "ما الأساس الاقتصادي للإنفاق العسكري الروماني؟",
+        "answer": "وفرت الأراضي الخصبة الشاسعة للإمبراطورية ونظام الضرائب الفعال الأساس الاقتصادي لدعم المؤسسة العسكرية الهائلة البالغة 450 ألف رجل.",
+        "metadata": {
+            "category": "اقتصادي",
+            "question_type": "ما-الأساس",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q046",
+        "question": "كيف سهل التنظيم العسكري الروماني الإدارة الإمبراطورية؟",
+        "answer": "خدمت معسكرات الفيالق الدائمة على طول الحدود كمراكز إدارية وقواعد عسكرية ورموز للقوة الرومانية، مدمجة السيطرة العسكرية والمدنية في المناطق الحدودية.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَسْهِيل",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q047",
+        "question": "ما الأثر الثقافي للتقييس العسكري الروماني؟",
+        "answer": "خلقت المعدات الموحدة وطرق التدريب والأنظمة التكتيكية عبر الإمبراطورية ثقافة عسكرية مشتركة عززت الهوية الرومانية بين السكان الإقليميين المتنوعين.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-الأثَر",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q048",
+        "question": "كيف أثر الفهم الجغرافي الروماني على النشر العسكري؟",
+        "answer": "عكس التوظيف الاستراتيجي للفيالق المعرفة الجغرافية المتطورة، باستخدام الحواجز الطبيعية وطرق الاتصال لتعظيم كفاءة الدفاع وقدرة الاستجابة السريعة.",
+        "metadata": {
+            "category": "عسكري",
+            "question_type": "كيف-التَأثِير",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q049",
+        "question": "ما الأهمية الفلسفية لسياسة حدود هادريان؟",
+        "answer": "مثل إنشاء هادريان للحدود الثابتة القبول الفلسفي للحدود الطبيعية ورفض التوسع اللامتناهي، مقدماً التوطيد على الفتح.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch001_p3_q050",
+        "question": "كيف أظهر النجاح العسكري في العصر الأنطوني نضج الإمبراطورية؟",
+        "answer": "أظهرت القدرة على الحفاظ على السلام العالمي عبر القوة العسكرية المثبتة دون حرب مستمرة نضجاً إمبراطورياً وفهماً متطوراً لإسقاط القوة.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كيف-الإظْهار",
+            "volume": 1,
+            "chapter_number": 1,
+            "chapter_title": "The Extent Of The Empire In The Age Of The Antonines.—Part III",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q043",
+        "question": "ما القيود التي واجهها المعتقون في المجتمع الروماني؟",
+        "answer": "حصل المعتقون على حقوق المواطنين الخاصة فقط واستُبعدوا تماماً من المناصب المدنية والعسكرية، مع ضرورة مرور ثلاثة أو أربعة أجيال لمحو آثار الأصل العبودي.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-القُيود",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 24,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q044",
+        "question": "لماذا رُفض تمييز العبيد بالملابس الخاصة؟",
+        "answer": "رُفض تمييز العبيد بملابس خاصة بسبب الخطر الناتج عن تعريفهم بأعدادهم وإمكانية تنبيههم للوعي الجماعي.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "لماذا-الرَّفْض",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q045",
+        "question": "كيف قارنت أعداد العبيد مع السكان الأحرار؟",
+        "answer": "كان العبيد الذين قُدّروا كملكية أكثر عدداً من الخدم الذين حُسبوا كتكلفة، وكان العبيد على الأقل مساوين في العدد لسكان العالم الروماني الأحرار.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 23,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q046",
+        "question": "ما الذي حدد سعر العبيد المتعلمين؟",
+        "answer": "حدد سعر الشباب ذوي المواهب الواعدة المتعلمين في الفنون والعلوم حسب درجة مهاراتهم ومواهبهم، مما يعكس مستواهم التعليمي.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-التَحْديد",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q047",
+        "question": "ما المهن التي وجدت في منازل الأثرياء الرومان؟",
+        "answer": "وجدت تقريباً كل المهن الحرة والميكانيكية في منازل أعضاء مجلس الشيوخ الأثرياء، مع مضاعفة خدم البهرجة والملذات بما يفوق تصور الرفاهية الحديثة.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-المِهَن",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q048",
+        "question": "لماذا فضل التجار شراء العمال بدلاً من استئجارهم؟",
+        "answer": "وجد التجار والصناع شراء العمال أكثر فائدة من استئجارهم، بينما خدم العبيد في الريف كأرخص وأكثر أدوات الزراعة كداً.",
+        "metadata": {
+            "category": "اقتصادي",
+            "question_type": "لماذا-التَفْضِيل",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q049",
+        "question": "ما الدليل على أعداد العبيد الرومان؟",
+        "answer": "حافظت القصور الرومانية المفردة على أربعمائة عبد، وامتلكت الأرامل الأفريقيات أعداداً مماثلة، وامتلك معتق أوغسطس أربعة آلاف ومائة وستة عشر عبداً ضمن حيازات الماشية الواسعة.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-الدَلِيل",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q050",
+        "question": "ما كان عدد المواطنين الرومان في عهد الإمبراطور كلوديوس؟",
+        "answer": "عد إحصاء كلوديوس ستة ملايين وتسعمائة وخمسة وأربعين ألف مواطن روماني، ومع نسبة النساء والأطفال، بلغوا حوالي عشرين مليون نسمة.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-العَدَد",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q051",
+        "question": "كيف قارنت أعداد سكان المقاطعات مع المواطنين الرومان؟",
+        "answer": "كان سكان المقاطعات حوالي ضعف عدد المواطنين من كلا الجنسين وكل الأعمار، مشكلين أغلبية كبيرة ضمن الهيكل السكاني الإمبراطوري.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q052",
+        "question": "ما كان إجمالي عدد سكان الإمبراطورية الرومانية المُقدر؟",
+        "answer": "بلغ إجمالي السكان الإمبراطوريين حوالي مائة وعشرين مليون نسمة، وهو ما قد يتجاوز أوروبا الحديثة ويكون أكبر مجتمع في التاريخ تحت نظام حكومي واحد.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-التَقْدِير",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q053",
+        "question": "كيف قارن التسامح الديني الروماني بالمعايير الحديثة؟",
+        "answer": "أنتج التسامح الديني الروماني تساهلاً متبادلاً وانسجاماً دون حقد لاهوتي، مقبولاً جميع أشكال العبادة كمتساوية في الفائدة للتناغم الاجتماعي.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "كيف-المُقارَنَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q054",
+        "question": "ما كانت نظرة الفلاسفة للطقوس الدينية؟",
+        "answer": "مارس الفلاسفة طقوس الأجداد باجتهاد بينما نظروا إليها كعادات اجتماعية ضرورية بدلاً من كونها التزامات روحية حقيقية.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-النَّظْرَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q055",
+        "question": "كيف عززت سياسة المواطنة الرومانية الاستقرار الإمبراطوري؟",
+        "answer": "ربط توسيع المواطنة للمستحقين من سكان المقاطعات طموحهم بسلامة الدولة وعظمتها بدلاً من السماح بتطلعات مدمرة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-التَعْزِيز",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q056",
+        "question": "ما كان الأساس الاقتصادي للمجتمع الروماني العبودي؟",
+        "answer": "اعتمد الاقتصاد العبودي على اكتساب الأسرى والتكاثر المحلي، مع خدمة العبيد كاستثمارات ملكية بدلاً من حسابات تكلفة.",
+        "metadata": {
+            "category": "اقتصادي",
+            "question_type": "ما-الأساس",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q057",
+        "question": "كيف خدم توحيد اللغة الإدارة الرومانية؟",
+        "answer": "سهل انتشار اللاتينية الوحدة الإمبراطورية بخلق لغة إدارية مشتركة بينما خدمت اليونانية الأغراض الفكرية، مكنة حوكمة فعالة عبر الأراضي المتنوعة.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الخِدْمَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q058",
+        "question": "ما كان إمكانية الحراك الاجتماعي في المجتمع الروماني؟",
+        "answer": "قدم المجتمع الروماني آفاقاً بعيدة للحرية والأوسمة حتى للعبيد، مع إمكانية التقدم عبر الجدارة عبر الأجيال رغم تمييزات الرتبة.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-الإمْكَانِيّة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q059",
+        "question": "كيف اختلف التكامل الثقافي الروماني عن النهج اليوناني؟",
+        "answer": "دمج الرومان بنشاط الشعوب المقهورة عبر المواطنة واللاتينية، بينما حافظ الإغريق على التفوق الثقافي والانفصال اللغوي عن الغزاة.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "كيف-اختَلَف",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q060",
+        "question": "ما الذي جعل إدارة السكان الرومان ذات أهمية تاريخية؟",
+        "answer": "مثلت إدارة مائة وعشرين مليون نسمة تحت نظام حكومي واحد إنجازاً ديموغرافياً غير مسبوق، مخلقة أكبر مجتمع موحد في التاريخ.",
+        "metadata": {
+            "category": "تاريخي",
+            "question_type": "ما-الأهميّة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q011",
+        "question": "ما الذي ميز التسامح الديني في الإمبراطورية الرومانية؟",
+        "answer": "أنتج التسامح الديني تساهلاً متبادلاً وانسجاماً دينياً، مع خلو معتقدات الناس من الحقد اللاهوتي وعدم تقييدها بأنظمة نظرية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-التَّمْيِيز",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q012",
+        "question": "كيف نظر الرومان إلى آلهة الأراضي المفتوحة؟",
+        "answer": "احترم الرومان الآلهة المحلية وتأثيرها، ولم يسخروا أبداً من الأجانب الذين قدموا قرابين لآلهتهم الأصلية مثل روح النيل الخيرة.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "كيف-النَّظْر",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q013",
+        "question": "ما كان موقف القدماء من الاختلافات الدينية؟",
+        "answer": "كانت الأمم القديمة أقل اهتماماً بالاختلافات الدينية من أوجه التشابه، معتقدين بسهولة أنهم يعبدون نفس الآلهة تحت أسماء وطقوس مختلفة.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-المَوْقِف",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q014",
+        "question": "كيف تعاملت المدارس الفلسفية الأربع الرئيسية مع الدين؟",
+        "answer": "حاول الرواقيون والأفلاطونيون التوفيق بين العقل والتقوى، بينما شك الأكاديميون وأنكر الأبيقوريون العناية الإلهية، ورفض الجميع دين العامة.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "كيف-التَّعَامُل",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q015",
+        "question": "لماذا لم يستطع الفلاسفة قبول الحكايات الدينية الشائعة؟",
+        "answer": "وجد الفلاسفة من المستحيل قبول حكايات الشعراء السخيفة وتقاليد القدماء غير المترابطة كحقائق إلهية، أو عبادة كائنات ناقصة كانوا يحتقرونها كبشر.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "لِمَاذا-السَّبَب",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q016",
+        "question": "كيف هاجم شيشرون ولوسيان الدين التقليدي؟",
+        "answer": "استخدم شيشرون المنطق والبلاغة بينما استخدم لوسيان السخرية، مما يعكس الاحتقار السري للآلهة بين أفراد المجتمع المتنورين.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "كيف-الهَجْمُ",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 18,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q017",
+        "question": "ما كان النهج العملي للفلاسفة تجاه الدين؟",
+        "answer": "أكد الفلاسفة على كرامة العقل لكنهم اتبعوا القانون والعرف، ومارسوا طقوس الأجداد بينما أخفوا مشاعر الإلحاد تحت الأردية الكهنوتية.",
+        "metadata": {
+            "category": "فلسفي",
+            "question_type": "ما-النَّهْج",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متقدم"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q018",
+        "question": "لماذا لم يكن القضاة الرومان مضطهدين دينيين؟",
+        "answer": "كان القضاة فلاسفة بأنفسهم وامتلكوا سلطات زمنية وكنسية موحدة، ويفهمون مزايا الدين للحكومة المدنية.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "لِمَاذا-السَّبَب",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q019",
+        "question": "كيف استخدم الرومان الدين للسيطرة الاجتماعية؟",
+        "answer": "أداروا فنون العرافة كأدوات سياسية واحترموا الاعتقاد في العقاب الإلهي للقسم الكاذب كأقوى رابطة اجتماعية.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الاستِخْدام",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 17,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q020",
+        "question": "ما كانت سياسة روما تجاه الأديان الأصلية؟",
+        "answer": "تمتعت الأمم المفتوحة بشكل موحد بالتساهل والحماية في ممارسة أديانها الأصلية، رغم نهب تماثيل آلهتها وزينة معابدها غالباً.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-السِّيَاسَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q021",
+        "question": "كيف عومل الدرويد تحت الحكم الروماني؟",
+        "answer": "قمع الأباطرة طيباريوس وكلوديوس قوة الدرويد الخطرة تحت ذريعة إلغاء التضحيات البشرية، لكن الكهنة أنفسهم وآلهتهم ومذابحهم بقوا في غموض سلمي.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-المُعَامَلَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p1_q022",
+        "question": "ما كان نهج روما تجاه تدفق الأديان الأجنبية؟",
+        "answer": "بينما منعت الطقوس الأجنبية أحياناً، أصبحت روما تدريجياً المعبد المشترك للبشرية، مانحة حرية المدينة لجميع آلهة البشر ومرحبة بالآلهة الأجنبية.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-النَّهْج",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part I",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q011",
+        "question": "ما الذي ميز إيطاليا عن المقاطعات في الإمبراطورية؟",
+        "answer": "كانت إيطاليا تعتبر مركز الوحدة العامة وأساس الدستور المتين، مع إعفاءات ضريبية وتنفيذ مباشر للقوانين تحت عين السلطة العليا.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "ما-التَّمْيِيز",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q012",
+        "question": "كيف حصل سكان إيطاليا على المواطنة الرومانية؟",
+        "answer": "ولد جميع السكان الأصليين من جبال الألب إلى كالابريا مواطنين رومانيين، متحدين في أمة واحدة باللغة والعادات والمؤسسات المدنية.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-الحُصُول",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q013",
+        "question": "ما الفوائد التي وفرتها المواطنة الرومانية لسكان المقاطعات؟",
+        "answer": "وفرت المواطنة فوائد القانون الروماني خاصة في الزواج والوصايا والميراث، وفتحت طريق الثروة لمن لديهم حظوة أو جدارة.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-الفَوَائِد",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q014",
+        "question": "كيف ساهم طموح سكان المقاطعات في استقرار روما؟",
+        "answer": "ارتبط طموح سكان المقاطعات ارتباطاً وثيقاً بسلامة الدولة وعظمتها بدلاً من إثارة الاضطرابات، حيث قادوا الجحافل وحكموا المقاطعات.",
+        "metadata": {
+            "category": "سياسي",
+            "question_type": "كيف-المُسَاهَمَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q015",
+        "question": "ما كان مدى التأثير الثقافي اليوناني؟",
+        "answer": "امتد التأثير اليوناني من البحر الأدرياتيكي إلى الفرات والنيل عبر المستعمرات والفتوحات، مع مدن يونانية تغطي آسيا وملوك مقدونيين يحدثون ثورة في سوريا ومصر.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "ما-المَدَى",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 22,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": true,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q016",
+        "question": "كيف استخدمت اللغتان اللاتينية واليونانية في الإدارة؟",
+        "answer": "خدمت اللاتينية كلهجة قانونية للمعاملات العامة بينما بقيت اليونانية لغة العلم الطبيعية، مع إلمام الرومان المتعلمين باللغتين.",
+        "metadata": {
+            "category": "ثقافي",
+            "question_type": "كيف-الاستِخْدام",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q017",
+        "question": "ما كانت حالة العبيد في المجتمع الروماني؟",
+        "answer": "تحمل العبيد وطأة المجتمع دون مشاركة فوائده، وكان معظمهم من الأسرى البرابرة المعتادين على الاستقلال وغير الصبورين على العبودية.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-الحَالَة",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 19,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q018",
+        "question": "كيف تطور معاملة العبيد تحت حكم الأباطرة؟",
+        "answer": "تطورت المعاملة من أنظمة صارمة إلى طرق ألطف تشمل زواج العبيد، مع تشجيع إنسانية السادة بالمصلحة الذاتية بدلاً من الخوف.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "كيف-التَّطَوُّر",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q019",
+        "question": "ما الإصلاحات التي نفذها هادريان والأنطونيون للعبيد؟",
+        "answer": "وسعوا الحماية القانونية للعبيد، واقتصروا سلطة الحياة والموت على القضاة فقط، وسمحوا للعبيد بالحصول على الحرية أو أسياد أفضل.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "ما-الإصْلَاحَات",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 21,
+            "has_dates": false,
+            "has_people": true,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    },
+    {
+        "id": "vol01_ch002_p2_q020",
+        "question": "كيف يمكن للعبيد الحصول على الحرية في المجتمع الروماني؟",
+        "answer": "يمكن للعبيد توقع الحرية بعد تقديم خدمة مفيدة أو مرضية لسنوات، مع مكافأة الاجتهاد والإخلاص بهبة الحرية الثمينة.",
+        "metadata": {
+            "category": "اجتماعي",
+            "question_type": "كيف-الحُصُول",
+            "volume": 1,
+            "chapter_number": 2,
+            "chapter_title": "The Internal Prosperity In The Age Of The Antonines.—Part II",
+            "word_count": 20,
+            "has_dates": false,
+            "has_people": false,
+            "has_places": false,
+            "difficulty": "متوسط"
+        }
+    }
+]
