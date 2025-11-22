@@ -1,0 +1,26 @@
+{
+  "source": "/Users/habibaadawi/Documents/projects/graduation_project/books/rome_civilization/The_Odes_of_Horace.txt",
+  "title": "rome_civilization_The_Odes_of_Horace",
+  "total_quality_sentences": 878,
+  "total_paragraphs": 1,
+  "paragraphs": [
+    "It exists due to the efforts of hundreds of volunteers and donations from people in all walks of life. To send donations or determine the status of compliance for a specific state visit, please visit our website. We do not solicit contributions from states where we have not met the solicitation requirements. However, we are open to accepting unsolicited donations from individuals in those states who wish to support us and approach us with offers to donate."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Roma Civilization/rome_civilization_wars_philosophical/rome_civilization_The_Odes_of_Horace.json",
+    "processed_timestamp": 1763743028.183098,
+    "processing_stats": {
+      "total_paragraphs": 1,
+      "successfully_processed": 1,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:03:58.799346",
+    "cleaning_stats": {
+      "original_paragraph_count": 1,
+      "final_paragraph_count": 1,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 0
+    }
+  }
+}
