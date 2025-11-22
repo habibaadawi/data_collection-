@@ -1,0 +1,3227 @@
+[
+  {
+    "id": 1,
+    "question": "Who were the Three August Ones in Chinese traditional history?",
+    "answer": "The Three August Ones were Suiren, the inventor of fire; Fuxi, the tamer of beasts; and Shennong, the creator of agriculture.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 2,
+    "question": "What was the Yellow Thearch known for accomplishing?",
+    "answer": "The Yellow Thearch first suppressed various competitors for power, and then having brought peace to the realm established norms of government for it.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Achievements",
+      "book_title": "Ancient Chinese History",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 3,
+    "question": "Why was Thearch Ku considered especially notable?",
+    "answer": "Thearch Ku was especially notable for having had four principal wives, with each of whom he is said to have sired a son who would eventually become the high ancestor of one of China's early realms.",
+    "metadata": {
+      "category": "Social History",
+      "question_type": "Family Relations",
+      "book_title": "Ancient Chinese History",
+      "word_count": 38,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 4,
+    "question": "What astronomical accomplishment is attributed to Yao's reign?",
+    "answer": "Yao deputed four brothers of the Xi and He families to use the stars to determine the astronomical equinoxes and solstices and to establish a 366-day year.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Scientific Achievements",
+      "book_title": "Ancient Chinese History",
+      "word_count": 26,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 5,
+    "question": "How long did Yao rule according to the Canon of Yao?",
+    "answer": "According to the Canon of Yao, after the calendar was established, Yao ruled for the next seventy years.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Duration",
+      "book_title": "Ancient Chinese History",
+      "word_count": 18,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 6,
+    "question": "Why did Yao choose Shun as his successor?",
+    "answer": "Shun was recommended by the chiefs of the sacred mountains as a virtuous son and brother despite living with a blind father, a deceitful step-mother, and a younger half-brother who was favored by his parents. Yao tested him by marrying his two daughters to Shun, and when Shun proved to be an equally virtuous husband, Yao determined to turn the government over to him.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession",
+      "book_title": "Ancient Chinese History",
+      "word_count": 67,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 7,
+    "question": "How long did Shun rule in his own right?",
+    "answer": "Shun died at the age of one hundred, having ruled in his own right for exactly fifty years.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Duration",
+      "book_title": "Ancient Chinese History",
+      "word_count": 18,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 8,
+    "question": "Who were the Four Criminals that resisted Shun's rule?",
+    "answer": "The Four Criminals were Gong Gong, Huan Dou, San Miao, and Gun.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 13,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 9,
+    "question": "How did Shun deal with those who resisted his rule?",
+    "answer": "Shun merely banished the Four Criminals to the ends of the known earth, and once that was done, all under Heaven submitted.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Governance",
+      "book_title": "Ancient Chinese History",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 10,
+    "question": "What pattern did both Yao and Shun follow regarding succession?",
+    "answer": "Both Yao and Shun declined to pass power to their own sons, offering it instead to their most capable ministers - Yao to Shun, and Shun to Yu.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession",
+      "book_title": "Ancient Chinese History",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 11,
+    "question": "Why should the stories of Yao and Shun be considered myths rather than history?",
+    "answer": "There is no reason to believe that at the time they were said to have lived, from roughly 2200 to just before 2000 BCE, any local societies in what is today China had reached such a level of government, much less extending control over the entirety of the Chinese landmass.",
+    "metadata": {
+      "category": "Historiography",
+      "question_type": "Analysis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 12,
+    "question": "How were Yao and Shun viewed during the period that is the main focus of the book?",
+    "answer": "Well over a thousand years after their supposed time, Yao and Shun were continually held up as paradigms of proper rule, the Golden Age of highest antiquity, as seen in the Exalted Scriptures and classical philosophical writings, including especially those concerning Confucius and his followers.",
+    "metadata": {
+      "category": "Intellectual History",
+      "question_type": "Historical Perception",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 13,
+    "question": "What happened when the ruler of Yan attempted to abdicate in favor of his prime minister?",
+    "answer": "In 314, the neighboring state of Qi invaded Yan, deposing the prime minister, Zi Zhi. This incident is often viewed as one of the pivotal moments in the disintegration of the ancient Chinese state system.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 37,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 14,
+    "question": "What was Mencius's philosophy regarding human potential?",
+    "answer": "Mencius believed that anyone could become a Yao or a Shun, stating that if you wear Yao's clothes, chant Yao's words, and enact Yao's acts, this is Yao and nothing else.",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 35,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 15,
+    "question": "Who was Jie and how was he characterized?",
+    "answer": "Jie was the last ruler of the Xia dynasty, characterized as being so evil that both Heaven and the people turned against him.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 16,
+    "question": "Who did Shun appoint to take over as de facto ruler during his own reign?",
+    "answer": "During his own reign, Shun appointed Yu, the person in charge of the waterways, to take over as de facto ruler.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Appointments",
+      "book_title": "Ancient Chinese History",
+      "word_count": 21,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 17,
+    "question": "Why did Yu become known as the Lord of Xia?",
+    "answer": "When Shun died, Yu attempted to yield power to Shun's son, Shang Jun, returning to his home in Xia. However, the various local lords from throughout the realm followed Yu and prevailed upon him to take his place in command, and he would be known as the Lord of Xia.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 18,
+    "question": "What was Gun's relationship to Yu?",
+    "answer": "Gun was Yu's father. Yu was a great-great grandson of the Yellow Thearch, a grandson of Zhuanxu, and a son of Gun.",
+    "metadata": {
+      "category": "Genealogy",
+      "question_type": "Family Relations",
+      "book_title": "Ancient Chinese History",
+      "word_count": 24,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 19,
+    "question": "How did Yu's method of controlling floods differ from Gun's?",
+    "answer": "Gun attempted to hold back the waters by building dams and levees, which proved unsuccessful after nine years. Unlike Gun, Yu's method was to dredge the rivers, so that the water would flow out to the sea.",
+    "metadata": {
+      "category": "Engineering",
+      "question_type": "Methods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 39,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 20,
+    "question": "What might Yu's flood control work reflect about ancient China?",
+    "answer": "This probably reflects a social memory of a time when north China was warmer and much moister than it became in later times, and the flood basin of the Yellow River extended over much of the north China plain.",
+    "metadata": {
+      "category": "Environmental History",
+      "question_type": "Interpretation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 41,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 21,
+    "question": "What does the earliest bronze inscription about Yu say he did?",
+    "answer": "The earliest record from the first half of the ninth century BCE states that Heaven commanded Yu to spread out the land; pulling down the mountains and deepening the rivers, he then differentiated the regions and established government, sending down a reflective virtue on the people.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Historical Records",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 22,
+    "question": "How many regions did Yu divide China into?",
+    "answer": "Yu is said to have divided the territory of China into nine different regions.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Divisions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 14,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 23,
+    "question": "What were the principal tribute goods from Jizhou?",
+    "answer": "The principal tribute goods from Jizhou (Shanxi) were leather clothing.",
+    "metadata": {
+      "category": "Economic History",
+      "question_type": "Trade Goods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 14,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 24,
+    "question": "What tribute goods came from Qingzhou?",
+    "answer": "Qingzhou (eastern Shandong) provided salt and sea products as tribute.",
+    "metadata": {
+      "category": "Economic History",
+      "question_type": "Trade Goods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 14,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 25,
+    "question": "What happened to Yu's plan to have Yi succeed him?",
+    "answer": "According to the Bamboo Annals, the death of Yu the Great precipitated a civil war between his son Qi and Yi. In a great battle at a place called Gan, Qi's forces killed Yi, ensuring that Qi succeeded his father as ruler.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession",
+      "book_title": "Ancient Chinese History",
+      "word_count": 47,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 26,
+    "question": "What significant astronomical event is recorded during Zhong Kang's reign?",
+    "answer": "During Zhong Kang's reign, a solar eclipse took the people by surprise because Xi and He, who had been appointed to maintain the timing of the seasons, were lost in drunkenness.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Astronomical Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 27,
+    "question": "When did the Bamboo Annals date this eclipse?",
+    "answer": "The Bamboo Annals provides a precise date for this eclipse: the day gengxu of the ninth month of the fifth year of Zhong Kang's reign, which corresponds with 1948 BCE.",
+    "metadata": {
+      "category": "Chronology",
+      "question_type": "Dates",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 28,
+    "question": "Who was Tang and what was his significance?",
+    "answer": "Tang was a new ruler of Xia's eastern neighbors, the Shang, who came to power during the second half of Jie's reign. He was renowned for being virtuous and was advised by an able minister named Yi Yin.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 29,
+    "question": "How did the Xia dynasty end?",
+    "answer": "Through a series of interactions between the Xia and Shang, the Shang finally attacked and drove Jie into exile, bringing the Xia dynasty to an ignominious end sometime in the middle of the sixteenth century.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Dynastic Change",
+      "book_title": "Ancient Chinese History",
+      "word_count": 35,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 30,
+    "question": "Why is the historicity of the Xia dynasty debated?",
+    "answer": "The historicity of the Xia dynasty is debated because while archaeologists have uncovered the sophisticated Erlitou Culture located about where and when the Xia is supposed to have been, no writing of any kind has been found among the Erlitou remains, so there is no proof tying this to Xia.",
+    "metadata": {
+      "category": "Historiography",
+      "question_type": "Historical Debate",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 31,
+    "question": "What is the Erlitou Culture and when did it exist?",
+    "answer": "The Erlitou Culture is a relatively sophisticated culture centered on the site Yanshi Erlitou, just east of Luoyang in northwestern Henan province, dating to roughly 1900-1500 BCE.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Cultural Periods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 31,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 32,
+    "question": "What significant archaeological discoveries were made at Erlitou?",
+    "answer": "The Erlitou site shows sophisticated building remains, usually referred to as palaces, and also the earliest bronze ritual vessels ever discovered in China.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Finds",
+      "book_title": "Ancient Chinese History",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 33,
+    "question": "Why might the actual existence of the Xia be less important than how it was imagined?",
+    "answer": "Throughout traditional Chinese history, including during most of the ancient period, the Xia was held up as an example of how governments could rule effectively and also how they could come to a crashing end. Therefore, whether and in what way the Xia actually existed is probably ultimately less important than how later people imagined it to have existed.",
+    "metadata": {
+      "category": "Historiography",
+      "question_type": "Historical Interpretation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 61,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 34,
+    "question": "What was the miraculous origin story of the Zhou people's ancestor?",
+    "answer": "According to Zhou traditions, Jiang Yuan became pregnant after having stepped in the footprint of Di or the God on High, giving birth to a child named Qi.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "Origin Stories",
+      "book_title": "Ancient Chinese History",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 35,
+    "question": "Why was Qi also called Hou Ji?",
+    "answer": "Qi, meaning 'Abandoned,' survived multiple attempts by his mother to abandon him. He learned to cultivate grains and beans, and at the time of Shun was put in charge of agriculture, teaching his skills to others and coming to be known as Hou Ji, the 'Lord of Millet.'",
+    "metadata": {
+      "category": "Social History",
+      "question_type": "Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 36,
+    "question": "Where did the Zhou people establish themselves by the mid to late twelfth century?",
+    "answer": "By the mid to late twelfth century, the Zhou people established themselves at an upland plain called Zhouyuan, the 'Plain of Zhou,' which they would thereafter always regard as their homeland.",
+    "metadata": {
+      "category": "Geography",
+      "question_type": "Settlements",
+      "book_title": "Ancient Chinese History",
+      "word_count": 35,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 37,
+    "question": "Who was King Wen and how long did he rule?",
+    "answer": "King Wen was a sagely figure named Chang who is said to have ruled for fifty years (1099/1056-1050). He was posthumously referred to as Wen Wang, the 'Cultured King.'",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 35,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 38,
+    "question": "Why was King Wu called the Martial King?",
+    "answer": "King Wu (King Wen's son Fa) was called the 'Martial King' because it was he who led the Zhou army in the battle that would defeat Di Xin and bring the Shang dynasty to its close.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 39,
+    "question": "What did Tai Si's dream symbolize?",
+    "answer": "Tai Si dreamed of brambles in the Shang court, and her son Fa planting a catalpa tree that transformed into pine, cypress, and oak trees. This symbolized the Zhou conquest and the transformation of the Shang from armed opponents into loyal subjects.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Symbolism",
+      "book_title": "Ancient Chinese History",
+      "word_count": 42,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 40,
+    "question": "Where did the Zhou and Shang armies meet in battle?",
+    "answer": "The two armies met at a place called Muye, Shepherd's Wild, just southwest of modern Anyang.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Battle Locations",
+      "book_title": "Ancient Chinese History",
+      "word_count": 19,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 41,
+    "question": "According to the chronology used in the book, when did the decisive battle occur?",
+    "answer": "According to the chronology used in the book, the battle at Shepherd's Wild occurred on January 15, 1045 BCE.",
+    "metadata": {
+      "category": "Chronology",
+      "question_type": "Dates",
+      "book_title": "Ancient Chinese History",
+      "word_count": 21,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 42,
+    "question": "What happened after King Wu returned to the Zhou homeland following the conquest?",
+    "answer": "There remained a powerful Shang presence throughout the eastern area. When King Wu died suddenly two years later and the Duke of Zhou assumed power, the brothers in the east joined in rebellion with their Shang subjects, precipitating a three-year civil war.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 43,
+    "question": "What was significant about the proposed new capital at Luoyang?",
+    "answer": "The proposed new capital at Luoyang was significant because it was at the center of the territory that the Zhou now controlled, and it was where the area was first referred to as the 'central region' (zhong guo), the first reference to the name Zhongguo, the 'Middle Kingdom.'",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Geographical Terms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 44,
+    "question": "What important principles were established during King Cheng's reign?",
+    "answer": "During King Cheng's reign, the principle of primogeniture (succession by the king's eldest son) was firmly established. The Zhou kings came to be called Tianzi, the 'Son of Heaven,' and claimed their rule was mandated by Heaven - the inception of the 'Mandate of Heaven.'",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 45,
+    "question": "Which states were established by King Cheng's uncles and brothers?",
+    "answer": "Lord Feng of Kang established Wei in the former Shang capital; Dan, the Duke of Zhou, established Lu; the Grand Duke Wang established Qi; Duke Shi of Shao established Yan; Shu Yu established Jin; and another brother established Ying.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Formation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 42,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 46,
+    "question": "What disaster befell King Zhao during his reign?",
+    "answer": "King Zhao led military campaigns south into present-day Hubei province, one of which resulted in a great Zhou defeat in which the Western Six Armies were decimated and the king himself was drowned in the Han River.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Defeats",
+      "book_title": "Ancient Chinese History",
+      "word_count": 43,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 47,
+    "question": "What major governmental change occurred during King Mu's reign?",
+    "answer": "During King Mu's reign, the Zhou government transitioned from patrimonial rule, where the king called upon close relatives for any service, to bureaucratic rule, where people were appointed to designated offices based on qualifications rather than blood relationship with the king.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Changes",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 48,
+    "question": "What was the Ritual Reform during the Western Zhou?",
+    "answer": "The Ritual Reform transformed rituals from celebrations by family members into multi-media spectacles with large audiences observing musicians playing drums, bells, and chime-stones, and ritual specialists celebrating offerings at altars with sets of bronze vessels.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Ritual Practices",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 49,
+    "question": "What new type of bronze inscription appeared during the reigns of Kings Gong, Yih, Xiao, and Yi?",
+    "answer": "A new type of bronze inscription appeared: commemorations of victories in lawsuits, especially those involving land disputes, suggesting competition for natural resources due to population increase.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Inscriptions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 50,
+    "question": "What did the Qiu Wei ding inscription reveal about Western Zhou society?",
+    "answer": "The Qiu Wei ding inscription revealed a complex legal system where cases were heard before a jury of officials, land boundaries were precisely stipulated, and agreements were sealed with banquets. It also showed that even prominent individuals like States-lord Li could lose extensive land holdings through legal proceedings.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Social Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 50,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 51,
+    "question": "What crisis might have occurred between Kings Yih and Xiao?",
+    "answer": "Scholar David S. Nivison suggested that King Yih was forced to flee to Feiqiu while his uncle King Xiao declared himself king in the capital, with King Yih living in exile for another decade. This would explain contradictory date notations in bronze inscriptions from two different regnal calendars.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession Crisis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 52,
+    "question": "What controversial act did King Yi commit according to the Bamboo Annals?",
+    "answer": "According to the Bamboo Annals, just two years after his installation, King Yi executed the Lord of Qi, boiling him in a bronze caldron.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Controversial Acts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 25,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 53,
+    "question": "What was the fundamental disagreement between the Duke of Rong and Rui Liangfu during King Li's reign?",
+    "answer": "The disagreement stemmed from economic policy regarding taxation and redistribution of wealth. Rui Liangfu criticized the Duke of Rong for wanting to monopolize profits, arguing that profits should be distributed to high and low, and that monopolization would anger many and lead to Zhou's ruin.",
+    "metadata": {
+      "category": "Economic History",
+      "question_type": "Policy Disputes",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 54,
+    "question": "What happened in 842 BCE, the earliest commonly accepted date in Chinese history?",
+    "answer": "In 842 BCE, the people and great families rose up against King Li, driving him into exile. Control of the state fell to He, the Elder of Gong, beginning an interregnum that lasted fourteen years.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 44,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 55,
+    "question": "How long did King Xuan rule?",
+    "answer": "King Xuan ruled for forty-six years, longer than any other Zhou king.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Duration",
+      "book_title": "Ancient Chinese History",
+      "word_count": 14,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 56,
+    "question": "What was Fanzhong Shanfu's advice regarding the succession in Lu?",
+    "answer": "Fanzhong Shanfu advised against discarding the elder son and installing the younger, arguing this was improper and would overturn the king's mandate. He predicted that if Lu did not submit, other lords would imitate them and the king's mandate would be obstructed.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Advice",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 57,
+    "question": "What famous legend is associated with King You and Bao Si?",
+    "answer": "The legend says Bao Si rarely smiled, but when beacon fires were falsely lit indicating attack, and allies rushed to defend only to find a false alarm, she laughed. The king repeated this until allies grew tired. When real attack came, none came to help, the capital was sacked, and the king was killed.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Legends",
+      "book_title": "Ancient Chinese History",
+      "word_count": 65,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 58,
+    "question": "What does the Annals manuscript reveal about the end of Western Zhou?",
+    "answer": "The Annals manuscript reveals there were two different kings of Zhou simultaneously - King Hui and King Ping - and a period of nine years without a king in the capital. The court was riven by factions, with different states supporting different claimants.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Analysis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 59,
+    "question": "What happened to King Nan, the last Zhou king?",
+    "answer": "King Nan saw the capital divided into West Zhou and East Zhou. When he died in 256 BCE, he was no longer recognized as a king (indicated by the term used for his death). Seven years later, in 249, Qin took over East Zhou, ending the dynasty.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Dynastic End",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 60,
+    "question": "What does the Da Yu ding inscription say about Heaven's role in Zhou rule?",
+    "answer": "The inscription states that illustrious King Wen received the Heaven-blessed great mandate, and that heaven respectfully looked upon King Wu and treated him as a son, greatly protecting the former kings to have the four quarters.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Ideology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 61,
+    "question": "What was the foundation of Zhou government according to the chapter?",
+    "answer": "Zhou government was based upon kinship, with the ancestral temple as the focal point not only of the royal family but of all families and lineages that made up the state. It was where bronze vessels were kept, offerings were made, and government administration was conducted.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Government Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 62,
+    "question": "What were the three main divisions of the Zhou government?",
+    "answer": "The three main divisions were under the Supervisors of the Horse, Labor, and Lands. There was also a royal secretariat responsible for communicating the king's commands and maintaining written records.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 37,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 63,
+    "question": "What innovation did the state of Qi introduce under Duke Huan?",
+    "answer": "Qi divided the state into seven counties, each sub-divided into three districts, making twenty-one districts total. Each had its own officers, tax burden, and military contribution requirement. Officers were judged on performance and promoted or demoted accordingly.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 64,
+    "question": "What does the term 'ba' mean and who was recognized with this title?",
+    "answer": "The term 'ba,' often translated as 'hegemon,' probably originally meant 'senior' or 'elder' in the sense of the first born within a generation - essentially 'premier.' Duke Huan of Qi was recognized as ba by the Zhou king and other state rulers.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 65,
+    "question": "What reforms did Zhao Dun implement in Jin in 621?",
+    "answer": "Zhao Dun produced statutes; rectified laws and crimes; handled lawsuits and punishments; directed the pursuit of those who absconded and instituted pledges and contracts; put in order the old and stagnant and ranks based on ritual; extended regular offices and brought out those who had been obstructed or in obscurity.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Legal Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 66,
+    "question": "Why did Shu Xiang object to Zi Chan's law code?",
+    "answer": "Shu Xiang argued that from ancient times, good government depended solely on the ruler's virtue. By putting laws into writing, this would eliminate the ruler's role and make people litigious, predicting it would bring Zheng to ruin.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Philosophy",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 67,
+    "question": "How did technological changes in the sixth century BCE affect government?",
+    "answer": "The Iron Age onset brought iron-bladed plows that increased crop yields and population. This allowed larger armies with iron weapons and crossbows, requiring expert generals for control. Both military and civil administration needed specialists to manage resources and extract taxes.",
+    "metadata": {
+      "category": "Technological History",
+      "question_type": "Technological Impact",
+      "book_title": "Ancient Chinese History",
+      "word_count": 48,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 68,
+    "question": "What were the two 'handles' of government in early treatises?",
+    "answer": "Agriculture and warfare came to be seen as the two 'handles' of government.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 14,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 69,
+    "question": "What was Li Kui's 'Law of Even Grain Prices'?",
+    "answer": "The state would buy grain in good years to store in state granaries, to be released in years of famine, thus stabilizing grain prices and ensuring farmers a steady market. This policy was later adopted worldwide, including in the United States as the 'Ever Normal Granary.'",
+    "metadata": {
+      "category": "Economic History",
+      "question_type": "Economic Policies",
+      "book_title": "Ancient Chinese History",
+      "word_count": 50,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 70,
+    "question": "What were Shang Yang's key reforms in Qin?",
+    "answer": "Shang Yang registered the entire population, instituted household taxes, organized households into affinity groups responsible for each other's conduct, reformed the military with mutual responsibility, and staffed government with a bureaucracy chosen for skills rather than noble pedigree.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 43,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 71,
+    "question": "What was Shen Buhai's contribution to Legalism?",
+    "answer": "Shen Buhai stressed impersonal and impartial rule through bureaucracy. He argued rulers should group subjects into classes and deal with them through officials, never allowing any official to become too powerful. He likened government to a wheel with the ruler as the empty, motionless hub.",
+    "metadata": {
+      "category": "Political Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 72,
+    "question": "How many commanderies did the First Emperor divide the empire into?",
+    "answer": "The First Emperor divided the land into thirty-six commanderies, of which fully half had previously existed - six in Qin itself and twelve in conquered states.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Divisions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 73,
+    "question": "What do the Liye bamboo strips reveal about Qin administration?",
+    "answer": "The Liye strips demonstrate that laws and edicts were promulgated in the capital and copies sent to each commandery, which sent copies to each county and below. This required an enormous bureaucracy and showed the empire was conquered by the sword but ruled by the writing brush.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 74,
+    "question": "What were the five mutilating punishments mentioned in oracle-bone inscriptions?",
+    "answer": "The five mutilating punishments were: cutting off the nose, amputating the leg, castration, decapitation, and tattooing the face (the lightest punishment).",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Punishments",
+      "book_title": "Ancient Chinese History",
+      "word_count": 27,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 75,
+    "question": "What fundamental principles did the 'Pronouncement to Kang' establish?",
+    "answer": "The principles included: considering laws of the former dynasty when proper, adjusting punishment based on whether crimes were intentional or accidental (small intentional crimes punished harshly, great accidental crimes treated leniently), and holding family members, teachers, and officials to high standards for maintaining social order.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Principles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 55,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 76,
+    "question": "Why was King Mu criticized regarding the 'Punishment of Lü'?",
+    "answer": "King Mu was criticized for divorcing law from the ruler's personal virtue and allowing mutilating punishments to be avoided by paying fines, essentially allowing the rich to commit crimes with impunity.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Criticism",
+      "book_title": "Ancient Chinese History",
+      "word_count": 36,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 77,
+    "question": "What does the Ying yi inscription reveal about Western Zhou legal practices?",
+    "answer": "The inscription shows that someone called Shepherd was initially sentenced to whipping and branding, but this was commuted to lesser whipping and a fine, ultimately reduced to just paying a fine of 300 catties of bronze.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Practices",
+      "book_title": "Ancient Chinese History",
+      "word_count": 42,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 78,
+    "question": "When did Zheng become the first state to inscribe its law code on bronze?",
+    "answer": "In 536 BCE, under prime minister Zi Chan, Zheng became the first state to have its legal code cast onto a bronze caldron.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Historical Firsts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 29,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 79,
+    "question": "What were the three parts of Li Kui's Classic of Laws?",
+    "answer": "The three parts were: Formal Statutes (crimes against others like Robbery, Assault, Imprisonment, Arrests), Miscellaneous Statutes (personal behavior like Deceit, Gambling, Fraud, Immodesty), and Statutes Concerning Losses (inventory control).",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 80,
+    "question": "What does the granary leakage statute reveal about Qin legal detail?",
+    "answer": "The statute specified exact penalties based on amount of grain wasted: less than 100 bushels warranted a reprimand; 100-1000 bushels required fining one set of armor; over 1000 bushels required two sets of armor. The foreman and officers had to jointly repay the cost.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Details",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 81,
+    "question": "What does the case of the juvenile who stole a cow demonstrate?",
+    "answer": "It demonstrates that Qin law distinguished between juveniles and adults based on height, but the timing of sentencing mattered - since the thief grew to adult stature during his year in jail, he was sentenced as an adult to hard labor as a 'wall-pounder' rather than receiving a lighter juvenile sentence.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Cases",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 82,
+    "question": "What does the case of tattooing a female slave reveal about Qin society?",
+    "answer": "It reveals that slave owners had the power to petition for bodily mutilation of their slaves, including tattooing and cutting off the nose, even when the slave claimed not to have been charged with any crime. This shows the extensive power owners had over slaves.",
+    "metadata": {
+      "category": "Social History",
+      "question_type": "Social Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 55,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 83,
+    "question": "What was the broader purpose of Qin legal codes according to the Shuihudi documents?",
+    "answer": "The legal codes were intended as much to ensure that officials performed their duties correctly as they were to regulate the common people. These statutes were an important step in the development of bureaucracy in China, the lasting achievement of Legalism.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Philosophy",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 84,
+    "question": "How long did the Qin dynasty officially last?",
+    "answer": "The Qin dynasty officially lasted only fourteen years, from 221 to 207 BCE, making it far and away the shortest of China's major dynasties.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Duration",
+      "book_title": "Ancient Chinese History",
+      "word_count": 29,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 85,
+    "question": "Why is the name 'China' derived from Qin?",
+    "answer": "The name by which China is known throughout most of the world - 'China' - derives from Qin (pronounced like 'chin'), reflecting the dynasty's lasting legacy despite its short duration.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Etymology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 86,
+    "question": "What was the origin debate about the Qin people?",
+    "answer": "There was debate about whether Qin came from the western Warriors (barbarians) or the eastern Peoples (also barbarians). The Tsinghua manuscript Annals revealed that an early Qin ancestor named Feilian was an ally of the last Shang kings in the east, and after defeat was forced to migrate west to Zhuyu Mountain.",
+    "metadata": {
+      "category": "Ethnic History",
+      "question_type": "Origins",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 87,
+    "question": "Which two Qin dukes are most likely identified with the tombs at Dabuzishan?",
+    "answer": "The most likely identifications are Duke Zhuang (r. 821-778) and Duke Xiang (r. 777-766), whose reigns coincided with increasing relations between Qin and the Zhou kings.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Historical Identification",
+      "book_title": "Ancient Chinese History",
+      "word_count": 37,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 88,
+    "question": "What happened to Qin Zhong when he attacked the Xianyun?",
+    "answer": "Qin Zhong was commanded by King Xuan of Zhou to attack the Xianyun, but the attack was unsuccessful and Qin Zhong was killed. Duke Zhuang later took revenge for this and consolidated Qin control over the Jing River valley.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Campaigns",
+      "book_title": "Ancient Chinese History",
+      "word_count": 43,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 89,
+    "question": "When did Qin establish its capital at Yong, and how long did it remain there?",
+    "answer": "In 677 BCE, Qin established a new capital called Yong near the old Zhou homeland area of Zhouyuan. This would remain the Qin capital for more than three hundred years.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Capital Cities",
+      "book_title": "Ancient Chinese History",
+      "word_count": 34,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 90,
+    "question": "What does Duke Wu of Qin's bell inscription reveal about Qin's ambitions?",
+    "answer": "The inscription suggests that the rulers of Qin were already beginning to think of themselves as the proper rulers of all China, stating they received the Mandate of Heaven, controlled barbarian lands, and made harmonic bells to receive great blessings and extend the mandate throughout the four quarters.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Ambitions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 57,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 91,
+    "question": "Who was Duke Mu of Qin and when did he reign?",
+    "answer": "Duke Mu reigned from 659 to 621 BCE, a lengthy reign that coincided with important developments in eastern states and represented the early peak of Qin power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 32,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 92,
+    "question": "What was Duke Mu's relationship with Jin?",
+    "answer": "Duke Mu had complex relations with Jin. Jin lords alternately sought his support and double-crossed him. He supported Chong'er's return to become Duke Wen of Jin in 636, maintaining peaceful relations during Duke Wen's life, but after 628 the alliance dissolved and the states attacked each other.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Diplomatic Relations",
+      "book_title": "Ancient Chinese History",
+      "word_count": 55,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 93,
+    "question": "What poem commemorated Duke Mu's death?",
+    "answer": "Duke Mu's death in 621 was commemorated by the poem 'The Yellow Bird' from the Classic of Poetry, which described three noblemen of the Ziju lineage who had promised to accompany the duke to his grave.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Literary References",
+      "book_title": "Ancient Chinese History",
+      "word_count": 43,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 94,
+    "question": "What was significant about Duke Jing's tomb?",
+    "answer": "Duke Jing's tomb (r. 577-537) in Fengxiang county was the largest tomb anywhere in Asia at over 300 meters long covering 5334 square meters. It contained remains of 166 people killed to accompany the duke, plus another twenty in the tomb fill.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Burial Practices",
+      "book_title": "Ancient Chinese History",
+      "word_count": 50,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 95,
+    "question": "What territorial expansion did Qin achieve under Duke Xian?",
+    "answer": "Under Duke Xian (r. 385-362), Qin expanded southward. In 387, it defeated Shu for control of the Qinling Mountains and Han River headwaters, eventually expanding down the Han River into conflict with Chu.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Territorial Expansion",
+      "book_title": "Ancient Chinese History",
+      "word_count": 41,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 96,
+    "question": "When did Qin move its capital to Xianyang?",
+    "answer": "In the middle of the fourth century BCE, Qin moved its capital from near present-day Baoji eastward to Xianyang, near present-day Xi'an.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Capital Cities",
+      "book_title": "Ancient Chinese History",
+      "word_count": 28,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 97,
+    "question": "What were Shang Yang's main administrative reforms?",
+    "answer": "Shang Yang made agriculture and warfare the foundation of the Qin state, instituted laws equally applied to all regardless of status, created a rank system based on military accomplishments with land rewards, redistributed land, organized households into mutual responsibility units, and created detailed household records.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 98,
+    "question": "How did Shang Yang die?",
+    "answer": "When Duke Xiao died in 338, Duke Huiwen accused Shang Yang of conspiring to rebel. Shang Yang was executed by 'dismemberment by chariot,' where his limbs and neck were tied to five separate chariots pulling in different directions.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Death",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 99,
+    "question": "What was Shang Yang's contribution to Chinese political thought?",
+    "answer": "Shang Yang is credited with writing The Book of the Lord Shang, which provides a philosophical rationale for his administrative reforms and government by laws. This book is generally regarded as the first expression of Legalism, which though later reviled by Confucians, was adapted by most governments throughout Chinese history.",
+    "metadata": {
+      "category": "Political Philosophy",
+      "question_type": "Philosophical Contributions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 58,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 100,
+    "question": "What significant military achievement occurred in 316 BCE?",
+    "answer": "In 316 BCE, Qin decisively defeated Shu for control of the Chengdu Plain. This would prove to be the granary that fed the armies carrying Qin campaigns over the following century, eventually culminating in the unified empire.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Achievements",
+      "book_title": "Ancient Chinese History",
+      "word_count": 41,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 101,
+    "question": "Who was General Bai Qi and what was his reputation?",
+    "answer": "Bai Qi (d. 257) was a general appointed by King Zhaoxiang in the 290s. In over thirty years, he is said to have captured more than seventy cities and killed more than a million enemy soldiers without ever suffering a single defeat.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 102,
+    "question": "What happened at the Battle of Changping in 260 BCE?",
+    "answer": "After months of fierce fighting, Bai Qi feigned retreat, trapped the Zhao army, and surrounded them at Changping. After forty-six days, the 200,000-man Zhao army surrendered. Bai Qi ordered all but 246 young boys to be buried alive, sparing the boys only to spread word of Qin's ferocity.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Battles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 58,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 103,
+    "question": "How did Bai Qi die?",
+    "answer": "When Bai Qi objected to attacking the impregnable Zhao capital and feigned illness, King Zhaoxiang demoted him to common soldier. After the renewed attack failed, the king sent Bai Qi a sword ordering suicide. Bai Qi exclaimed his only crime was killing the defenseless Zhao soldiers at Changping, then slit his own throat.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Death",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 104,
+    "question": "Who was Lü Buwei and what was his role?",
+    "answer": "Lü Buwei (291-235) was a wealthy merchant who used bribes to have Ying Yiren selected as heir apparent. When Yiren became King Zhuangxiang, Lü Buwei became chancellor. After the king died, he continued as chancellor and regent for the teenage Ying Zheng (future First Emperor).",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 56,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 105,
+    "question": "What was the plot involving Lao Ai?",
+    "answer": "In 238, Lü Buwei, fearing King Zheng would learn his mother had been Lü's consort, arranged for her to have a lover named Lao Ai. They had two sons and attempted to overthrow King Zheng to install one of their sons. King Zheng foiled the plot, had Lao Ai torn apart by chariots, and forced Lü Buwei to commit suicide by drinking poison.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Conspiracies",
+      "book_title": "Ancient Chinese History",
+      "word_count": 69,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 106,
+    "question": "Who was Li Si and what was his background?",
+    "answer": "Li Si (c. 280-208) had been a student of Confucian philosopher Xunzi but turned to Legalist doctrines. He became chancellor in 238, remaining for twenty-seven years throughout Ying Zheng's reign as king and First Emperor, and into the Second Emperor's reign.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Figures",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 107,
+    "question": "In what order did the six remaining states fall to Qin?",
+    "answer": "The campaigns began in 230 BCE. Han fell first, followed two years later by Zhao. Over the next seven years: Yan, then Wei, then Chu, and finally Qi in 221 BCE.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Conquests",
+      "book_title": "Ancient Chinese History",
+      "word_count": 39,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 108,
+    "question": "What title did Ying Zheng proclaim for himself in 221 BCE?",
+    "answer": "Ying Zheng proclaimed a new title: Shi Huangdi, the First Emperor, and had an ancient jade carved with text reading 'Received the Mandate from Heaven, May He Be Long-lived and Eternally Flourishing.'",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 109,
+    "question": "How did Qin organize the conquered territories?",
+    "answer": "The First Emperor rejected the Zhou model of appointing relatives to rule territories. Instead, he extended Qin's administrative structure, organizing the empire into thirty-six commanderies (provinces), with counties, townships, and neighborhoods below them, all reporting up to the capital.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 47,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 110,
+    "question": "What major reforms did Qin implement to unite the empire?",
+    "answer": "Qin standardized axle-widths of carts, units of weights and measures, currency, and script. The script standardization was particularly important, as all reports were required to be written in the same script used in Qin.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Standardization",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 111,
+    "question": "What controversial reforms provoked unending criticism?",
+    "answer": "In 213 BCE, the First Emperor decreed most books be burned, excluding practical books on Qin annals, astrology, agriculture, divination, and medicine. Classical literature, especially Poetry and Scriptures associated with Confucian teaching, were prohibited. In 212 BCE, 460 court officials were reportedly buried alive.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Controversial Policies",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 112,
+    "question": "What happened when the First Emperor died in 210 BCE?",
+    "answer": "Li Si kept the death secret, forged an order naming young son Huhai as successor (instead of eldest son Fusu), and commanded Fusu and General Meng Tian to commit suicide. During the two-month journey back to the capital, they kept up the pretense the emperor was alive.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession",
+      "book_title": "Ancient Chinese History",
+      "word_count": 58,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 113,
+    "question": "How did Li Si die?",
+    "answer": "Zhao Gao accused Li Si of plotting against the Second Emperor. In 208 BCE, Li Si was sentenced to die by the 'Five Punishments': cutting off the nose, then a hand, then a foot, then castration, and finally being cut in half at the waist.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Death",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 114,
+    "question": "How did the Qin dynasty end?",
+    "answer": "Zhao Gao assassinated the Second Emperor in 209 BCE and installed Ying Ziying. On installation day, Ziying executed Zhao Gao. Ziying reigned forty-six days before surrendering to Liu Bang in January 206 BCE. When Xiang Yu arrived, he executed Ziying and all male imperial family members, ending the dynasty.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Dynastic End",
+      "book_title": "Ancient Chinese History",
+      "word_count": 61,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 115,
+    "question": "Why was Qin's legacy more important than its short duration?",
+    "answer": "Despite harsh policies, Qin's administrative innovations became the model for the Han dynasty and most succeeding dynasties. The infrastructure, bureaucracy, standardizations, and government by writing brush rather than sword provided the foundation for Chinese civilization. One adviser even took Qin's administrative documents, census records, and maps as the real treasures of government.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Legacy",
+      "book_title": "Ancient Chinese History",
+      "word_count": 63,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 116,
+    "question": "When did Duke Dao of Qin reign?",
+    "answer": "Duke Dao of Qin reigned from 490 to 477 BCE.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Reign Periods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 12,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 117,
+    "question": "Who succeeded Duke Xiao of Qin and when?",
+    "answer": "King Huiwen succeeded Duke Xiao of Qin, reigning from 337/324 to 311 BCE.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession",
+      "book_title": "Ancient Chinese History",
+      "word_count": 17,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 118,
+    "question": "How long did King Zhao of Qin reign?",
+    "answer": "King Zhao (also known as King Zhaoxiang) reigned from 306 to 251 BCE.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Reign Periods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 18,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 119,
+    "question": "When did King Zheng of Qin become the First Emperor?",
+    "answer": "King Zheng reigned as king from 246 BCE and became the First Emperor (Qin Shi Huangdi) in 221 BCE, ruling until 210 BCE.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Reign Periods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 29,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 120,
+    "question": "Which state had more stable succession patterns during the Warring States period?",
+    "answer": "The chronology shows varying stability, with some states like Qin maintaining relatively clear succession after reforms, while others like Chu and the successor states of Jin experienced more complex transitions and overlapping claims to power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Comparative Analysis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 40,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 121,
+    "question": "What was the Chinese term for astronomy, and what does it literally mean?",
+    "answer": "The Chinese term for astronomy was 'tianwen', which literally means 'heavenly patterns'.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Terminology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 17,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 122,
+    "question": "What two animals were seen in the eastern and western skies in later Chinese astronomy, and what archaeological evidence suggests their early importance?",
+    "answer": "A dragon was seen in the east and a tiger in the west. Archaeologists found a tomb (M45 at Puyang, Henan) from the fourth millennium BCE where the deceased was flanked by cowrie shells arranged in the shapes of a dragon and a tiger.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Astronomical Symbols",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 123,
+    "question": "According to the text, what was the most important practical aspect of ancient Chinese star-gazing?",
+    "answer": "The correlation between the stars and seasons, between astronomy and the calendar, was perhaps the most important practical aspect of ancient Chinese star-gazing.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Practical Applications",
+      "book_title": "Ancient Chinese History",
+      "word_count": 25,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 124,
+    "question": "What were the four spiritual animals that represented the four quadrants of the sky in ancient Chinese astronomy, and what were they each composed of?",
+    "answer": "The four spiritual animals were the Azure Dragon in the east, the Red Bird in the south, the White Tiger in the west, and the Murky Warrior (or Black Turtle) in the north. Each was composed of seven discrete constellations known as lunar lodges.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Astronomical Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 50,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 125,
+    "question": "What rare astronomical event was thought to be correlated with the rise and fall of new dynasties and the passing of the Mandate of Heaven?",
+    "answer": "A conjunction of the five naked-eye-visible planets (Mercury, Venus, Mars, Jupiter, and Saturn), which takes place only every five hundred or so years, was thought to be correlated with the rise and fall of new dynasties and the passing of the Mandate of Heaven.",
+    "metadata": {
+      "category": "Science",
+      "question_type": "Astronomical Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 126,
+    "question": "How did the myth explain why China's mountains rise in the west and rivers flow to the east?",
+    "answer": "The myth recounts a war between Zhurong, the god of fire, and Gong Gong, a rebel. In anger after his defeat, Gong Gong butted his head against Incomplete Mountain, the western pillar holding up the sky. When the pillar broke, the earth tilted up and the heavens tilted down in the west, causing the rivers to flow down to the lower land and into the eastern seas.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "Origin Myths",
+      "book_title": "Ancient Chinese History",
+      "word_count": 69,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 127,
+    "question": "What were the two major river systems of ancient China, and where did they originate?",
+    "answer": "The two major river systems were the Yellow River (known simply as 'He', the River) and the Yangzi River (originally known as 'Jiang', and later as the Long River). Both originated in the mountains to the west, the Himalayas and the Tibetan Plateau.",
+    "metadata": {
+      "category": "Geography",
+      "question_type": "Geographical Features",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 128,
+    "question": "According to Mencius, what was the primary cause of the deforestation of Ox Mountain, and what does this suggest about environmental change in ancient China?",
+    "answer": "Mencius assigned responsibility for the deforestation of Ox Mountain to human activity, specifically axes chopping down the trees and cattle and sheep grazing on new shoots. This suggests that human activity, rather than just climate change, played a major role in environmental change, such as driving animals like elephants and rhinoceroses from their habitats.",
+    "metadata": {
+      "category": "Environmental History",
+      "question_type": "Environmental Analysis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 61,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 129,
+    "question": "What evidence from a Shang-dynasty oracle-bone inscription illustrates the abundance and diversity of wildlife near human habitation?",
+    "answer": "An oracle-bone inscription records a king's hunt at Guang, where the catch included 'two female tigers, one auroch, twenty-one deer, two boars, one hundred and twenty-seven Sika deer, two tigers, two hares, and twenty-seven pheasants.'",
+    "metadata": {
+      "category": "Environmental History",
+      "question_type": "Historical Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 130,
+    "question": "What were the most important crops in ancient China, and which one was introduced from the West?",
+    "answer": "The most important crops were various species of millet (broomcorn and foxtail). Wheat was introduced to China from the West, probably during the Shang dynasty.",
+    "metadata": {
+      "category": "Agricultural History",
+      "question_type": "Crops",
+      "book_title": "Ancient Chinese History",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 131,
+    "question": "According to the Confucian philosopher Xunzi, what is the origin of ritual?",
+    "answer": "Xunzi said that man is born with desires, and if he doesn't get what he desires, he will seek it without limit, leading to fighting, disorder, and impoverishment. The past kings hated disorder and therefore established ritual propriety to provide for men's desires and what they seek, holding desires and things in a steady equilibrium. This is the origin of ritual.",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 69,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 132,
+    "question": "What materials were used for divination in the Shang dynasty, and how was the process carried out?",
+    "answer": "Divinations made use of the plastrons of turtles (the flat underbelly) or scapula bones of oxen. The bone or shell was prepared with a series of hollows. A hot brand was placed into a hollow, causing a stress crack to appear on the opposite side, which was interpreted as the answer to the divination.",
+    "metadata": {
+      "category": "Religious History",
+      "question_type": "Ritual Practices",
+      "book_title": "Ancient Chinese History",
+      "word_count": 55,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 133,
+    "question": "What major change in ritual practice is suggested by the bronzes found in the Zhuangbai cache, and what was this change called?",
+    "answer": "The bronzes from the Zhuangbai cache, such as the eight identical tureens and sets of bells, suggest that rituals became more formalized and performed by specially trained priests and musicians on behalf of the family, rather than by the entire family gathering around a small altar. This change has been termed the 'Western Zhou Ritual Reform' or 'Ritual Revolution'.",
+    "metadata": {
+      "category": "Religious History",
+      "question_type": "Ritual Changes",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 134,
+    "question": "How did Confucius define true filial piety, beyond just providing for one's parents?",
+    "answer": "Confucius said that true filial piety requires respect, not just the ability to provide for parents. He also stated that a son should mourn his father's death for three years and not diverge from his father's way during that time.",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 47,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 135,
+    "question": "What was the most common weapon found in Shang archaeological sites, and how was it used?",
+    "answer": "The most common weapon was the dagger-axe (ge), a pointed slashing weapon mounted at the end of a long wooden haft. It was wielded differently from a spear and was the standard-issue weapon for foot-soldiers and one of the three combatants in chariots.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Weapons",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 136,
+    "question": "What two innovations during the Warring States period fundamentally transformed warfare and led to the decline of chariots?",
+    "answer": "The two innovations were the mechanical crossbow, which gave foot-soldiers greater killing power against chariots, and the adoption of cavalry. The crossbow could be mass-produced and used by anyone, while cavalry offered greater mobility.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Technology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 137,
+    "question": "According to Sunzi's 'Art of War', what is the best kind of warfare and the best kind of victory?",
+    "answer": "Sunzi stated that the best warfare is that which never takes place, and the best victory is that which takes over the opponent's state intact.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Philosophy",
+      "book_title": "Ancient Chinese History",
+      "word_count": 32,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 138,
+    "question": "What example from the 'Zuo Tradition' is often cited to illustrate chivalric behavior in ancient Chinese warfare, and how was this behavior viewed?",
+    "answer": "Duke Xiang of Song refused to attack the Chu army before it had fully crossed the river and formed its ranks, stating that a gentleman does not wound twice nor take advantage of obstacles. However, his own countrymen blamed him for the subsequent defeat, and he was held up as an example of how not to fight, suggesting that such chivalry was not always practical or admired.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Ethics",
+      "book_title": "Ancient Chinese History",
+      "word_count": 73,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 139,
+    "question": "What doctrine did the Zhou dynasty develop to justify the king's rule, and what was the king called in relation to this doctrine?",
+    "answer": "The Zhou developed the doctrine of the Mandate of Heaven (Tianming), and the king was called the Son of Heaven (Tianzi).",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Ideology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 140,
+    "question": "What administrative structure did the state of Qi implement under Duke Huan and Guan Zhong, and how did it spread?",
+    "answer": "Qi was divided into seven counties (xian), each subdivided into three districts (xiang), making twenty-one districts in total. This structure, based on performance and promotion, quickly spread to other states like Qin, Chu, and Jin.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 141,
+    "question": "What was significant about Zi Chan's decision to cast the legal code of Zheng onto a bronze vessel?",
+    "answer": "Zi Chan's casting of the legal code onto bronze made the laws public and immutable. This was criticized by some, like Shu Xiang of Jin, who argued it would make people litigious and reduce the ruler's discretion. However, it represented a shift towards written, impartial law and was later adopted by other states.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 142,
+    "question": "What were the key reforms implemented by Shang Yang in the state of Qin that contributed to its strength?",
+    "answer": "Shang Yang registered the entire population, organized them into affinity groups with mutual responsibility, instituted a household tax, promoted agriculture, and staffed the government with a bureaucracy chosen for skill rather than noble pedigree. He also enforced laws strictly.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 143,
+    "question": "What were the five mutilating punishments evidenced in ancient China?",
+    "answer": "The five mutilating punishments were: 1) tattooing the face (mo), 2) cutting off the nose (yi), 3) amputating the leg (yue), 4) castration (zhuo), and 5) decapitation (fa).",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Punishments",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 144,
+    "question": "According to the 'Pronouncement to Kang', how should intentional crimes versus accidental crimes be punished?",
+    "answer": "A small crime, if committed intentionally, should be punished harshly (even put to death). But a great crime, if committed accidentally and if the perpetrator confesses, should be treated leniently (not put to death).",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Principles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 42,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 145,
+    "question": "What does the inscription on the Ying yi vessel tell us about punishments and fines in the Western Zhou period?",
+    "answer": "The inscription records that a man named Shepherd was initially sentenced to be whipped 1000 times and branded, but the punishment was commuted to a whipping of 500 times and a fine. Ultimately, it seems only the fine was paid. This shows that fines could be used to avoid mutilating punishments, even in the Western Zhou.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Practices",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 146,
+    "question": "What kind of legal documents were found in the tomb of the Qin magistrate 'Happy' at Shuihudi, and what do they reveal about Qin administration?",
+    "answer": "The tomb contained legal statutes on topics like agriculture, granaries, and craftsmen, as well as 'Answers to Questions about Laws and Statutes' and 'Models for Sealing and Investigating'. These reveal that the Qin legal system was highly detailed and bureaucratic, intended to regulate officials' duties as much as the common people's behavior.",
+    "metadata": {
+      "category": "Legal History",
+      "question_type": "Legal Documents",
+      "book_title": "Ancient Chinese History",
+      "word_count": 63,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 147,
+    "question": "According to the 'Record of Music', how is music derived from the human heart?",
+    "answer": "The 'Record of Music' states that things cause the human heart to be moved. Resonating with things, it takes shape in sounds. Sounds corresponding with each other give life to changes, and changes producing a pattern are called notes. Putting notes together and enjoying them, and adding costumes for dance, is called music.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Musical Theory",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 148,
+    "question": "What were the two main settings for musical performances in ancient China, as described in the text?",
+    "answer": "The two main settings were the ancestral temple and the royal (or ducal) court.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Performance Settings",
+      "book_title": "Ancient Chinese History",
+      "word_count": 18,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 149,
+    "question": "What are the five tones of the ancient Chinese pentatonic scale, and what social ranks did the 'Record of Music' correlate them with?",
+    "answer": "The five tones are gong (do), shang (re), jue (mi), zhi (sol), and yu (la). The 'Record of Music' correlated them with: gong - the ruler; shang - the minister; jue - the people; zhi - events; and yu - objects.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Musical Theory",
+      "book_title": "Ancient Chinese History",
+      "word_count": 49,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 150,
+    "question": "What does Confucius's saying 'The gentleman harmonizes but does not copy; the petty man copies but does not harmonize' mean in the context of music and society?",
+    "answer": "In music, harmony requires different notes working together in the same key, not just copying the same note. Similarly, in society, the gentleman (or noble person) brings his own unique contribution to create social harmony, while the petty man merely copies others without creating a harmonious whole.",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 151,
+    "question": "What was the primary technique used for casting bronze vessels in ancient China, and how did it differ from the 'lost-wax' method?",
+    "answer": "The primary technique was piece-mold casting. This involved creating a clay model, fitting a multi-piece mold around it, removing the model and shaving it down to become the core, then reassembling the mold around the core and pouring molten bronze into the space between. This differed from the lost-wax method used in the West, which used a wax model melted away to create a mold.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Bronze Technology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 76,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 152,
+    "question": "What aesthetic constraint did the piece-mold casting technique impose on Chinese bronze vessels?",
+    "answer": "The need for the mold pieces to be symmetrical about the core so they could be taken apart and reassembled imposed an aesthetic that valued symmetry, both in the shape of the vessels and in their decor.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Artistic Constraints",
+      "book_title": "Ancient Chinese History",
+      "word_count": 41,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 153,
+    "question": "How were inscriptions typically added to bronze vessels during the casting process?",
+    "answer": "The text was incised into clay, which was then impressed onto another clay slab to create a relief version. This slab was then inserted into an excavated space in the model (core). When the vessel was cast, the inscription appeared on the inside, reversed and in intaglio (as if incised).",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Inscription Methods",
+      "book_title": "Ancient Chinese History",
+      "word_count": 57,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 154,
+    "question": "According to traditional accounts, who invented Chinese writing and what was his inspiration?",
+    "answer": "Cangjie, the scribal officer of the Yellow Emperor, invented writing after seeing the tracks and footprints of birds and beasts and realizing their different patterns could be differentiated.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Origins",
+      "book_title": "Ancient Chinese History",
+      "word_count": 37,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 155,
+    "question": "What is a 'combining ideas' character (ideograph)? Give an example from the text.",
+    "answer": "A 'combining ideas' character combines two or more elements to express an idea. An example is 'to see' (jian), which combines an eye with a person.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 156,
+    "question": "What is the 'rebus principle' (loan characters) in the development of Chinese writing, and why was it important?",
+    "answer": "The rebus principle involves borrowing the sound of a word that can be easily drawn as a pictograph to write a homophonous word that is difficult to depict. For example, the pictograph for 'nose' (zi) was used to write the homophonous preposition 'from'. This was important because it allowed abstract words and grammatical particles to be written.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 63,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 157,
+    "question": "What was the decisive development that allowed the Chinese script to write any word in the language, and what is this type of character called?",
+    "answer": "The decisive development was the creation of 'shape-sound' characters. These characters combine a component that suggests the meaning (the semantic radical) with a component that indicates the sound (the phonetic). This allowed for the creation of thousands of distinct characters.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 158,
+    "question": "What are the six types of Chinese characters identified in the Discussing Pictographs and Analyzing Compound Graphs dictionary?",
+    "answer": "The six types are: pictographs, pointing at things characters, combining ideas characters, shape-sound characters, loan characters, and explaining each other characters.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 159,
+    "question": "Can you give examples of 'combining ideas characters' and explain how they work?",
+    "answer": "Sure! Some examples include: 'to follow' (two men, one following the other), 'to see' (an eye with a person), 'to crow' (a mouth and a bird), and 'sickness' (a bed and a man with dots indicating sweat). These characters combine two or more elements to express an idea.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Examples",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 160,
+    "question": "What is the 'rebus principle' in Chinese writing and why was it important?",
+    "answer": "The rebus principle involves borrowing the sound of a word that can be easily drawn as a pictograph to write a homophonous word that's difficult to depict. For example, using the pictograph for 'nose' (zi) to write the homophonous preposition 'from'. This was crucial because it allowed abstract words and grammatical particles to be written.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 58,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 161,
+    "question": "What was the decisive development that made it possible to write any word in Chinese, and what percentage of modern characters use this method?",
+    "answer": "The decisive development was the creation of 'shape-sound characters' that combine a semantic component (meaning) with a phonetic component (sound). More than 90% of characters in modern dictionaries are shape-sound characters.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Writing Systems",
+      "book_title": "Ancient Chinese History",
+      "word_count": 44,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 162,
+    "question": "What are the Five Classics of Chinese literature and which one is considered the first?",
+    "answer": "The Five Classics are: Classic of Changes (Yi jing), Classic of Scriptures (Shu jing), Classic of Poetry (Shi jing), Springs and Autumns (Chunqiu), and the three ritual classics. The Classic of Changes is ranked as the first.",
+    "metadata": {
+      "category": "Literature",
+      "question_type": "Literary Works",
+      "book_title": "Ancient Chinese History",
+      "word_count": 46,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 163,
+    "question": "How was the Classic of Poetry organized and what were its three main sections?",
+    "answer": "The Classic of Poetry contained 305 poems divided into three types: Hymns (sung in the ancestral temple), Odes (praising Zhou dynasty founders and figures), and Airs of the various states (folk songs from thirteen different states).",
+    "metadata": {
+      "category": "Literature",
+      "question_type": "Literary Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 44,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 164,
+    "question": "What philosophical schools emerged during the Warring States period besides Confucianism?",
+    "answer": "Besides Confucianism, other major schools included Daoism (focused on the Way of nature), Mohism (advocating universal love and impartiality), Legalism (emphasizing bureaucratic government and laws), and the School of Names (logicians dealing with logical conundrums).",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Schools",
+      "book_title": "Ancient Chinese History",
+      "word_count": 44,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 165,
+    "question": "What military text from ancient China is considered one of the oldest military treatises in the world?",
+    "answer": "Sunzi's Art of War (Sunzi Bingfa) is regarded as one of the oldest military treatises in the world and has implications beyond the ancient battlefield.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Texts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 29,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 166,
+    "question": "Where was the state of Yan located and why was its location strategically important?",
+    "answer": "Yan was strategically located at the northern entrance to the great North China plain, anchored in the foothills of the Taihang Mountains to the west, the Yanshan Mountains to the north, and the Bay of Bohai to the east - essentially where modern Beijing is located.",
+    "metadata": {
+      "category": "Geography",
+      "question_type": "Strategic Location",
+      "book_title": "Ancient Chinese History",
+      "word_count": 52,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 167,
+    "question": "What archaeological discovery confirmed the tradition about Yan's founding, and what did it reveal?",
+    "answer": "In 1986, bronze vessels excavated from a tomb at Liulihe confirmed the tradition. The inscription on the Ke he vessel records the command to the Duke of Shao's son, Ke, to be lord at Yan and administer six different indigenous peoples, showing Yan was a multi-ethnic state.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 57,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 168,
+    "question": "What controversial decision did King Kuai of Yan make in 318 BCE, and what were the consequences?",
+    "answer": "King Kuai abdicated in favor of his chief minister Zi Zhi, deposing his own son. This attempt to 'exalt the worthy' like ancient sage-kings caused civil war, foreign intervention from Qi and Zhao, and ultimately led to the noble lineages losing their power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Controversial Decisions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 53,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 169,
+    "question": "What famous assassination attempt originated from Yan in 227 BCE, and who were the key figures involved?",
+    "answer": "Jing Ke's attempted assassination of King Zheng of Qin (the future First Emperor). The plot was launched by Huan Yi, former Qin general now serving Yan, with Jing Ke gaining admission to King Zheng by offering Huan Yi's head - Huan Yi had committed suicide to enable the plan.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Assassination Attempts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 170,
+    "question": "Why does the state of Lu hold such prominence in Chinese historical consciousness despite its limited power?",
+    "answer": "Lu's prominence comes from two main factors: it was founded nominally by the Duke of Zhou, one of the most respected figures in early Zhou history, and it was the home state of Confucius, where he lived most of his life and supposedly edited the Springs and Autumns chronicle.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Historical Significance",
+      "book_title": "Ancient Chinese History",
+      "word_count": 59,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 171,
+    "question": "What evidence suggests the Duke of Zhou might have actually gone into exile in Lu rather than voluntarily returning power?",
+    "answer": "There are hints in historical tradition that King Cheng resented the Duke of Zhou's usurpation of power, as did the Duke of Shao. Some sources suggest when the Duke of Zhou returned power, he went into a sort of exile, likely in the Lu area. Bronze inscriptions show him leading military campaigns in the Eastern regions near Lu.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Historical Interpretation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 67,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 172,
+    "question": "How did King Xuan of Zhou's interference in Lu's succession in 817 BCE affect the state?",
+    "answer": "King Xuan forced Duke Wu of Lu to name his younger son Xi as heir instead of the elder son Kuo. This caused turmoil - nine years later, Kuo's son assassinated Duke Yi (Xi), prompting King Xuan to invade Lu. From this time, many lords rebelled against the king's commands, showing how royal interference destabilized the state.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession Crisis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 71,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 173,
+    "question": "What were the 'three grandson lineages' that came to dominate Lu politics, and how did they gain power?",
+    "answer": "The three grandson lineages were: Zhongsun (Meng) from Prince Qingfu, Shusun (Shu) from Prince Ya, and Jisun (Ji) from Prince You. They gained power through the succession struggles after Duke Zhuang's death, eventually reorganizing the Lu army into three divisions under their control, leaving the duke without real power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Factions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 61,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 174,
+    "question": "How is Confucius first mentioned in the Zuo Tradition, and what does this tell us about education in ancient Lu?",
+    "answer": "Confucius is first mentioned when Meng Xizi, after embarrassing himself on a diplomatic mission by bungling ritual protocol, seeks out Confucius as a teacher for his sons on his deathbed. This shows that knowledge of ritual was crucial for nobility, and recognized masters like Confucius could be sought for specialized education.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Education",
+      "book_title": "Ancient Chinese History",
+      "word_count": 65,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 175,
+    "question": "How did the state of Lu finally come to an end, and who was responsible?",
+    "answer": "Unlike other states that were conquered by Qin, Lu was annihilated in 249 BCE by the southern state of Chu, ending its over 700-year history.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Endings",
+      "book_title": "Ancient Chinese History",
+      "word_count": 33,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 176,
+    "question": "How do the archaeological findings at Liulihe (Yan) and Qufu (Lu) complement the historical records about these early Zhou colonies?",
+    "answer": "At Liulihe, bronze inscriptions confirmed the founding of Yan and showed it was multi-ethnic, while at Qufu, burial evidence showed segregation between Zhou rulers and Shang-descended commoners, with Zhou practices eventually prevailing. Both sites demonstrate how archaeology confirms and enriches our understanding from historical texts.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 65,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 177,
+    "question": "According to the text, where was the state of Qi located, and which two states bordered it to the south and north?",
+    "answer": "The state of Qi was located in the northern part of present-day Shandong province, between Lu to the south and Yan to the north.",
+    "metadata": {
+      "category": "Geography",
+      "question_type": "State Locations",
+      "book_title": "Ancient Chinese History",
+      "word_count": 30,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 178,
+    "question": "How did the founder of Qi, Jiang Ziya (Tai Gong Wang), differ from the founders of the states of Lu and Yan?",
+    "answer": "Unlike Lu and Yan, which were founded by blood relations of the Zhou royal house, Qi was founded by Jiang Ziya, also known as Tai Gong Wang, who was a member of the Jiang family lineage, one of the major families of Zhou China that often intermarried with the royal family.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Founders",
+      "book_title": "Ancient Chinese History",
+      "word_count": 58,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 179,
+    "question": "What legendary encounter led to Tai Gong Wang's appointment by King Wen?",
+    "answer": "According to legend, King Wen encountered Tai Gong Wang while he was fishing in the Wei River. King Wen recognized him as a sage and immediately appointed him as Grand Duke.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "Legends",
+      "book_title": "Ancient Chinese History",
+      "word_count": 37,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 180,
+    "question": "What role did Tai Gong Wang play in the Zhou victory over the Shang dynasty, and how is he commemorated?",
+    "answer": "Tai Gong Wang was appointed by King Wu to lead the Zhou army, perhaps because as an easterner he was thought to have inside knowledge of the Shang army. He has become enshrined as the patron saint of generals, and numerous military manuals credit him as the author.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Leadership",
+      "book_title": "Ancient Chinese History",
+      "word_count": 55,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 181,
+    "question": "What archaeological discovery in 1972 provided evidence about a famous military text associated with Tai Gong Wang?",
+    "answer": "In 1972, a fragmentary copy of the 'Six Quivers' (Liu tao) was found in a tomb at Yinqueshan, Linzi, Shandong, within the territory of the state of Qi, showing that the text is quite ancient.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 44,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 182,
+    "question": "What economic advantages did the location of the Qi colony at Yingqiu provide?",
+    "answer": "Located on or near the Bay of Bohai, Qi quickly became rich through seafood and salt.",
+    "metadata": {
+      "category": "Economic History",
+      "question_type": "Economic Advantages",
+      "book_title": "Ancient Chinese History",
+      "word_count": 22,
+      "has_dates": false,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Easy"
+    }
+  },
+  {
+    "id": 183,
+    "question": "Describe the administrative and military structure implemented by Guan Zhong under Duke Huan.",
+    "answer": "Guan Zhong organized the state into a hierarchical structure: seven counties, each divided into three districts (21 total), each district into ten marches, each march into four villages, each village containing five groups of ten families. The army was organized similarly, with each group of ten families contributing five soldiers, each village one chariot, each march a legion of two hundred troops, and each district a regiment of two thousand troops. Theoretically, the Qi army could field 30,000 men and 1,000 chariots.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Administrative Structure",
+      "book_title": "Ancient Chinese History",
+      "word_count": 95,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 184,
+    "question": "What title was Duke Huan of Qi recognized with by the Zhou king, and what did it signify?",
+    "answer": "Duke Huan was recognized as 'Premier' (ba) by the Zhou king, confirming his privileged place as the first among all the lords.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Political Titles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 31,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 185,
+    "question": "What happened after Duke Huan's death that led to a prolonged succession crisis?",
+    "answer": "Duke Huan died, but his sons fought over the succession, blocking access to the ducal palace. His body lay untouched for sixty-seven days, and maggots were crawling out when he was finally examined. The initial successor, Wugui, reigned only three months before being killed, leading to further conflict until Duke Xiao finally took power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Succession Crisis",
+      "book_title": "Ancient Chinese History",
+      "word_count": 65,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 186,
+    "question": "Which family eventually took control of Qi from the original ruling house, and what are the two periods of Qi history called to distinguish them?",
+    "answer": "The Tian family (descendants of the lords of Chen) eventually took control. The subsequent period is usually referred to as 'Tian Qi,' in contrast to the earlier 'Jiang Qi.'",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Dynastic Change",
+      "book_title": "Ancient Chinese History",
+      "word_count": 39,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 187,
+    "question": "What intellectual institution is King Xuan of Qi known for patronizing, and which famous philosopher was among the scholars he hosted?",
+    "answer": "King Xuan is known for his patronage of scholars at the Jixia Academy, and he hosted the philosopher Mencius.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Intellectual Institutions",
+      "book_title": "Ancient Chinese History",
+      "word_count": 28,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 188,
+    "question": "According to Mencius, what were the key characteristics of the kingly government practiced by King Wen?",
+    "answer": "Mencius described King Wen's government as having tillers provide one-ninth of their produce in tax, government servants inheriting their salaries, goods at passes and markets being checked but not taxed, fish traps not prohibited, criminal guilt not extending to family members, and the government extending humaneness to the poor and vulnerable.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Government Principles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 189,
+    "question": "What event in the state of Yan prompted King Xuan of Qi to attack and occupy it, and what was the eventual outcome for Qi?",
+    "answer": "King Kuai of Yan abdicated in favor of his minister Zi Zhi. King Xuan of Qi, fearing this challenged the legitimacy of dynastic rule, attacked and occupied Yan. The occupation turned disastrous, and when the Qi army withdrew, King Wuling of Zhao installed King Zhao of Yan. Decades later, Yan joined other states to attack Qi, forcing King Min to flee and be killed, and Yan captured the Qi capital and treasures. Qi never regained its former power.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Campaigns",
+      "book_title": "Ancient Chinese History",
+      "word_count": 91,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 190,
+    "question": "When was Qi finally conquered, and how did its longevity compare to other states like Lu and Yan?",
+    "answer": "Qi was conquered in 221 BC, and it was the last of the independent states to be conquered by Qin, just like the states of Lu and Yan.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Endings",
+      "book_title": "Ancient Chinese History",
+      "word_count": 36,
+      "has_dates": true,
+      "has_people": false,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 191,
+    "question": "According to the legend, how was the state of Jin founded?",
+    "answer": "According to a story, the young King Cheng of Zhou was playing with his younger brother Shu Yu and told him he was awarding him rule of a state. The royal scribe insisted the king's words must be honored, so Shu Yu was made to rule the state of Tang, which was the precursor to Jin.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "Founding Legends",
+      "book_title": "Ancient Chinese History",
+      "word_count": 63,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 192,
+    "question": "What archaeological discoveries in the 1990s provided evidence about the early lords of Jin?",
+    "answer": "In the early 1990s, archaeologists from Peking University located a cemetery near Houma, Shanxi, identified as containing the tombs of the early lords of Jin. They found tombs arrayed in rows representing eight generations of lords and their wives. In 1998, tomb robbers found an even earlier tomb belonging to Shu Yu, the founder, which contained an inscribed bronze vessel made for him.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 73,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 193,
+    "question": "What major internal conflict affected Jin for several decades, and how was it resolved?",
+    "answer": "After Lord Wen of Jin died, the state split into factions. The main-line lords ruled from the capital Yi, while the Quwo branch, starting with Lord Wen's younger brother Cheng Shi, ruled from Quwo. They fought for decades. In 679 BC, Duke Wu of Quwo finally took the capital, killed the last direct-line ruler Duke Min, and was recognized by the Zhou king as the legitimate ruler of Jin, resolving the conflict.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Internal Conflict",
+      "book_title": "Ancient Chinese History",
+      "word_count": 82,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 194,
+    "question": "Describe the exile of Chonger and his eventual return to power in Jin.",
+    "answer": "Chonger, a son of Duke Xian, went into exile for nineteen years after his father turned against him. He traveled through many states, impressing hosts with his abilities. After his half-brother Duke Hui and then Duke Huai ruled briefly and poorly, Chonger returned with Qin's support, defeated Duke Huai, and became Duke Wen of Jin at sixty-two years old.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Exile and Return",
+      "book_title": "Ancient Chinese History",
+      "word_count": 74,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 195,
+    "question": "What was the significance of the Battle of Chengpu in 632 BC?",
+    "answer": "The Battle of Chengpu was a decisive victory for the Jin coalition, led by Duke Wen, over the Chu army and its allies. It is often considered the most important battle of the Springs and Autumns period. After this defeat, Chu withdrew to its homeland and did not threaten the northern states for several generations. Duke Wen was subsequently appointed premier by the Zhou king.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Battle Significance",
+      "book_title": "Ancient Chinese History",
+      "word_count": 67,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 196,
+    "question": "How did the state of Jin eventually break apart?",
+    "answer": "Jin broke apart due to the rising power of six major lineages—Wei, Zhao, Han, Xun, Zhonghang, and Fan—which became more powerful than the Jin rulers. In 453 BC, the Wei, Zhao, and Han lineages turned on and killed Zhibo of the Xun lineage, dividing his territory. This act is often regarded as the beginning of the Warring States period. Finally, in 403 BC, the three surviving lineages divided Jin into three independent states.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Division",
+      "book_title": "Ancient Chinese History",
+      "word_count": 81,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 197,
+    "question": "What legendary origin is attributed to the state of Wei, and what does archaeology suggest?",
+    "answer": "The state of Wei ostensibly traced its heritage back to Bi Gao, who took part in the Zhou conquest of Shang. Traditional histories suggest his descendants lost their land, but inscribed bronze vessels from the Western Zhou period show the Bi family retained considerable influence throughout the period, with discoveries like the Bi Gong gui-tureens and the Yu Hu ding confirming their continued presence and activity.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "State Origins",
+      "book_title": "Ancient Chinese History",
+      "word_count": 75,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 198,
+    "question": "How did Bi Wan come to be associated with the state of Wei?",
+    "answer": "Bi Wan served as the spearman for Duke Xian of Jin. After Duke Xian defeated the states of Huo, Geng, and Wei in the Fen River valley, he awarded rule of Wei to Bi Wan in recognition of his service. A diviner predicted Bi Wan's descendants would become great, which later came true as Wei grew into a major power.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Formation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 67,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 199,
+    "question": "Who were the three capable ministers Lord Wen of Wei entrusted with government reforms, and what were their contributions?",
+    "answer": "Lord Wen entrusted reforms to Li Kui, Wu Qi, and Ximen Bao. Li Kui stressed agriculture and standardized land plots, influencing later Legalist thought. Wu Qi was a military genius who emphasized discipline and command. Ximen Bao built a network of twelve canals for irrigation, making Wei's heartland the most fertile area of the time.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Government Reforms",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 200,
+    "question": "What significant infrastructure project did Ximen Bao oversee, and what was its impact?",
+    "answer": "Ximen Bao oversaw the building of a network of twelve canals used for irrigation, bringing water from the Yellow River to southwest Shanxi, the heartland of Wei. This made it the most fertile land of the time, and the irrigation network was still in use during the Han dynasty three hundred years later.",
+    "metadata": {
+      "category": "Engineering",
+      "question_type": "Infrastructure Projects",
+      "book_title": "Ancient Chinese History",
+      "word_count": 54,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 201,
+    "question": "How did King Hui of Wei (Lord Huicheng) change the capital and improve transportation?",
+    "answer": "In 361 BC, King Hui moved the capital from Anyi to Daliang, placing it in the center of the north China plain and away from Qin attacks. The next year, he opened the Wild-Goose Canal, linking the Yellow River with the Huai River and connecting with the Ji River of Shandong. This connected all major rivers of the region and was a precursor to the Grand Canal.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Capital Movement",
+      "book_title": "Ancient Chinese History",
+      "word_count": 69,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 202,
+    "question": "What famous philosopher visited King Hui of Liang, and what was one memorable conversation they had?",
+    "answer": "The famous Confucian philosopher Mencius visited King Hui very late in his reign. In one conversation, the king boasted about his conscientious governance during famines, but Mencius used an analogy of soldiers running away from battle to illustrate that the king's efforts, while better than some, were not sufficient to make his population more numerous than his neighbors'.",
+    "metadata": {
+      "category": "Philosophy",
+      "question_type": "Philosophical Dialogues",
+      "book_title": "Ancient Chinese History",
+      "word_count": 70,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 203,
+    "question": "How did the Han lineage first gain a territorial power base in Jin?",
+    "answer": "The Han lineage's power base began with Han Wan, who served as the driver for his uncle Duke Wu of Quwo during an attack on the Jin capital in 678 BC. After the attack succeeded and the ruling lord was captured, Han Wan executed him. For his services, Han Wan was given the territory of Han in the southern part of the state.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Power Acquisition",
+      "book_title": "Ancient Chinese History",
+      "word_count": 68,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 204,
+    "question": "What role did Shen Buhai play in the government of Han, and what was his philosophy?",
+    "answer": "Shen Buhai was appointed chancellor of Han in 351 BC. His philosophy, often called 'form and name,' emphasized that the ruler should use laws and methods to control officials, requiring their performance to match their office's specifications. He advocated for 'wuwei' (non-motivated action), where the ruler avoids arbitrary decisions and lets the government apparatus work correctly without intervention.",
+    "metadata": {
+      "category": "Political Philosophy",
+      "question_type": "Philosophical Concepts",
+      "book_title": "Ancient Chinese History",
+      "word_count": 74,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 205,
+    "question": "How did the state of Han eventually come to an end?",
+    "answer": "Han faced continuous attacks from both Qin and Chu. In 234 BC, King An sent Han Feizi to persuade King Zheng of Qin to relent, but Han Feizi was forced to commit suicide. Three years later, in 230 BC, Qin attacked Han again, took King An prisoner, and absorbed all remaining Han territory into the expanding Qin empire.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "State Endings",
+      "book_title": "Ancient Chinese History",
+      "word_count": 62,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 206,
+    "question": "What legendary origins are attributed to the state of Chu?",
+    "answer": "Chu's origins are traced back to Zhuanxu, a grandson of the Yellow Emperor. His descendant Chong Li was named Zhu Rong (Prayer of Fusion) by Emperor Di Ku. The youngest of Zhu Rong's six sons, Ji Lian, is considered the progenitor of the Chu people. A manuscript called 'Residences of Chu' details Ji Lian's marriage and the birth of his sons, linking the progenitors to the Shang rulers.",
+    "metadata": {
+      "category": "Mythology",
+      "question_type": "State Origins",
+      "book_title": "Ancient Chinese History",
+      "word_count": 75,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 207,
+    "question": "How did the state of Chu get its name, according to the 'Residences of Chu' manuscript?",
+    "answer": "According to the 'Residences of Chu' manuscript, the state got its name from an incident involving Ji Lian (also known as Xue Xiong) and his wife Ancestress Lie. During the difficult birth of their son Li, a magician healed her side with a stick of thorn-wood (chu), and that is why the people were called Chu.",
+    "metadata": {
+      "category": "Cultural History",
+      "question_type": "Etymology",
+      "book_title": "Ancient Chinese History",
+      "word_count": 65,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 208,
+    "question": "What was the outcome of the first major encounter between Chu and the northern state of Qi under Duke Huan?",
+    "answer": "In 656 BC, Duke Huan of Qi led a coalition army to invade Chu. The Chu king sent an envoy to ask why Qi had entered their territory. Guan Zhong, Qi's minister, complained that Chu had not supplied the required tribute to the Zhou king. The Chu envoy acknowledged the fault regarding the tribute but deflected the question about King Zhao's death. After this exchange, the Qi army withdrew without major conflict.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Diplomatic Encounters",
+      "book_title": "Ancient Chinese History",
+      "word_count": 85,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 209,
+    "question": "What infamous event during the reign of King Ping of Chu sowed the seeds for future calamities?",
+    "answer": "King Ping sought a bride from Qin for his crown prince Jian, but when the bride arrived and he found her beautiful, he took her for himself. He then forced the former crown prince Jian into exile and executed the tutor Wu She when he remonstrated. Wu She's son Wu Zixu escaped and later sought revenge against Chu, leading to significant future conflicts.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Controversial Events",
+      "book_title": "Ancient Chinese History",
+      "word_count": 74,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 210,
+    "question": "How did Wu Zixu take revenge on King Ping of Chu after his death?",
+    "answer": "After King Ping's death, Wu Zixu, serving as an advisor to the king of Wu, urged an attack on Chu. When the Wu army entered the Chu capital, Wu Zixu dug up King Ping's grave and whipped the corpse three hundred times to avenge the execution of his father and brother.",
+    "metadata": {
+      "category": "Political History",
+      "question_type": "Revenge",
+      "book_title": "Ancient Chinese History",
+      "word_count": 57,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 211,
+    "question": "How was the state of Zeng brought to modern attention, and what was significant about the discovery?",
+    "answer": "The state of Zeng was brought to modern attention by the discovery of Lord Yi of Zeng's tomb in Suizhou, Hubei, in 1978. This was a major archaeological find, featuring a subterranean palace with four chambers containing bronze ritual vessels, a rack of sixty-four chime bells, musical instruments, weapons, and the remains of female attendants. A bell from King Hui of Chu confirmed the state's name and connections.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Archaeological Discoveries",
+      "book_title": "Ancient Chinese History",
+      "word_count": 73,
+      "has_dates": true,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 212,
+    "question": "What does the inscription on the bells made for Lord Qiu of Zeng reveal about the state's founding?",
+    "answer": "The inscription on Lord Qiu's bells reveals that the state's illustrious high ancestor, Bo Kuo (Nangong Kuo), served Kings Wen and Wu of Zhou. A later descendant, commanded by King Zhao of Zhou, was established in the southern land to campaign against the Huai Peoples and guard the area east of the Han River, thus founding the state of Zeng in the south.",
+    "metadata": {
+      "category": "Archaeology",
+      "question_type": "Inscription Evidence",
+      "book_title": "Ancient Chinese History",
+      "word_count": 72,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": true,
+      "difficulty": "Hard"
+    }
+  },
+  {
+    "id": 213,
+    "question": "What role did a woman named Mi Jia play in the state of Zeng?",
+    "answer": "Mi Jia, a daughter of a king of Chu married to a lord of Zeng, took over control of the Zeng state after her husband died young. An inscription on a set of chime bells she sponsored shows her firmly in control of the government, conducting the state's affairs and ensuring its continuity, providing a fascinating glimpse into the role of women in intrastate relations.",
+    "metadata": {
+      "category": "Social History",
+      "question_type": "Women's Roles",
+      "book_title": "Ancient Chinese History",
+      "word_count": 69,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 214,
+    "question": "According to an inscription on bells for Lord Yu of Zeng, what crucial role did Zeng play in a crisis for Chu?",
+    "answer": "An inscription on bells made for Lord Yu of Zeng claims that when the state of Wu attacked and nearly overran Chu, the majestic Lord of Zeng personally led the military effort, battled for the Chu mandate, and restored the Chu king, playing a crucial role in rescuing Chu during this crisis.",
+    "metadata": {
+      "category": "Military History",
+      "question_type": "Military Alliances",
+      "book_title": "Ancient Chinese History",
+      "word_count": 61,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Medium"
+    }
+  },
+  {
+    "id": 215,
+    "question": "What legendary pedigree did the state of Wu claim, and how is this viewed by historians?",
+    "answer": "Wu claimed descent from the Zhou royal family, specifically from Wu the Eldest and Middle Yong, sons of the pre-dynastic Zhou ruler Gugong Danfu, who went into voluntary exile to the southeast. However, historians believe this pedigree is likely fictional, an attempt to make themselves appear more Chinese after they began interacting with northern states. Early bronze vessels refer to the state as Gongyu or Gongwu, not Wu.",
+    "metadata": {
+      "category": "Historiography",
+      "question_type": "Historical Interpretation",
+      "book_title": "Ancient Chinese History",
+      "word_count": 76,
+      "has_dates": false,
+      "has_people": true,
+      "has_places": false,
+      "difficulty": "Hard"
+    }
+  }
+]
