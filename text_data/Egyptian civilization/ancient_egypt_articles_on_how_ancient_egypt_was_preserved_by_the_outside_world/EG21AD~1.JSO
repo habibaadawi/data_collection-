@@ -1,0 +1,28 @@
+{
+  "source": "books_masroka/egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/66097-Article Text-187325-1-10-20190826.pdf",
+  "title": "egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_66097-Article Text-187325-1-10-20190826",
+  "total_quality_sentences": 117,
+  "total_paragraphs": 3,
+  "paragraphs": [
+    "Peter Burke's definition of \"historiography\" as a specialized kind of social memory is more acceptable. However, Assmann noted that one crucial aspect was lacking: the neutrality of history writing. I have a vivid recollection of the year we spent together in 1994-95, as fellows of the Getty Center, which was then located in Santa Monica. Ginzburg, Barrels and Wines, Old and New, Mnemohistory and Microhistory Aegyptiaca 4 (2019) 130. Scilla argued that shells and other fossils, although often found in mountainous regions, were relics of sea animals.",
+    "Before describing it in detail, we must first recall that fossils were a highly sensitive topic at that time, as they had the potential to challenge the Earth's chronology and thus the Mosaic account of the Flood. He is often described by Scilla as \"sciagurato crapulone,\" a wretched gluttonous man. However, in reality, he was one of the most serious philosophers of antiquity, as learned from Seneca and Pierre Gassendi, who were considered among the most erudite thinkers of their time. This praise of Epicurus would have immediately attracted the attention of religious censors. However, there may be a possible allusion in the following passage: \"It's not so easy to believe that a body can penetrate or transform into something entirely different\" (Scylla, The Vain Speculation, 45).",
+    "In Paolo Rossi's introduction to La vana speculazione, he perceptively observed that a young man who points at fossils on the ground with one hand and offers a shell to Speculation flying above him with the other has an eye on his chest. Rossi's comment, which interprets the eye as the eye of mind, is convincing: Scilla was aware that senses are the ultimate source of truth, but they do not speak for themselves."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/egypt_civilization_ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_66097_Article_Text_187325_1_10_20190826.json",
+    "processed_timestamp": 1763646330.051308,
+    "processing_stats": {
+      "total_paragraphs": 3,
+      "successfully_processed": 3,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.071072",
+    "cleaning_stats": {
+      "original_paragraph_count": 3,
+      "final_paragraph_count": 3,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 2
+    }
+  }
+}

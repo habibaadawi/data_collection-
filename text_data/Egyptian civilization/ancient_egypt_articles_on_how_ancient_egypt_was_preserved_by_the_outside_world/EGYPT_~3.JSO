@@ -1,0 +1,33 @@
+{
+  "source": "books_masroka/egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/105656-Article Text-282504-1-10-20250425-2.pdf",
+  "title": "egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_105656-Article Text-282504-1-10-20250425-2",
+  "total_quality_sentences": 261,
+  "total_paragraphs": 8,
+  "paragraphs": [
+    "Examinations of historical material in various games are becoming an increasingly popular area of academic study. This analysis often focuses primarily on aesthetic representations, but they represent only a small part of the playful experience. Examinations of historical material in games of all kinds have become a more common academic pursuit. However, these analyses often focus primarily on aesthetic and narrative representations, which are just one aspect of the ludic experience. An evocation, however, is about utilizing expectations of a culture (or perhaps more accurately a pseudo-culture); in the context of games, and in contrast to representations, this is less about anchoring media elements to an at least partially historically accurate past, but rather to produce somewhat familiar narrative or ludic effects for consumers of media. Culture in reality is far more complex than it is often portrayed in games.",
+    "Few media consumers may not find these issues jarring. When evoking a historical culture, such problems may not be relevant to a creator's intentions: the aim is usually to access people's existing associations and expectations of it. Aesthetics are often seen as particularly important in Egypomania, and its reception in games poses no exception. Other aspects can also be just as significant.",
+    "The fact that the more powerful new piece is referred to as the bishop suggests much about the European societies that adopted this particular adaptation. As with all forms of evocation and representation, we cannot assume intentionality when games model arguments about the cultures and systems they represent. Indeed, whether intentional or not, they inevitably convey such information. The power of evocation is a double-edged sword. Cultural elements that are evoked, even in highly fantastical cultures, tend to be shared with and can evoke real cultures or pseudo-cultures to varying degrees. Resources can be either discrete items or continuous variables. Expenditure and growth of resources are crucial elements in many simulation-focused games, as they determine the availability of resources.",
+    "Units, meanwhile, are controllable or interactable. They don't have to be sapient actors, like a building, which can be considered a unit because it's treated as a single, cohesive entity that can perform actions such as providing research or producing units. Warhammer 40K is a science fiction setting rather than hard sci-fi: it incorporates futuristic technological aesthetics but does not explore or constrain itself with scientific possibility. Instead, it uses technology to explain effects that are essentially magical. The setting was primarily designed for the tabletop wargame of the same name. In the grimdark genre, a common descriptor is \"war is the only constant.\" This aspect of having an \"economy\" in the game makes Dawn of War more interesting than its tabletop equivalent for our purposes, as it models more of the underlying societal logic for each of its factions than a simple battle situation would.",
+    "The Dawn of War game series provides an apt opportunity to examine the use of mechanics in evoking the cultural elements that underpin the Necrons. People often look at outlets and points where they encounter basic information about ancient Egypt, which suggests that these ideas are widely accepted. The Necron Monolith serves as both the central societal building and a symbol of societal centralization, highlighting how the Necrons organize their society.",
+    "Every faction in Dawn of War has a commander unit, a central \"hero\" figure who can be upgraded while playing through the game's campaign mode. The Necrons' use of this practice, made apparent through its mechanical presentation, transforms the experience for the player, tapping into broader understandings that link it to ancient Egyptian religious associations and negative Western cultural stereotypes surrounding divine transformation. Dawn of War features a morale system, where a morale stat deteriorates during combat. This is exacerbated by certain weaponry, which nominally reflects a unit's perception of the battle. However, units with low morale suffer significant penalties to their attack and defense capabilities, but they do not become disorganized or act independently.",
+    "The concepts of slavery among the Necrons, especially their differentiation from other factions in this regard, are therefore more closely tied to their aesthetic appeal rather than mechanical considerations. The Necrons' ability to self-reconstruct after death through specific abilities presents a similar mechanical framework, altering the game's rules equally among all factions, thus positioning them in a more isolated role. Egyptian ideas about the afterlife cannot be fully understood among beings who have never truly died, even if it's impossible to definitively say they are alive.",
+    "While writing was a minority pursuit throughout the ancient world, modern audiences tend to connect with elite elements of historical cultures due to their wider representation. Children are often encouraged to engage with ancient Egypt through learning hieroglyphs, which fosters stronger connections among modern audiences to ancient literate elites. As a result, these societies appear more communicative. In games, particularly single-player games, the transfer of information often lacks complexity in its mechanical representation. This is because imperfect or delayed information can lead to a frustrating player experience."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/egypt_civilization_ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_105656_Article_Text_282504_1_10_20250425_2.json",
+    "processed_timestamp": 1763646287.4525561,
+    "processing_stats": {
+      "total_paragraphs": 8,
+      "successfully_processed": 8,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.067983",
+    "cleaning_stats": {
+      "original_paragraph_count": 8,
+      "final_paragraph_count": 8,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 0
+    }
+  }
+}

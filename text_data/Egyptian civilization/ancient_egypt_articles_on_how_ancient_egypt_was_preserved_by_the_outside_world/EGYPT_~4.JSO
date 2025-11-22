@@ -1,0 +1,32 @@
+{
+  "source": "books_masroka/egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/48023-Article Text-152949-1-10-20180525.pdf",
+  "title": "egypt_civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_48023-Article Text-152949-1-10-20180525",
+  "total_quality_sentences": 194,
+  "total_paragraphs": 7,
+  "paragraphs": [
+    "Following an overview of Egyptian history and culture, four themed galleries explore Egyptian religion, the afterlife, sculpture, and its interactions with other civilizations. Museums conserve and protect national heritage beyond entertainment, research, and education. Therefore, museum access must be regulated to protect both visitors and the museum collection. For instance, controlling the climate within a museum building is also essential. A rising interest in the formation of national heritage enables museums to highlight their own histories, rather than hiding gaps in the collection through replicas.",
+    "The Papyrus Insinger. In addition, Insinger transferred numerous other objects to the museum, including an interesting collection of Coptic manuscripts. He also acquired many ostraca, such as a mummy and its associated box. The formation of the collection: spending spree. This episode demonstrates that the history of a museum is inextricably linked to its acquisition process. The input \"Aegyptiaca\" appears to be a proper noun, possibly referring to Aegyptiaca, an ancient Egyptian type of fig. However, without additional context or information, I cannot determine the intended meaning or purpose of this term. If you provide the original text, I would be happy to assist with corrections and enhancements. Journal of the History of Reception of Ancient Egypt\nFigure 2: The New Abu Roshas Display\n\nThe new Abu Roshas display features various stones. The Rijksmuseum, which houses Rembrandt's famous Night Watch, has recently removed terms such as \"neger\", \"eskimo\", and \"hottentot\" from its text boards. Some writers have predicted that the Netherlands may be seen as disappearing under a \"suffocating blanket of political correctness\". Dealing with racism and the colonial past is a separate issue from the ethical considerations surrounding the new mummy display. The RMO's decisions were driven by concerns about displaying human remains in the exhibition.",
+    "The child mummy dates back to the Graeco-Roman period, likely between the 1st and 2nd centuries BCE. During this time, Egypt was occupied by Greeks and later Romans, resulting in an intriguing mix of cultures. As a result, the original style of the wrappings remains unknown, and it is unclear whether the mummy featured a Fayoum portrait. After her death, she underwent analysis and partial conservation in 1815.",
+    "She was finally able to return home after numerous discussions and debates, tracing her roots back to distant relatives in South Africa who had settled in Paris. This must be accomplished in a manner consistent with professional standards and the interests and beliefs of members of the community, ethnic or religious groups from which the objects originate. I would like to thank Sylvia Schoske for her kind feedback and open discussion during our visit in the spring of 2016. Weiss, Aesthetics & Science 222 was preserved, as it often remained in the same locations, while the old towns had long since passed away.",
+    "Mummies are a hallmark of ancient Egyptian culture, telling fascinating stories about that culture, the afterlife, and the ancient Egyptians' ideas on what happens after death. A crocodile wrapped around Weiss's book \"Aesthetics & Science\" (volume 224), held by a larger, likely sacred crocodile that had baby crocodiles in its jaws. More common are nests of eggs buried with the crocodile mummy. Crocodile eggs were, however, buried separately, such as at the temple of Medinet Madi. It does not contain enough information to make sense of it, and there is nothing to extract or preserve. A similar example can be found at Lahun, where a group of newly hatched small crocodiles was buried around a larger one. Crocodiles typically lay between 20 and 40 eggs at a time.",
+    "The Leiden baby crocodiles faced both directions, making the concept of \"marching\" less relevant. The Dutch mission subsequently moved north and excavated the church of Abdallah Nirqi. Today, the well-preserved wall paintings are on display at the Nubia Museum in Aswan and the Coptic Museum in Cairo. The other finds were brought to Leiden. History is a dynamic process, and culture continually adapts to changing contexts.",
+    "This mummy was dissected on August 21, 1771, at the house of Count Charles John Bentinck van Nijenhuis. Although this dissection was partly intended as intellectual amusement for distinguished company after lunch, it was taken very seriously, resulting in a report being made."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world/egypt_civilization_ancient_egypt_articles_on_how_ancient_egypt_was_preserved_by_the_outside_world_48023_Article_Text_152949_1_10_20180525.json",
+    "processed_timestamp": 1763646783.4238331,
+    "processing_stats": {
+      "total_paragraphs": 7,
+      "successfully_processed": 7,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.100495",
+    "cleaning_stats": {
+      "original_paragraph_count": 7,
+      "final_paragraph_count": 7,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 4
+    }
+  }
+}
