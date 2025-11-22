@@ -1,0 +1,31 @@
+{
+  "source": "books_masroka/egypt_civilization/reaserch_papers/1409.7006v1.pdf",
+  "title": "egypt_civilization/reaserch_papers_1409.7006v1",
+  "total_quality_sentences": 154,
+  "total_paragraphs": 6,
+  "paragraphs": [
+    "The Egyptian landscape in the Late Pleistocene and early Holocene periods was distinct. During the African Humid Period (AHP), which spanned from approximately 14,800 to 5,500 years ago, the region experienced a cooler, wetter climate characterized by heavy monsoonal rains. The historical consequences of these aridification events are a longstanding and contentious issue. Although the direction of the shift at 100 years before present (BP) is subject to observational error, it coincides with population growth and industrialization in Egypt. S1)",
+    "Although we cannot pinpoint the exact cause of extinction at a specific point in time, the concurrent changes in climate, community composition, and human societies suggest three possible mechanisms that may have contributed to the observed patterns. The Egyptian people transitioned from nomadic pastoralism to settled agriculture following the Agricultural Revolution (AHR). This shift was likely accompanied by an increase in subsistence hunting, which was supported by agriculture. As a result, overall mortality rates may have risen. Although the impact of a species' presence on PSW is correlated with body size. As we observe the community earlier in time, the presence of all species has a lesser impact on PSW, with PSW being closer to zero. This suggests that the historical community was more robust, presumably due to greater redundancy in prey species. The decline in PSW mirrors deviations in PSW away from zero, indicating that earlier communities were more stable and less affected by species removal, whereas recent communities are less stable and more affected by species removal.",
+    "Changes in productivity can alter population-level responses to species interactions. To understand the impact, we conducted a sensitivity analysis to determine how changes in primary productivity influence estimates of population size (PSW). We address changes in habitat productivity by incorporating the following assumptions: 1. When productivity is high, the per-capita contribution of herbivores to population growth increases, thereby elevating the impact of herbivore density on growth.\n2. Since prey are plentiful, the growth of predator populations is not limited by prey density. For instance, short-term environmental changes may be responsible for altering community structure in both limnetic invertebrates and terrestrial vertebrates. This is evident in the alteration of food webs, as seen in studies involving limnetic invertebrates [40] and terrestrial vertebrates [49]. Additionally, shifts in thermal baselines and mismatches in phenology have been observed to directly impact the composition of terrestrial communities [50, 51].",
+    "Theoretical work suggests that climate warming may have a significant impact on trophic chain length and the dynamics between top-down and bottom-up forces in ecosystems. Higher trophic species are at greatest risk. The impact of perturbed ecological communities on species persistence is not well understood, largely due to a lack of knowledge about how animal assemblages and species interactions change over time. Although we cannot attribute causality to a single extinction event, given that each species persists for 180 years on average, we can determine if extinction is predictable.",
+    "We need to assess whether the sensitivity of species to external disturbances can be used to predict their persistence. Persistence is defined as the period of time following the Pleistocene-Holocene transition, which occurred approximately 11,700 years ago. Roberts N, Eastwood WJ, Kuzucuoğlu C, Fiorentino G, Caracuta V. (2011). Climatic, vegetation and cultural change in the eastern Mediterranean during the mid-Holocene environmental transition. De Menocal, P. B. (2001). Cultural responses to climate change during the Late Holocene. De Menocal, P. B. (2004). African Climate Change and Faunal Evolution During the Pliocene-Pleistocene.",
+    "Rohr RP, Scherer H, Kehrli P, Mazza C, Bersier LF. (2010). Modeling food webs: Exploring unexplained structure using latent traits. The probability of a species being locally extinct varies with the treatment allowing first/last occupation to change across two time periods: before and after the recorded event. Random extinction trajectories are shown by the red line. The data points represent the mean and standard deviation of 50,000 replicates, respectively."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/reaserch_papers/egypt_civilization_reaserch_papers_1409_7006v1.json",
+    "processed_timestamp": 1763647488.167372,
+    "processing_stats": {
+      "total_paragraphs": 6,
+      "successfully_processed": 6,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.155544",
+    "cleaning_stats": {
+      "original_paragraph_count": 6,
+      "final_paragraph_count": 6,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 4
+    }
+  }
+}

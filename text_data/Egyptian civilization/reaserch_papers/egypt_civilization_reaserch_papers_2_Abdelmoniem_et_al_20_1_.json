@@ -1,0 +1,27 @@
+{
+  "source": "books_masroka/egypt_civilization/reaserch_papers/2_Abdelmoniem+et+al+20(1).pdf",
+  "title": "egypt_civilization/reaserch_papers_2_Abdelmoniem+et+al+20(1)",
+  "total_quality_sentences": 134,
+  "total_paragraphs": 2,
+  "paragraphs": [
+    "The original binding medium was animal glue. The previous consolidation materials were polyvinyl acetate (PVAC). The identification of the components of ancient Egyptian polychrome coffins is crucial to understanding production methods (Cosentino, 2018), which reveal the state of art and the lives of the Pharaohs during their era. Unfortunately, , 2018) The outer surface of the coffin was covered with a white preparation layer, which was then decorated with painted layers in various colors, including green, blue, yellow, red, and black. The inner surface of the coffin was instead covered with a black resin layer.",
+    "The grain of the blue painted layer could not be seen. The grain of the black painted layer also could not be seen. Our analysis using FTIR enabled us to characterize the materials added during the previous restoration process, including Polyvinyl Acetate (PVAC) and Beeswax."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/reaserch_papers/egypt_civilization_reaserch_papers_2_Abdelmoniem_et_al_20_1_.json",
+    "processed_timestamp": 1763647505.843201,
+    "processing_stats": {
+      "total_paragraphs": 2,
+      "successfully_processed": 2,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.157328",
+    "cleaning_stats": {
+      "original_paragraph_count": 2,
+      "final_paragraph_count": 2,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 1
+    }
+  }
+}

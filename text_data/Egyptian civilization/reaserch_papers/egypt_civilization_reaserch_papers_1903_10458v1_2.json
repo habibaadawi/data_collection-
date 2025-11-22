@@ -1,0 +1,29 @@
+{
+  "source": "books_masroka/egypt_civilization/reaserch_papers/1903.10458v1-2.pdf",
+  "title": "egypt_civilization/reaserch_papers_1903.10458v1-2",
+  "total_quality_sentences": 103,
+  "total_paragraphs": 4,
+  "paragraphs": [
+    "The glaze forms on the outside of the object during firing, resulting in little to no inter-particle glass in the core. 1983) There has been much debate and speculation about the validity of this method. While it's impossible to determine the glazing method with certainty due to the potential complications of hybrid techniques, microstructure still provides valuable information, enabling the sorting of objects into groups based on their microstructure.",
+    "Museum objects require sampling, a problem that hinders the study of large collections of intact artifacts. The OCT operating at 930nm, which falls within the absorption band of Cu2+ ions responsible for the turquoise color of faience objects, exhibited limited probing depth, enabling only the glaze and interaction layers to be visualized in most cases. Limited probing depth prevented the OCT from imaging all layers of the Egyptian faience microstructure. 2 Long-wavelength OCT at 2 μm is based on a Michelson interferometer with a broadband laser source.",
+    "Brighter areas in an OCT image represent regions of high reflectivity. Dark areas indicate minimal change in refractive index, resulting in few photons being scattered back from these regions. The OCT images of Egyptian Faience exhibit differences in microstructure. The interpretation of these images is crucial for understanding how the microstructure varies between objects. However, this increased probing depth comes with a trade-off. The depth resolution has decreased to around 4. 5 micrometers (930 nanometers OCT) (Liang et al.) 2012: A study by Cheung (2015) found that at a depth of ~7 µm (measured using 2-µm OCT), small features or details close together, such as thin gel layers less than 7 µm in the glaze due to weathering, may become unresolvable.",
+    "OCT allows intact objects to be imaged over a large enough area to represent the entire object, whereas SEM requires sampling and each polished section provides only one cross-sectional image."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/reaserch_papers/egypt_civilization_reaserch_papers_1903_10458v1_2.json",
+    "processed_timestamp": 1763647379.239647,
+    "processing_stats": {
+      "total_paragraphs": 4,
+      "successfully_processed": 4,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.146231",
+    "cleaning_stats": {
+      "original_paragraph_count": 4,
+      "final_paragraph_count": 4,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 1
+    }
+  }
+}
