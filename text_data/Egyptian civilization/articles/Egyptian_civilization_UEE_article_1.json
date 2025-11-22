@@ -1,0 +1,35 @@
+{
+  "source": "/Users/habibaadawi/Downloads/new_data/Egyptian civilization/UEE/article 1.txt",
+  "title": "Egyptian civilization/UEE_article 1",
+  "total_quality_sentences": 157,
+  "total_paragraphs": 10,
+  "paragraphs": [
+    "In addition to the names and iconography of the moon, Derchain discussed various Egyptian moon deities and their role in different contexts. These included the celestial body's use in calendars and its perception as an omen, as well as its significance for the afterlife, particularly as presented in the Pyramid Texts. The author has published a study (Altmann-Wendling 2018) on lunar conceptualizations and lunar knowledge, primarily based on religious sources. This work covers the Ptolemaic and Roman periods, as well as earlier periods and authors from classical antiquity. The moon's luminosity is significantly lower than the sun's, but a full moon can still make the night sky appear brighter.",
+    "The Moon was depicted visually in ancient Egyptian rituals from the New Kingdom period onwards. Unlike other natural phenomena, which were often anthropomorphized, the moon was represented as an actual celestial body. This is evident in ritual scenes from this time period, where the moon is shown alongside the moon god Iah, sharing its name. The disk with the wedjat-eye clearly refers to the moon rather than the sun. g Sauneron, 1969: 1-4; Altmann-Wendling, 2018: 610. References to other colors as well as to the \"skin\" of a celestial body might refer to its cratered surface, its appearance during a lunar eclipse, or its changing appearance depending on its phase and position.",
+    "The moon's illumination is comparable to that of the sun during the day and can be used to determine the size of a ruler's territory. The rising of the moon is a particularly impressive sight on the horizon, making the Earth's satellite appear larger and closer due to an optical illusion. The moon's appearance in the west was of great significance. The frequent mention of this in Egyptian texts is a recurring theme that warrants closer examination. g  The text appears to be incomplete and lacks context. The moon's reappearance after the invisibility phase was longed for, likely since the dark, moonless nights had ended. This longing may have been fueled by the implicit affirmation that the moon was not gone forever, and the world continued on its correct course.",
+    "g Chassinat, 1928, p. 208. Altmann-Wendling (2018), pp. 923-961. These deities, once anthropomorphized, could be directly addressed and worshipped, allowing humans to master them through a cultic approach. The moon god Iah is similarly featured with a human body adorned with a moon disk and crescent on his head. This representation is much rarer than that of the lunar disk, reflecting associations with other lunar gods such as Khonsu, Thoth, Min, and Osiris (Altmann-Wendling 2018: 706-707).",
+    "Osiris's resurrection in the afterlife corresponds to the full moon's complete shape. The processes of filling, healing, providing, and counting the lunar eye are closely associated with this conceptualization. This metaphor is mostly applicable to the first crescent after its invisibility, as it is also understood as the birth of the moon.",
+    "g De Rochemonteix and Chassinat, 1887. A person of maturity.  e During the final stages of life, a process known as senescence, occurs where the body undergoes significant changes. This period is characterized by a decline in physical function and an increase in age-related diseases. 13-17) Death and rebirth were equally important stages in the cycle of lunation.",
+    "The divine moon controlled aging and even youth, a desirable quality in a culture seeking to counter death and decay with elaborate rites. The association of fertility with the moon was a widespread phenomenon in ancient Egypt due to its cyclical nature. The moon plays a significant role in socio-political concepts, particularly as a representative of the sun. This notion stems from the moon's resemblance to the sun and its common reference as the sun's companion, or \"second.\"",
+    "The moon controls, in addition to the units of the lunar month, all time units such as hour, day, and year. However, the latter are primarily measured by the sun, not the moon. g  Altmann-Wendling (2018): 93. The lunar month is often considered an idealized form, with a length that varies irregularly between 29 and 30 days. In ancient Egypt, the desire for eternal life played a significant role. As such, predictability and permanence were highly valued. This is reflected in the transformation of Osiris, who symbolized death, into the moon, a feature prominently featured in afterlife texts dating back to the Middle Kingdom period (Altmann-Wendling 2018: 681-698).",
+    "The correct course of the lunation, in addition to the sun's course, was considered a manifestation of creation and the functioning world order, maat. However, the literal translation is plausible, as there are designations such as \"pillar\" (Iun) or \"pillar of the sky\" (Iun-en-pet) for the moon. For example, Clère (1961: pl. 13) notes this. The moon's influence on inundation is attributed to Greek author Plutarch (De Iside et Osiride 43 [368B-C]; trans.)",
+    "The first is eclectic, while the last two complement each other chronologically. García Fernández covers sources up to the New Kingdom, and Altmann-Wendling focuses on the Late, Ptolemaic, and Roman periods. In accordance with available sources, García Fernández (2017a, 2017b) includes literary, onomastic, and administrative texts alongside religious funerary sources. In contrast, Altmann-Wendling (2018) primarily focuses on temple texts, while also incorporating sepulchral texts and iconographic sources into its analysis."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/articles/Egyptian_civilization_UEE_article_1.json",
+    "processed_timestamp": 1763646965.859659,
+    "processing_stats": {
+      "total_paragraphs": 10,
+      "successfully_processed": 10,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.112559",
+    "cleaning_stats": {
+      "original_paragraph_count": 10,
+      "final_paragraph_count": 10,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 4
+    }
+  }
+}

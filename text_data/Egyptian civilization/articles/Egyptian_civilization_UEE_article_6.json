@@ -1,0 +1,30 @@
+{
+  "source": "/Users/habibaadawi/Downloads/new_data/Egyptian civilization/UEE/article 6.txt",
+  "title": "Egyptian civilization/UEE_article 6",
+  "total_quality_sentences": 88,
+  "total_paragraphs": 5,
+  "paragraphs": [
+    "The vulnerability of wood to moisture and other threats, including termites, has often been overlooked. Fortunately, evidence survives to confirm that wooden sculpture played a significant role in ancient funerary and ritual practices. We should bear in mind, however, that as yet relatively few statues have had their wooden statuary restored. The inscriptions accompanying these scenes rarely refer to the statues depicted. However, the tools shown are a good indication of the material in question. An adze in the hand of a workman suggests that the material is wood, while hammers and mallets typically indicate that they are used for working stone.",
+    "Few conclusions can be drawn from this, however, beyond noting that the wooden statues from Beni Hassan tend to have extremely large, painted eyes. During the New Kingdom and later, the main workshops were located in Thebes and Memphis. It will come as no surprise that most provenanced statues from these periods originate from these two locations. As we move on in time, the number of wooden statues in each tomb increases, while their size and quality decrease.",
+    "The well-known offering formula \"for the ka of\" does not appear until the very end of the period. However, it became a standard during the First Intermediate Period and the Middle Kingdom. During the First Intermediate Period and Middle Kingdom, the focus shifted from the tomb owner and his wife to include models of daily life. As the period progresses, the quality of figures and models generally declines, with a few exceptions remaining.",
+    "The average size of wooden statues decreased after the 11th Dynasty. Although the range of costumes and wigs on male statues was broader, it remained impossible to identify specific costumes and wigs associated with particular offices. Pair statues are extremely rare throughout history. For instance, only a few examples are known from the second half of the 18th Dynasty.",
+    "The latter show the king striding while wearing a white or red crown, harpooning in a papyrus skiff, or standing on the back of a panther. Votive statues of the deified Ahmose-Nefertari became popular during the Ramesside Period. During the Third Intermediate Period, Late Period, and Ptolemaic and Roman Periods, private wooden statuary becomes much less common."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/articles/Egyptian_civilization_UEE_article_6.json",
+    "processed_timestamp": 1763646831.767672,
+    "processing_stats": {
+      "total_paragraphs": 5,
+      "successfully_processed": 5,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.104316",
+    "cleaning_stats": {
+      "original_paragraph_count": 5,
+      "final_paragraph_count": 5,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 2
+    }
+  }
+}

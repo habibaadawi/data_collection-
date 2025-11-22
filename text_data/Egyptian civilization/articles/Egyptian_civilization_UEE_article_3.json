@@ -1,0 +1,31 @@
+{
+  "source": "/Users/habibaadawi/Downloads/new_data/Egyptian civilization/UEE/article 3.txt",
+  "title": "Egyptian civilization/UEE_article 3",
+  "total_quality_sentences": 100,
+  "total_paragraphs": 6,
+  "paragraphs": [
+    "The moon, with its easily perceivable and regularly changing shape, is virtually ideal as a timekeeping instrument. Its ever-repeating cycle of phases - from invisibility to fullness and back again - vividly illustrates the ancient Egyptian concept of cyclical time and eternity. However, upon closer inspection, the moon's role as a timekeeper has two significant drawbacks: Firstly, its lunar month can vary in length between 29 and 30 days.",
+    "It is likely that an Egyptian lunar calendar existed during the Predynastic and Protodynastic periods, which are often referred to as Dynasty 0. As Sirius rises with the sun, it becomes visible in the eastern sky just before dawn, appearing for the first time after being hidden from view in the night sky. They argue that this can be explained in two ways. On one hand, it explains a single year length as recorded on the Palermo stone. : 323) There is nevertheless mutual agreement that a lunar calendar existed prior to the inception of the civil calendar. g Spalinger (2018): 4; Depuydt (2017): 273; Belmonte and Lull (2023): 328.",
+    "Both dates are incomplete. One records a Wägy-feast on the third month [day 28], with the season missing. The other mentions an event after the Wägy-feast in the first month of the Axt season, but lacks the day number. The event following the feast likely took place on a day between January 23rd and January 29th. The moon's changing shape held significant importance in the religious and cultic spheres, even after the introduction of the civil calendar. Some lunar events relate to specific phases of the moon, including new moon, first crescent, first quarter, full moon, and last quarter. Others are based on numbers, like the sixth or eighth month, while a few pertain to specific festivals.",
+    "The names in the astronomical frieze of the Temple of Edfu appear to follow closely the ones found in the Eighteenth Dynasty tomb of Senenmut at Deir el-Bahri. However, it is more evident how similar the Greek month names are to those in various sources from Deir el-Medina. Belmonte and Lull (2023) suggest that the two sets of month names represent an older set (Senenmut) and a newer set (Deir el-Medina), with the transition occurring sometime during the New Kingdom. The use in Egypt was relatively limited, mainly among the circle of rulers' representatives and those who interacted with them.",
+    "Lunar Cycles – Papyrus Carlsberg 9\n\nBy the Ptolemaic and Roman periods at the latest, the Egyptians were aware that lunar phases repeat themselves with a high degree of accuracy after approximately 25 years in their civil calendar. This is because 25 Egyptian civil years add up to 9,125 days, which is equivalent to about 309 lunar months. 9,124 95 days Between these two dates lies a lunar month whose beginning is not stated. Parker's \"The Calendars of Ancient Egypt\" (1950) remains a foundational text for understanding time-keeping in ancient Egypt. Its influence can be seen in later works, making it an essential read for anyone seeking to grasp this aspect of ancient Egyptian culture.",
+    "Depuydt (1997, 2017) and Krauss (1985) argued for the existence of a parallel lunar calendar to the civil calendar, while Spalinger (2018), Belmonte (2003), and Belmonte and Lull (2023) dispute its presence once the civil calendar is in use. There is consensus that some form of lunar time-keeping was crucial throughout ancient Egyptian history."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/articles/Egyptian_civilization_UEE_article_3.json",
+    "processed_timestamp": 1763647168.2282119,
+    "processing_stats": {
+      "total_paragraphs": 6,
+      "successfully_processed": 6,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.128323",
+    "cleaning_stats": {
+      "original_paragraph_count": 6,
+      "final_paragraph_count": 6,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 1
+    }
+  }
+}

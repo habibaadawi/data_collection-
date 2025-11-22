@@ -1,0 +1,33 @@
+{
+  "source": "/Users/habibaadawi/Downloads/new_data/Egyptian civilization/UEE/article 4.txt",
+  "title": "Egyptian civilization/UEE_article 4",
+  "total_quality_sentences": 117,
+  "total_paragraphs": 8,
+  "paragraphs": [
+    "If exposed to higher temperatures, the clay would eventually become fully vitrified. Kilns and Firing Structures, Nicholson, UEE 2010\nOpen Firing\n\nAmong the methods that do not employ a fixed kiln structure, open firing stands out. This method is sometimes referred to as \"bonfire firing,\" although the term implies a less orderly arrangement than usual. Firing that is open to the elements can be affected by a lack of control over the firing process, as well as the smudging of the vessels due to contact with fuel. Additionally, it is vulnerable to unexpected changes in weather conditions.",
+    "Firing Structures at Hierakonpolis\n\nThe arrangement described by Harlan (1982) and Hoffman (1982: 7-14) at Hierakonpolis, locality 11C, may represent a development from simple open firing. Dated to circa 3200-3100 BCE, the structure is a pit in the ground that appears to have contained fuel. The vessels to be fired stood on \"dog-biscuit shaped blocks,\" approximately 150-250 mm high.",
+    "There are no errors or inconsistencies that need to be addressed. The fire may be located either inside the wall or, as illustrated by the Amarna example below, outside it and entering through an opening at the base of the wall.",
+    "In types 1 through 3, the checker rested on walls or pillars. In types 4 and 5, it was supported by projections around the wall, rather than extending onto a central support. Fly ash is undesirable, especially when firing vessels with decorative surfaces or glazed wares. Glazed pottery, for example, has been found in Egypt dating back to Roman times. They were not common in antiquity; however, and the difficulty was often overcome by using \"saggars.\" Ceramic saggars were used as containers, stacked one on top of the other. They were designed to hold pottery that had been damaged by exposure to fly ash or soot from smoke. The pottery was then fired in the saggar to protect it from further damage.",
+    "This arrangement is known from Europe during the Roman period. Although it has not been found in Egypt, it would not be surprising if it were discovered there. If If you'd like to provide the text, I can assist you with corrections and enhancements. Faience Kilns\nFaience kilns are sometimes referred to as furnaces by archaeologists. They are believed to have operated at very high temperatures, likely due to their size during Roman times.",
+    "More evidence for faience production is available during the New Kingdom period, particularly at el-Amarna. Pottery and faience were sometimes fired in the same kilns, although not at the same time. This was due to differing temperature requirements and the need for saggars in faience production. Some faience was likely fired in saggars during the New Kingdom period. These pieces are well-documented from the Roman Period at Kom el-Helul, Memphis.",
+    "James Harrell (personal communication, January 2010) notes that the use of lime plaster is not certainly recorded before the Ptolemaic era. Consequently, the occurrence of lime kilns cannot be expected before this date. Henein (2002) notes the use of a combined pottery and lime kiln in Kilns and Firing Structures. In Dakhla Oasis, Nicholson records an 8th-century practice (2010), which appears to be a localized Islamic-era technique that warrants further investigation. Lime kilns are typically excluded from discussions on kiln technology due to their specialized nature.",
+    "Henry Hodges' classic work, \"Artifacts\" (1981), is still a useful foundation for grasping the subject, complemented by Rice's 1987 publication on kilns and their role in ceramic production."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/articles/Egyptian_civilization_UEE_article_4.json",
+    "processed_timestamp": 1763647245.666327,
+    "processing_stats": {
+      "total_paragraphs": 8,
+      "successfully_processed": 8,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.134807",
+    "cleaning_stats": {
+      "original_paragraph_count": 8,
+      "final_paragraph_count": 8,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 4
+    }
+  }
+}

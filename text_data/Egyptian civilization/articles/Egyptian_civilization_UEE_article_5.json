@@ -1,0 +1,32 @@
+{
+  "source": "/Users/habibaadawi/Downloads/new_data/Egyptian civilization/UEE/article 5.txt",
+  "title": "Egyptian civilization/UEE_article 5",
+  "total_quality_sentences": 86,
+  "total_paragraphs": 7,
+  "paragraphs": [
+    "Within Egyptology, these sun-dried building blocks are traditionally identified as mud-bricks, rather than adobe. However, they are increasingly being labeled as unfired brick in an effort to shift away from a Nilocentric perspective that focuses on bricks fabricated with riverine sediment to a more inclusive term that explicitly includes bricks made with desert sands and marls. Bricks that have not been tempered can absorb more moisture from the air, leading to slow drying, shrinkage, cracking, and a loss of shape. Straw in Egypt today is sold by the hamla or himl, a measure of 555 pounds. This quantity is theoretically equivalent to what a donkey can carry in its baskets (Fathy 1989: 198-199; Henein 1988: 38). As a result, proportions in modern Egyptian mud-brick recipes are usually expressed by volume rather than weight (Henein 1988: 40, note 1).",
+    "Despite the use of double molds in some regions of the southwestern United States (Hohn 2003), Egyptians predominantly utilize single molds. The earth and straw mixture is carried in flat, round baskets from the preparation area, known as the makhmara, to a brick field where straw has been spread to prevent the molded bricks from sticking to the ground surface during drying. The wooden mold is quickly dipped in water to prevent the earth-straw mixture from adhering to it during the molding process. It is then filled to about capacity with the earth-straw mixture, which is compacted and flattened out.",
+    "In ancient Egypt, the style of wooden brick molds used to produce bricks was uniform. However, the size of the molds and consequently the bricks varied significantly. This lack of standardization resulted in a wide range of brick sizes. This trend is only broadly true for Egypt and should not be taken as chronologically diagnostic. The consideration of Mud-Brick, Emery, and other factors such as brick sizes through time also reveal differences in size based on the type of construction and the sponsoring agent of that construction. However, brick size cannot be applied indiscriminately as a means to draw conclusions about a structure's function or those who initiated its construction. The reuse of old mud-bricks in new constructions was a common practice, particularly evident on the Theban west bank, where large, stamped mud-bricks from royal funerary complexes were increasingly reemployed in domestic contexts. Although brick sizes are not solely sufficient to determine clearly either the date of construction or the function of a structure, considering varying brick sizes within a site can provide valuable information to aid in establishing relative chronology specific to that site. (Mond and Myers 1934: 47-52) 3",
+    "The laying of walls and the construction of flat roofs is generally non-specialized. In contrast, the erection of domes and vaults requires specialized expertise. This knowledge survives in the southern-most reaches of Egypt and into the Sudan, where Nubians employed techniques similar to those used by ancient Egyptians to create vaults. These structures did not require expensive wooden framing to hold bricks in place during construction. Based on the depiction of production and construction, it can be inferred that the two processes were considered as separate enterprises. The brick production was supervised by one overseer positioned on a brick facing left in the upper subregister, while the construction was directed by a second overseer facing right towards the ramp being built.",
+    "Representations of brick-making during foundation ceremonies are rarely attested. For example, during the reign of Hatshepsut, the queen/king, accompanied by her ka, kneels to form a brick in a mold. The scene is labeled \"making bricks.\"  1) During the New Kingdom, four magic mud-bricks, one for each cardinal direction, were incorporated into tombs as part of funerary equipment. They were recovered from the royal tombs of Thutmose IV, Amenhotep III, Tutankhamun, Ay, Horemheb, Ramesses I, Sety I, and Ramesses II, as well as those of queens Nefertari and Benteshen. As well as occurring in funerary contexts, bricks with magically protective qualities were also used during births.",
+    "A single example of a decorated birth brick, known from textual and representational sources, was discovered during excavations at South Abydos in the Middle Kingdom town adjacent to the memorial complex of Senusret III. Anthropomorphic and zoomorphic figures, typically depicted protecting the sun god Ra during his daily rebirth on the eastern horizon, adorn the preserved sides of the brick. These magical scenes are reminiscent of Middle Kingdom \"magical knives\" and are linked to beliefs concerning funerary practices and the afterlife (Roth and Roehrig 2002: 136-137; Wegner 2002: 3-4). The earliest known examples of stamped bricks date back to the reign of Pharaoh Ahmose I, the first ruler of the 18th Dynasty.",
+    "The names of kings are encircled by simple ovals or true cartouches, while the names of high priests of Amen found on stamps from the 21st Dynasty are enclosed in rectangles. The names of buildings or complexes are more commonly enclosed in rectangles (Spencer 1979: 144). The majority of stamped bricks from the 18th Dynasty are reported to come from the Theban area, particularly the west bank royal memorial complexes. This is confirmed by Spencer's work (1979: 144). Stamped bricks are also attested during this period in other parts of the country, such as in Ahmose's constructions at Abydos (Harvey 1998: 186-209). Additionally, stamped bricks from later periods have been found outside Thebes (Spencer 1979: 108)."
+  ],
+  "processing_metadata": {
+    "original_file": "processed_books/Egyptian civilization/articles/Egyptian_civilization_UEE_article_5.json",
+    "processed_timestamp": 1763647345.331105,
+    "processing_stats": {
+      "total_paragraphs": 7,
+      "successfully_processed": 7,
+      "errors": 0
+    },
+    "model_used": "llama3.2:3b",
+    "cleaned_timestamp": "2025-11-22T01:04:00.142648",
+    "cleaning_stats": {
+      "original_paragraph_count": 7,
+      "final_paragraph_count": 7,
+      "removed_paragraphs": 0,
+      "modified_paragraphs": 3
+    }
+  }
+}
